@@ -1,0 +1,1974 @@
+{"index" : {"_id":"1"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"7 RUE DU MARCHE ST HONORE"},"location":{"lat":48.8661307,"lon":2.3311526},"nbOfRoom":4,"price":121856,"surface":32}
+{"index" : {"_id":"2"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"23 RUE MONTORGUEIL"},"location":{"lat":48.864107,"lon":2.3464971},"nbOfRoom":4,"price":233220,"surface":52}
+{"index" : {"_id":"3"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"21 RUE DES PETITS CHAMPS"},"location":{"lat":48.86652,"lon":2.337673},"nbOfRoom":4,"price":88032,"surface":24}
+{"index" : {"_id":"4"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"55 RUE DES PETITS CHAMPS"},"location":{"lat":48.8671939,"lon":2.3347785},"nbOfRoom":4,"price":69048,"surface":56}
+{"index" : {"_id":"5"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"12 RUE DU CHEVALIER DE ST GEORGE"},"location":{"lat":48.8685958,"lon":2.3251268},"nbOfRoom":4,"price":440912,"surface":68}
+{"index" : {"_id":"6"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"164 RUE SAINT HONORE"},"location":{"lat":48.862191,"lon":2.3396426},"nbOfRoom":4,"price":292656,"surface":52}
+{"index" : {"_id":"7"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"23 RUE DE CHOISEUL"},"location":{"lat":48.8705556,"lon":2.3358864},"nbOfRoom":4,"price":45584,"surface":28}
+{"index" : {"_id":"8"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"6 RUE DANIELLE CASANOVA"},"location":{"lat":48.867716,"lon":2.333023},"nbOfRoom":4,"price":101192,"surface":56}
+{"index" : {"_id":"9"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"178 RUE MONTMARTRE"},"location":{"lat":48.8711873,"lon":2.3430728},"nbOfRoom":4,"price":212220,"surface":36}
+{"index" : {"_id":"10"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"24 RUE DE LA PAIX"},"location":{"lat":48.8699314,"lon":2.3320751},"nbOfRoom":4,"price":129360,"surface":28}
+{"index" : {"_id":"11"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"7 RUE DES PETITS CARREAUX"},"location":{"lat":48.8667193,"lon":2.3471361},"nbOfRoom":4,"price":76080,"surface":20}
+{"index" : {"_id":"12"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"143 RUE SAINT DENIS"},"location":{"lat":48.8626681,"lon":2.3495752},"nbOfRoom":4,"price":181800,"surface":40}
+{"index" : {"_id":"13"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"91 BOULEVARD BEAUMARCHAIS"},"location":{"lat":48.8593755,"lon":2.3673858},"nbOfRoom":4,"price":36092,"surface":28}
+{"index" : {"_id":"14"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"54 RUE RAMBUTEAU"},"location":{"lat":48.8616411,"lon":2.3519859},"nbOfRoom":4,"price":87960,"surface":40}
+{"index" : {"_id":"15"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"88 BOULEVARD DE SEBASTOPOL"},"location":{"lat":48.8658876,"lon":2.352556},"nbOfRoom":4,"price":273280,"surface":40}
+{"index" : {"_id":"16"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"143 RUE DU TEMPLE"},"location":{"lat":48.8638,"lon":2.3585657},"nbOfRoom":4,"price":55296,"surface":48}
+{"index" : {"_id":"17"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"95 RUE DE TURENNE"},"location":{"lat":48.8611347,"lon":2.364488},"nbOfRoom":4,"price":279480,"surface":68}
+{"index" : {"_id":"18"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"27 BOULEVARD HENRI IV"},"location":{"lat":48.8519985,"lon":2.3647948},"nbOfRoom":4,"price":26460,"surface":20}
+{"index" : {"_id":"19"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"8 RUE JEAN DU BELLAY"},"location":{"lat":48.8530396,"lon":2.3537559},"nbOfRoom":4,"price":136080,"surface":56}
+{"index" : {"_id":"20"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"1 RUE RAMBUTEAU"},"location":{"lat":48.8601034,"lon":2.3566031},"nbOfRoom":4,"price":106556,"surface":68}
+{"index" : {"_id":"21"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"21 RUE SAINT ANTOINE"},"location":{"lat":48.8535523,"lon":2.3657926},"nbOfRoom":4,"price":178920,"surface":56}
+{"index" : {"_id":"22"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"18 RUE SAINT MARTIN"},"location":{"lat":48.8583244,"lon":2.3499582},"nbOfRoom":4,"price":54288,"surface":52}
+{"index" : {"_id":"23"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"10 BOULEVARD DE SEBASTOPOL"},"location":{"lat":48.8591827,"lon":2.3488081},"nbOfRoom":4,"price":101660,"surface":52}
+{"index" : {"_id":"24"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"6 RUE DES ECOLES"},"location":{"lat":48.8480432,"lon":2.3510093},"nbOfRoom":4,"price":232764,"surface":68}
+{"index" : {"_id":"25"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"20 RUE DES \u00c9COLES"},"location":{"lat":48.8486599,"lon":2.3487031},"nbOfRoom":4,"price":118756,"surface":44}
+{"index" : {"_id":"26"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"28 BOULEVARD DE L HOPITAL"},"location":{"lat":48.84112380000001,"lon":2.362649960000001},"nbOfRoom":4,"price":246432,"surface":68}
+{"index" : {"_id":"27"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"11 RUE LAGRANGE"},"location":{"lat":48.8512219,"lon":2.3481929},"nbOfRoom":4,"price":240064,"surface":44}
+{"index" : {"_id":"28"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"96 RUE MONGE"},"location":{"lat":48.8407303,"lon":2.3515551},"nbOfRoom":4,"price":196800,"surface":40}
+{"index" : {"_id":"29"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"6 PL ALPHONSE LAVERAN"},"location":{"lat":48.8407915,"lon":2.3406684},"nbOfRoom":4,"price":328752,"surface":72}
+{"index" : {"_id":"30"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"76 BOULEVARD SAINT MARCEL"},"location":{"lat":48.8375463,"lon":2.3536048},"nbOfRoom":4,"price":127728,"surface":48}
+{"index" : {"_id":"31"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"49 RUE DES ECOLES"},"location":{"lat":48.8499214,"lon":2.3434061},"nbOfRoom":4,"price":361760,"surface":68}
+{"index" : {"_id":"32"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"122 RUE DU CHERCHE MIDI"},"location":{"lat":48.8459997,"lon":2.3198044},"nbOfRoom":4,"price":189840,"surface":28}
+{"index" : {"_id":"33"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"48 RUE JACOB"},"location":{"lat":48.8559452,"lon":2.3328547},"nbOfRoom":4,"price":91224,"surface":72}
+{"index" : {"_id":"34"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"7 RUE NOTRE DAME DES CHAMPS"},"location":{"lat":48.8465829,"lon":2.3273297},"nbOfRoom":4,"price":234120,"surface":60}
+{"index" : {"_id":"35"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"131 BOULEVARD RASPAIL"},"location":{"lat":48.8440591,"lon":2.3291904},"nbOfRoom":4,"price":115776,"surface":36}
+{"index" : {"_id":"36"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"145 RUE DE RENNES"},"location":{"lat":48.8458505,"lon":2.3259774},"nbOfRoom":4,"price":441000,"surface":72}
+{"index" : {"_id":"37"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"44 RUE SAINT ANDRE DES ARTS"},"location":{"lat":48.8535776,"lon":2.3389152},"nbOfRoom":4,"price":156888,"surface":72}
+{"index" : {"_id":"38"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"28 RUE DE SEINE"},"location":{"lat":48.8555616,"lon":2.3366897},"nbOfRoom":4,"price":73440,"surface":40}
+{"index" : {"_id":"39"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"6 RUE DE BABYLONE"},"location":{"lat":48.8517847,"lon":2.3257915},"nbOfRoom":4,"price":185568,"surface":48}
+{"index" : {"_id":"40"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"70 RUE DU BAC"},"location":{"lat":48.8555391,"lon":2.3250515},"nbOfRoom":4,"price":191048,"surface":44}
+{"index" : {"_id":"41"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"1 PL DE BRETEUIL"},"location":{"lat":48.8477014,"lon":2.3122393},"nbOfRoom":4,"price":279532,"surface":44}
+{"index" : {"_id":"42"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"151 RUE DE GRENELLE"},"location":{"lat":48.8578654,"lon":2.3074783},"nbOfRoom":4,"price":102480,"surface":48}
+{"index" : {"_id":"43"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"24 RUE DE MONTTESSUY"},"location":{"lat":48.8593786,"lon":2.298096},"nbOfRoom":4,"price":25104,"surface":24}
+{"index" : {"_id":"44"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"23 AVENUE RAPP"},"location":{"lat":48.8597976,"lon":2.3010849},"nbOfRoom":4,"price":409472,"surface":64}
+{"index" : {"_id":"45"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"40 RUE VANEAU"},"location":{"lat":48.8518471,"lon":2.3189437},"nbOfRoom":4,"price":79324,"surface":28}
+{"index" : {"_id":"46"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"26 AVENUE DE TOURVILLE"},"location":{"lat":48.8541283,"lon":2.3084409},"nbOfRoom":4,"price":162864,"surface":36}
+{"index" : {"_id":"47"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"39 RUE DE L ARCADE"},"location":{"lat":48.87340754,"lon":2.32433125},"nbOfRoom":4,"price":92136,"surface":24}
+{"index" : {"_id":"48"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"15 BOULEVARD DES BATIGNOLLES"},"location":{"lat":48.883013870000006,"lon":2.3255530000000006},"nbOfRoom":4,"price":243648,"surface":36}
+{"index" : {"_id":"49"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"48 RUE DE BERRI"},"location":{"lat":48.87470109,"lon":2.30817851},"nbOfRoom":4,"price":169856,"surface":32}
+{"index" : {"_id":"50"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"62 AVENUE DES CHAMPS ELYS\u00c9ES"},"location":{"lat":48.8707851,"lon":2.3055599},"nbOfRoom":4,"price":178828,"surface":76}
+{"index" : {"_id":"51"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"133 AVENUE DES CHAMPS ELYSEES"},"location":{"lat":48.8727993,"lon":2.297003},"nbOfRoom":4,"price":96120,"surface":72}
+{"index" : {"_id":"52"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"63 RUE DE COURCELLES"},"location":{"lat":48.877693709999996,"lon":2.30601937},"nbOfRoom":4,"price":82368,"surface":44}
+{"index" : {"_id":"53"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"29 AVENUE DE FRIEDLAND"},"location":{"lat":48.8741607,"lon":2.300587},"nbOfRoom":4,"price":315504,"surface":72}
+{"index" : {"_id":"54"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"64 BOULEVARD MALESHERBES"},"location":{"lat":48.87796301,"lon":2.3160842699999997},"nbOfRoom":4,"price":210320,"surface":44}
+{"index" : {"_id":"55"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"58 RUE DE MIROMESNIL"},"location":{"lat":48.87540266,"lon":2.31576607},"nbOfRoom":4,"price":52608,"surface":48}
+{"index" : {"_id":"56"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"5 PL BLANCHE"},"location":{"lat":48.8839611,"lon":2.3323216},"nbOfRoom":4,"price":121408,"surface":28}
+{"index" : {"_id":"57"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"35 RUE BLANCHE"},"location":{"lat":48.8799981,"lon":2.3313436},"nbOfRoom":4,"price":434592,"surface":72}
+{"index" : {"_id":"58"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"24 RUE DE CAUMARTIN"},"location":{"lat":48.8718619,"lon":2.3282461},"nbOfRoom":4,"price":78680,"surface":28}
+{"index" : {"_id":"59"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"57 RUE DE CHATEAUDUN"},"location":{"lat":48.8762595,"lon":2.3326027},"nbOfRoom":4,"price":82896,"surface":48}
+{"index" : {"_id":"60"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"54 RUE DE LA CHAUSS\u00c9E D ANTIN"},"location":{"lat":48.874210860000005,"lon":2.3327507100000004},"nbOfRoom":4,"price":347648,"surface":64}
+{"index" : {"_id":"61"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"19 RUE DROUOT"},"location":{"lat":48.8739328,"lon":2.3406145},"nbOfRoom":4,"price":383820,"surface":60}
+{"index" : {"_id":"62"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"11 RUE LA FAYETTE"},"location":{"lat":48.8737927,"lon":2.3355997},"nbOfRoom":4,"price":25440,"surface":24}
+{"index" : {"_id":"63"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"61 RUE DE MAUBEUGE"},"location":{"lat":48.8760706,"lon":2.3402927},"nbOfRoom":4,"price":271960,"surface":52}
+{"index" : {"_id":"64"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"38 RUE NOTRE DAME DE LORETTE"},"location":{"lat":48.8789636,"lon":2.3369894},"nbOfRoom":4,"price":384160,"surface":56}
+{"index" : {"_id":"65"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"5 BOULEVARD DE ROCHECHOUART"},"location":{"lat":48.8819994,"lon":2.3397196},"nbOfRoom":4,"price":228912,"surface":76}
+{"index" : {"_id":"66"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"34 RUE SAINT LAZARE"},"location":{"lat":48.8768292,"lon":2.3360129},"nbOfRoom":4,"price":228704,"surface":56}
+{"index" : {"_id":"67"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"87 RUE SAINT LAZARE"},"location":{"lat":48.8758728,"lon":2.3299227},"nbOfRoom":4,"price":240300,"surface":60}
+{"index" : {"_id":"68"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"2 AVENUE TRUDAINE"},"location":{"lat":48.8819985,"lon":2.3461114},"nbOfRoom":4,"price":170200,"surface":40}
+{"index" : {"_id":"69"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"1 RUE VICTOR MASSE"},"location":{"lat":48.8807769,"lon":2.3384256},"nbOfRoom":4,"price":224640,"surface":60}
+{"index" : {"_id":"70"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"29 RUE VICTOR MASSE"},"location":{"lat":48.8808971,"lon":2.3375428},"nbOfRoom":4,"price":441592,"surface":68}
+{"index" : {"_id":"71"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"1 RUE AUBER"},"location":{"lat":48.871275,"lon":2.3312505},"nbOfRoom":4,"price":471444,"surface":68}
+{"index" : {"_id":"72"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"2 RUE DE COMPIEGNE"},"location":{"lat":48.8799626,"lon":2.3536843},"nbOfRoom":4,"price":149280,"surface":24}
+{"index" : {"_id":"73"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"91 RUE DU FBG DU TEMPLE"},"location":{"lat":48.870543010000006,"lon":2.37279652},"nbOfRoom":4,"price":258048,"surface":56}
+{"index" : {"_id":"74"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"2 RUE DU FBG SAINT DENIS"},"location":{"lat":48.86997393000001,"lon":2.35279237},"nbOfRoom":4,"price":103512,"surface":76}
+{"index" : {"_id":"75"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"80 RUE DU FBG SAINT DENIS"},"location":{"lat":48.87329489,"lon":2.35470593},"nbOfRoom":4,"price":56280,"surface":24}
+{"index" : {"_id":"76"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"29 BOULEVARD DE MAGENTA"},"location":{"lat":48.8712118,"lon":2.3603663},"nbOfRoom":4,"price":210868,"surface":68}
+{"index" : {"_id":"77"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"62 BOULEVARD DE MAGENTA"},"location":{"lat":48.8737777,"lon":2.3585474},"nbOfRoom":4,"price":247600,"surface":40}
+{"index" : {"_id":"78"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"11 BOULEVARD DE STRASBOURG"},"location":{"lat":48.8701607,"lon":2.3545088},"nbOfRoom":4,"price":222552,"surface":36}
+{"index" : {"_id":"79"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"31 BOULEVARD DE LA VILLETTE"},"location":{"lat":48.8739638,"lon":2.3745299},"nbOfRoom":4,"price":72408,"surface":28}
+{"index" : {"_id":"80"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"72 RUE BOTZARIS"},"location":{"lat":48.8794528,"lon":2.3873421},"nbOfRoom":4,"price":88144,"surface":28}
+{"index" : {"_id":"81"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"43 BOULEVARD DE BELLEVILLE"},"location":{"lat":48.86920676,"lon":2.3800756},"nbOfRoom":4,"price":72748,"surface":52}
+{"index" : {"_id":"82"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"2 BOULEVARD DES FILLES CALVAIRE"},"location":{"lat":48.862041,"lon":2.366958},"nbOfRoom":4,"price":199716,"surface":68}
+{"index" : {"_id":"83"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"62 RUE DE MONTREUIL"},"location":{"lat":48.8504827,"lon":2.3902586100000005},"nbOfRoom":4,"price":110208,"surface":48}
+{"index" : {"_id":"84"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"7 RUE DU COQ HERON"},"location":{"lat":48.864385129999995,"lon":2.34243858},"nbOfRoom":4,"price":22400,"surface":20}
+{"index" : {"_id":"85"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"2 RUE DUPHOT"},"location":{"lat":48.8676619,"lon":2.325889},"nbOfRoom":4,"price":517712,"surface":76}
+{"index" : {"_id":"86"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"151 RUE MONTMARTRE"},"location":{"lat":48.8705035,"lon":2.3425562},"nbOfRoom":4,"price":232848,"surface":48}
+{"index" : {"_id":"87"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"247 RUE SAINT DENIS"},"location":{"lat":48.8626681,"lon":2.3495752},"nbOfRoom":4,"price":178276,"surface":28}
+{"index" : {"_id":"88"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"2 RUE DES ARCHIVES"},"location":{"lat":48.8571393,"lon":2.3541161},"nbOfRoom":4,"price":104896,"surface":64}
+{"index" : {"_id":"89"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"20 RUE BEAUBOURG"},"location":{"lat":48.8620321,"lon":2.3538673},"nbOfRoom":4,"price":366968,"surface":56}
+{"index" : {"_id":"90"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"71 RUE SAINT ANTOINE"},"location":{"lat":48.8543144,"lon":2.3633302},"nbOfRoom":4,"price":172620,"surface":36}
+{"index" : {"_id":"91"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"119 RUE SAINT ANTOINE"},"location":{"lat":48.8551245,"lon":2.3604541},"nbOfRoom":4,"price":136296,"surface":36}
+{"index" : {"_id":"92"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"24 BOULEVARD SEBASTOPOL"},"location":{"lat":48.86059463,"lon":2.3493897899999996},"nbOfRoom":4,"price":305292,"surface":52}
+{"index" : {"_id":"93"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"26 RUE DU TEMPLE"},"location":{"lat":48.8573751,"lon":2.3524425},"nbOfRoom":4,"price":217200,"surface":60}
+{"index" : {"_id":"94"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"43 RUE DU TEMPLE"},"location":{"lat":48.8596824,"lon":2.3540861},"nbOfRoom":4,"price":163176,"surface":24}
+{"index" : {"_id":"95"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"2 RUE CLAUDE BERNARD"},"location":{"lat":48.8388121,"lon":2.350036},"nbOfRoom":4,"price":278608,"surface":44}
+{"index" : {"_id":"96"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"12 RUE LINN\u00c9"},"location":{"lat":48.8446062,"lon":2.3549149},"nbOfRoom":4,"price":104200,"surface":20}
+{"index" : {"_id":"97"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"30 RUE MONGE"},"location":{"lat":48.8462937,"lon":2.3516048},"nbOfRoom":4,"price":112588,"surface":28}
+{"index" : {"_id":"98"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"7 RUE MONTAGNE STE GENEVIEVE"},"location":{"lat":48.84921881000001,"lon":2.34876362},"nbOfRoom":4,"price":450432,"surface":72}
+{"index" : {"_id":"99"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"243 RUE SAINT JACQUES"},"location":{"lat":48.8428621,"lon":2.3414429},"nbOfRoom":4,"price":101824,"surface":32}
+{"index" : {"_id":"100"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"56 RUE DU CHERCHE MIDI"},"location":{"lat":48.8489662,"lon":2.3252485},"nbOfRoom":4,"price":170272,"surface":32}
+{"index" : {"_id":"101"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"5 RUE DANTON"},"location":{"lat":48.85250509,"lon":2.3419064300000003},"nbOfRoom":4,"price":298816,"surface":64}
+{"index" : {"_id":"102"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"49 RUE DU FOUR"},"location":{"lat":48.8521875,"lon":2.3307715},"nbOfRoom":4,"price":438208,"surface":64}
+{"index" : {"_id":"103"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"42 RUE MONSIEUR LE PRINCE"},"location":{"lat":48.8487844,"lon":2.340423},"nbOfRoom":4,"price":46080,"surface":20}
+{"index" : {"_id":"104"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"1 RUE DE L ODEON"},"location":{"lat":48.85169945,"lon":2.33868827},"nbOfRoom":4,"price":95964,"surface":44}
+{"index" : {"_id":"105"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"58 RUE ST PLACIDE"},"location":{"lat":48.8473785,"lon":2.3263024},"nbOfRoom":4,"price":196416,"surface":32}
+{"index" : {"_id":"106"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"18 RUE ST SULPICE"},"location":{"lat":48.8514921,"lon":2.3368645},"nbOfRoom":4,"price":230040,"surface":60}
+{"index" : {"_id":"107"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"19 RUE DE SEVRES"},"location":{"lat":48.8515823,"lon":2.3275246},"nbOfRoom":4,"price":120960,"surface":40}
+{"index" : {"_id":"108"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"18 RUE VAVIN"},"location":{"lat":48.8439291,"lon":2.3303671},"nbOfRoom":4,"price":82944,"surface":24}
+{"index" : {"_id":"109"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"35 RUE CLER"},"location":{"lat":48.8570996,"lon":2.3063387},"nbOfRoom":4,"price":136900,"surface":20}
+{"index" : {"_id":"110"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"88 RUE ST DOMINIQUE"},"location":{"lat":48.8595534,"lon":2.3064477},"nbOfRoom":4,"price":67872,"surface":32}
+{"index" : {"_id":"111"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"57 AVENUE DE SUFFREN"},"location":{"lat":48.8527897,"lon":2.2985976},"nbOfRoom":4,"price":248840,"surface":40}
+{"index" : {"_id":"112"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"84 AVENUE DES CHAMPS ELYSEES"},"location":{"lat":48.8713362,"lon":2.3038271},"nbOfRoom":4,"price":220352,"surface":44}
+{"index" : {"_id":"113"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"5 RUE CHAUVEAU LAGARDE"},"location":{"lat":48.87134761000001,"lon":2.32363164},"nbOfRoom":4,"price":145296,"surface":48}
+{"index" : {"_id":"114"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"122 RUE DU FAUBOURG ST HONORE"},"location":{"lat":48.8764709,"lon":2.3018856},"nbOfRoom":4,"price":127452,"surface":76}
+{"index" : {"_id":"115"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"2 AVENUE DE FRIEDLAND"},"location":{"lat":48.8744643,"lon":2.3016664},"nbOfRoom":4,"price":330360,"surface":60}
+{"index" : {"_id":"116"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"116 RUE LA BOETIE"},"location":{"lat":48.87144595,"lon":2.30739623},"nbOfRoom":4,"price":168144,"surface":48}
+{"index" : {"_id":"117"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"61 BOULEVARD MALESHERBES"},"location":{"lat":48.87612244,"lon":2.31830776},"nbOfRoom":4,"price":303624,"surface":72}
+{"index" : {"_id":"118"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"87 BOULEVARD MALESHERBES"},"location":{"lat":48.87809068,"lon":2.3159319200000006},"nbOfRoom":4,"price":286552,"surface":56}
+{"index" : {"_id":"119"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"80 RUE DU ROCHER"},"location":{"lat":48.87994409,"lon":2.31779069},"nbOfRoom":4,"price":208512,"surface":48}
+{"index" : {"_id":"120"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"19 RUE AUBER"},"location":{"lat":48.8732253,"lon":2.3277946},"nbOfRoom":4,"price":27080,"surface":20}
+{"index" : {"_id":"121"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"17 RUE CADET"},"location":{"lat":48.8760495,"lon":2.3437569},"nbOfRoom":4,"price":202436,"surface":68}
+{"index" : {"_id":"122"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"17 RUE DU FBG MONTMARTRE"},"location":{"lat":48.87263189,"lon":2.34313453},"nbOfRoom":4,"price":286468,"surface":52}
+{"index" : {"_id":"123"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"66 RUE LA FAYETTE"},"location":{"lat":48.8757504,"lon":2.3438158},"nbOfRoom":4,"price":418560,"surface":64}
+{"index" : {"_id":"124"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"8 RUE DE MAUBEUGE"},"location":{"lat":48.8763897,"lon":2.3411233},"nbOfRoom":4,"price":135040,"surface":32}
+{"index" : {"_id":"125"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"30 RUE FONTAINE"},"location":{"lat":48.88239697,"lon":2.3335132200000004},"nbOfRoom":4,"price":217976,"surface":44}
+{"index" : {"_id":"126"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"76 RUE DU CHATEAU D EAU"},"location":{"lat":48.872761360000005,"lon":2.3547137999999994},"nbOfRoom":4,"price":137200,"surface":28}
+{"index" : {"_id":"127"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"6 RUE DE DUNKERQUE"},"location":{"lat":48.8795633,"lon":2.357466},"nbOfRoom":4,"price":327340,"surface":52}
+{"index" : {"_id":"128"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"118 RUE DU FBG POISSONNIERE"},"location":{"lat":48.87961507,"lon":2.34952658},"nbOfRoom":4,"price":47772,"surface":36}
+{"index" : {"_id":"129"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"125 RUE DU FBG SAINT DENIS"},"location":{"lat":48.87663531,"lon":2.3560239999999997},"nbOfRoom":4,"price":100640,"surface":40}
+{"index" : {"_id":"130"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"222 RUE DU FG ST MARTIN"},"location":{"lat":48.8802592,"lon":2.3643},"nbOfRoom":4,"price":82104,"surface":44}
+{"index" : {"_id":"131"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"65 RUE LA GRANGE AUX BELLES"},"location":{"lat":48.87746170000001,"lon":2.3698134700000004},"nbOfRoom":4,"price":164948,"surface":28}
+{"index" : {"_id":"132"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"139 BOULEVARD MAGENTA"},"location":{"lat":48.8819164,"lon":2.35100985},"nbOfRoom":4,"price":136272,"surface":48}
+{"index" : {"_id":"133"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"156 BOULEVARD DE MAGENTA"},"location":{"lat":48.8825954,"lon":2.3506366},"nbOfRoom":4,"price":302256,"surface":48}
+{"index" : {"_id":"134"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"31 RUE DE SAMBRE ET MEUSE"},"location":{"lat":48.8746053,"lon":2.3731968},"nbOfRoom":4,"price":391896,"surface":72}
+{"index" : {"_id":"135"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"75 BOULEVARD DE STRASBOURG"},"location":{"lat":48.8757681,"lon":2.3578797},"nbOfRoom":4,"price":41928,"surface":24}
+{"index" : {"_id":"136"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"46 BOULEVARD BEAUMARCHAIS"},"location":{"lat":48.85686903999999,"lon":2.3682442299999997},"nbOfRoom":4,"price":65360,"surface":40}
+{"index" : {"_id":"137"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"85 RUE DE CHARONNE"},"location":{"lat":48.8540023,"lon":2.3820854},"nbOfRoom":4,"price":177948,"surface":36}
+{"index" : {"_id":"138"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"135 RUE DE CHARONNE"},"location":{"lat":48.8540017,"lon":2.3823379},"nbOfRoom":4,"price":64880,"surface":20}
+{"index" : {"_id":"139"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"136 RUE DE CHARONNE"},"location":{"lat":48.8540017,"lon":2.3823379},"nbOfRoom":4,"price":145860,"surface":44}
+{"index" : {"_id":"140"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"44 RUE FAUBOURG DU TEMPLE"},"location":{"lat":48.86943328,"lon":2.3692251100000004},"nbOfRoom":4,"price":63072,"surface":36}
+{"index" : {"_id":"141"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"137 RUE DU FBG ST ANTOINE"},"location":{"lat":48.85083139,"lon":2.3780863000000005},"nbOfRoom":4,"price":84540,"surface":20}
+{"index" : {"_id":"142"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"97 RUE JEAN PIERRE TIMBAUD"},"location":{"lat":48.86856025,"lon":2.37981462},"nbOfRoom":4,"price":242304,"surface":48}
+{"index" : {"_id":"143"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"164 AVENUE LEDRU ROLLIN"},"location":{"lat":48.8566255,"lon":2.3793868},"nbOfRoom":4,"price":102680,"surface":40}
+{"index" : {"_id":"144"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"14 RUE DE MONT LOUIS"},"location":{"lat":48.858338,"lon":2.389286},"nbOfRoom":4,"price":52948,"surface":28}
+{"index" : {"_id":"145"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"122 RUE OBERKAMPF"},"location":{"lat":48.8661552,"lon":2.379764},"nbOfRoom":4,"price":139412,"surface":52}
+{"index" : {"_id":"146"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"17 AVENUE PARMENTIER"},"location":{"lat":48.8591443,"lon":2.3794671},"nbOfRoom":4,"price":231504,"surface":56}
+{"index" : {"_id":"147"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"38 AVENUE PARMENTIER"},"location":{"lat":48.8591443,"lon":2.3794671},"nbOfRoom":4,"price":174528,"surface":64}
+{"index" : {"_id":"148"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"24 RUE PAUL BERT"},"location":{"lat":48.85259628,"lon":2.38486268},"nbOfRoom":4,"price":42300,"surface":20}
+{"index" : {"_id":"149"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"48 AVENUE DE LA REPUBLIQUE"},"location":{"lat":48.86530027999999,"lon":2.37435249},"nbOfRoom":4,"price":70952,"surface":28}
+{"index" : {"_id":"150"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"7 RUE DES TROIS BORNES"},"location":{"lat":48.86622098000001,"lon":2.37134368},"nbOfRoom":4,"price":198976,"surface":32}
+{"index" : {"_id":"151"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"113 BOULEVARD VOLTAIRE"},"location":{"lat":48.857404,"lon":2.3810914},"nbOfRoom":4,"price":160260,"surface":60}
+{"index" : {"_id":"152"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"52 RUE DE LA FOLIE REGNAULT"},"location":{"lat":48.8573608,"lon":2.386249},"nbOfRoom":4,"price":296076,"surface":44}
+{"index" : {"_id":"153"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"193 RUE DE BERCY"},"location":{"lat":48.8438213,"lon":2.3729021},"nbOfRoom":4,"price":150012,"surface":36}
+{"index" : {"_id":"154"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"2 RUE DE CAPRI"},"location":{"lat":48.8355121,"lon":2.3981149},"nbOfRoom":4,"price":187668,"surface":36}
+{"index" : {"_id":"155"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"294 RUE DE CHARENTON"},"location":{"lat":48.8357709,"lon":2.3922754},"nbOfRoom":4,"price":142008,"surface":24}
+{"index" : {"_id":"156"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"252 AVENUE DAUMESNIL"},"location":{"lat":48.8369326,"lon":2.4022189},"nbOfRoom":4,"price":189288,"surface":72}
+{"index" : {"_id":"157"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"2 PL EDOUARD RENARD"},"location":{"lat":48.83520484,"lon":2.4069768200000006},"nbOfRoom":4,"price":269784,"surface":72}
+{"index" : {"_id":"158"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"12 RUE EMILIO CASTELAR"},"location":{"lat":48.8489659,"lon":2.3762361},"nbOfRoom":4,"price":28296,"surface":24}
+{"index" : {"_id":"159"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"2 RUE ERARD"},"location":{"lat":48.844933,"lon":2.3838312},"nbOfRoom":4,"price":138600,"surface":36}
+{"index" : {"_id":"160"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"6 RUE LAMBLARDIE"},"location":{"lat":48.8400827,"lon":2.3969837},"nbOfRoom":4,"price":454100,"surface":76}
+{"index" : {"_id":"161"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"71 AVENUE LEDRU ROLLIN"},"location":{"lat":48.849568960000006,"lon":2.3742073800000005},"nbOfRoom":4,"price":306576,"surface":48}
+{"index" : {"_id":"162"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"4 RUE DE LYON"},"location":{"lat":48.8463,"lon":2.372386},"nbOfRoom":4,"price":247352,"surface":56}
+{"index" : {"_id":"163"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"2 PL DE LA NATION"},"location":{"lat":48.847796,"lon":2.3951686},"nbOfRoom":4,"price":123260,"surface":20}
+{"index" : {"_id":"164"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"21 RUE DE PICPUS"},"location":{"lat":48.8462841,"lon":2.3945569},"nbOfRoom":4,"price":286144,"surface":64}
+{"index" : {"_id":"165"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"27 BOULEVARD DE REUILLY"},"location":{"lat":48.8394177,"lon":2.3921134},"nbOfRoom":4,"price":179816,"surface":56}
+{"index" : {"_id":"166"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"14 RUE DE WATTIGNIES"},"location":{"lat":48.8364943,"lon":2.3933993},"nbOfRoom":4,"price":138528,"surface":52}
+{"index" : {"_id":"167"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"PL DU DOCTEUR JEAN DELAY"},"location":{"lat":48.823208,"lon":2.354485},"nbOfRoom":4,"price":54360,"surface":24}
+{"index" : {"_id":"168"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"5 SQUARE DUNOIS"},"location":{"lat":48.83348554,"lon":2.3659658400000003},"nbOfRoom":4,"price":321272,"surface":56}
+{"index" : {"_id":"169"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"15 RUE DE ROME"},"location":{"lat":48.8757062,"lon":2.32390612},"nbOfRoom":4,"price":139084,"surface":44}
+{"index" : {"_id":"170"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"12 RUE DE LA BOULE ROUGE"},"location":{"lat":48.8739044,"lon":2.344947},"nbOfRoom":4,"price":101448,"surface":36}
+{"index" : {"_id":"171"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"51 RUE DE DUNKERQUE"},"location":{"lat":48.88111192000001,"lon":2.34972203},"nbOfRoom":4,"price":258248,"surface":76}
+{"index" : {"_id":"172"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"8 RUE LA FAYETTE"},"location":{"lat":48.873266,"lon":2.3343251},"nbOfRoom":4,"price":62664,"surface":56}
+{"index" : {"_id":"173"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"1 RUE LALLIER"},"location":{"lat":48.8812967,"lon":2.3409525},"nbOfRoom":4,"price":502664,"surface":76}
+{"index" : {"_id":"174"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"31 RUE DE LA ROCHEFOUCAULD"},"location":{"lat":48.8792185,"lon":2.3346849},"nbOfRoom":4,"price":124776,"surface":72}
+{"index" : {"_id":"175"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"4 RUE DES MARTYRS"},"location":{"lat":48.876971,"lon":2.3393591},"nbOfRoom":4,"price":106464,"surface":48}
+{"index" : {"_id":"176"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"36 RUE DES MARTYRS"},"location":{"lat":48.8788863,"lon":2.339895},"nbOfRoom":4,"price":134628,"surface":52}
+{"index" : {"_id":"177"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"7 RUE DE MAUBEUGE"},"location":{"lat":48.876669,"lon":2.3413359},"nbOfRoom":4,"price":117936,"surface":72}
+{"index" : {"_id":"178"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"58 RUE DE MAUBEUGE"},"location":{"lat":48.8787585,"lon":2.3466734},"nbOfRoom":4,"price":91392,"surface":24}
+{"index" : {"_id":"179"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"21 BOULEVARD DE ROCHECHOUART"},"location":{"lat":48.8831109,"lon":2.3463897},"nbOfRoom":4,"price":192976,"surface":56}
+{"index" : {"_id":"180"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"26 RUE DE ROCHECHOUART"},"location":{"lat":48.8781833,"lon":2.3450111},"nbOfRoom":4,"price":81792,"surface":72}
+{"index" : {"_id":"181"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"4 RUE BEAUREPAIRE"},"location":{"lat":48.86919647,"lon":2.36329302},"nbOfRoom":4,"price":81260,"surface":20}
+{"index" : {"_id":"182"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"123 RUE DU FBG DU TEMPLE"},"location":{"lat":48.871410640000015,"lon":2.3751282700000003},"nbOfRoom":4,"price":373184,"surface":64}
+{"index" : {"_id":"183"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"90 RUE DU FG ST MARTIN"},"location":{"lat":48.8728479,"lon":2.3579427},"nbOfRoom":4,"price":134400,"surface":28}
+{"index" : {"_id":"184"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"7 RUE LA GRANGE AUX BELLES"},"location":{"lat":48.87361541,"lon":2.36479841},"nbOfRoom":4,"price":159740,"surface":28}
+{"index" : {"_id":"185"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"10 RUE DU 8 MAI 1945"},"location":{"lat":48.8764422,"lon":2.3569764},"nbOfRoom":4,"price":106656,"surface":32}
+{"index" : {"_id":"186"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"96 RUE LA FAYETTE"},"location":{"lat":48.8772031,"lon":2.3493521},"nbOfRoom":4,"price":120428,"surface":68}
+{"index" : {"_id":"187"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"132 RUE LA FAYETTE"},"location":{"lat":48.8767766,"lon":2.3473863},"nbOfRoom":4,"price":205568,"surface":44}
+{"index" : {"_id":"188"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"191 RUE LA FAYETTE"},"location":{"lat":48.8806507,"lon":2.3617968},"nbOfRoom":4,"price":125608,"surface":56}
+{"index" : {"_id":"189"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"2 PL JACQUES BONSERGENT"},"location":{"lat":48.8706941,"lon":2.3613833},"nbOfRoom":4,"price":308032,"surface":64}
+{"index" : {"_id":"190"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"38 RUE LUCIEN SAMPAIX"},"location":{"lat":48.8733945,"lon":2.3618053},"nbOfRoom":4,"price":92736,"surface":36}
+{"index" : {"_id":"191"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"102 RUE DE MAUBEUGE"},"location":{"lat":48.8803217,"lon":2.3519447},"nbOfRoom":4,"price":90260,"surface":20}
+{"index" : {"_id":"192"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"23 BOULEVARD DE LA VILLETTE"},"location":{"lat":48.8733098,"lon":2.3752671},"nbOfRoom":4,"price":46404,"surface":36}
+{"index" : {"_id":"193"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"119 RUE DU CHEMIN VERT"},"location":{"lat":48.861776,"lon":2.3829878},"nbOfRoom":4,"price":226556,"surface":76}
+{"index" : {"_id":"194"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"43 RUE FAIDHERBE"},"location":{"lat":48.85390341,"lon":2.38239884},"nbOfRoom":4,"price":468084,"surface":76}
+{"index" : {"_id":"195"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"28 RUE DU FAUBOURG DU TEMPLE"},"location":{"lat":48.8694619,"lon":2.3693329},"nbOfRoom":4,"price":177472,"surface":32}
+{"index" : {"_id":"196"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"191 RUE DU FBG ST ANTOINE"},"location":{"lat":48.85043759,"lon":2.3818686800000006},"nbOfRoom":4,"price":182784,"surface":32}
+{"index" : {"_id":"197"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"305 RUE DU FBG ST ANTOINE"},"location":{"lat":48.84889515,"lon":2.39236343},"nbOfRoom":4,"price":253008,"surface":56}
+{"index" : {"_id":"198"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"97 AVENUE LEDRU ROLLIN"},"location":{"lat":48.8565982,"lon":2.3792611},"nbOfRoom":4,"price":69216,"surface":48}
+{"index" : {"_id":"199"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"1 PL LEON BLUM"},"location":{"lat":48.8576131,"lon":2.3795036},"nbOfRoom":4,"price":38912,"surface":32}
+{"index" : {"_id":"200"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"70 RUE LEON FROT"},"location":{"lat":48.8584457,"lon":2.3837589},"nbOfRoom":4,"price":49320,"surface":24}
+{"index" : {"_id":"201"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"166 RUE DE LA ROQUETTE"},"location":{"lat":48.8587507,"lon":2.3849702},"nbOfRoom":4,"price":64844,"surface":52}
+{"index" : {"_id":"202"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"4 BOULEVARD DU TEMPLE"},"location":{"lat":48.863585289999996,"lon":2.3664245},"nbOfRoom":4,"price":267768,"surface":72}
+{"index" : {"_id":"203"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"83 RUE CROZATIER"},"location":{"lat":48.8504214,"lon":2.3786455},"nbOfRoom":4,"price":199732,"surface":52}
+{"index" : {"_id":"204"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"206 AVENUE DAUMESNIL"},"location":{"lat":48.8379873,"lon":2.3993496},"nbOfRoom":4,"price":178636,"surface":68}
+{"index" : {"_id":"205"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"52 BOULEVARD DIDEROT"},"location":{"lat":48.846376,"lon":2.3795481},"nbOfRoom":4,"price":182844,"surface":36}
+{"index" : {"_id":"206"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"88 BOULEVARD DIDEROT"},"location":{"lat":48.846882,"lon":2.3839896},"nbOfRoom":4,"price":61488,"surface":28}
+{"index" : {"_id":"207"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"81 AVENUE LEDRU ROLLIN"},"location":{"lat":48.85066,"lon":2.375165},"nbOfRoom":4,"price":285056,"surface":64}
+{"index" : {"_id":"208"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"8 RUE RIESENER"},"location":{"lat":48.84302,"lon":2.3894729},"nbOfRoom":4,"price":142800,"surface":48}
+{"index" : {"_id":"209"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"35 RUE DE REUILLY"},"location":{"lat":48.8471383,"lon":2.3870983},"nbOfRoom":4,"price":131320,"surface":20}
+{"index" : {"_id":"210"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"6 BOULEVARD ARAGO"},"location":{"lat":48.83638032000001,"lon":2.35052302},"nbOfRoom":4,"price":371640,"surface":60}
+{"index" : {"_id":"211"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"127 BOULEVARD AUGUSTE BLANQUI"},"location":{"lat":48.83092903000001,"lon":2.34376241},"nbOfRoom":4,"price":35640,"surface":24}
+{"index" : {"_id":"212"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"55 QU D AUSTERLITZ"},"location":{"lat":48.84096223,"lon":2.36919346},"nbOfRoom":4,"price":126688,"surface":32}
+{"index" : {"_id":"213"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"96 RUE BOBILLOT"},"location":{"lat":48.8233262,"lon":2.3476835},"nbOfRoom":4,"price":67004,"surface":28}
+{"index" : {"_id":"214"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"61 AVENUE DE CHOISY"},"location":{"lat":48.82304026,"lon":2.36237092},"nbOfRoom":4,"price":62188,"surface":28}
+{"index" : {"_id":"215"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"8 RUE DUCHEFDELAVILLE"},"location":{"lat":48.83210018,"lon":2.3703834400000003},"nbOfRoom":4,"price":127620,"surface":36}
+{"index" : {"_id":"216"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"27 AVENUE DES GOBELINS"},"location":{"lat":48.8364812,"lon":2.3523752},"nbOfRoom":4,"price":268096,"surface":64}
+{"index" : {"_id":"217"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"137 BOULEVARD DE L HOPITAL"},"location":{"lat":48.83529603000001,"lon":2.35832691},"nbOfRoom":4,"price":269232,"surface":48}
+{"index" : {"_id":"218"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"24 RUE DU JAVELOT"},"location":{"lat":48.8251734,"lon":2.3660416},"nbOfRoom":4,"price":391496,"surface":56}
+{"index" : {"_id":"219"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"21 BOULEVARD MASSENA"},"location":{"lat":48.820893,"lon":2.366631},"nbOfRoom":4,"price":105716,"surface":76}
+{"index" : {"_id":"220"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"13 PL DE VENETIE"},"location":{"lat":48.82163018,"lon":2.3649036900000002},"nbOfRoom":4,"price":161712,"surface":36}
+{"index" : {"_id":"221"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"120 RUE NATIONALE"},"location":{"lat":48.8288582,"lon":2.3653251},"nbOfRoom":4,"price":221112,"surface":36}
+{"index" : {"_id":"222"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"53 RUE DE TOLBIAC"},"location":{"lat":48.8270993,"lon":2.3671009},"nbOfRoom":4,"price":179088,"surface":52}
+{"index" : {"_id":"223"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"229 RUE DE TOLBIAC"},"location":{"lat":48.8270993,"lon":2.3671009},"nbOfRoom":4,"price":415224,"surface":72}
+{"index" : {"_id":"224"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"169 RUE D ALESIA"},"location":{"lat":48.83083887000001,"lon":2.3182701300000006},"nbOfRoom":4,"price":235144,"surface":68}
+{"index" : {"_id":"225"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"70 RUE DE L AMIRAL MOUCHEZ"},"location":{"lat":48.8216275,"lon":2.34241873},"nbOfRoom":4,"price":239424,"surface":64}
+{"index" : {"_id":"226"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"8 BOULEVARD BRUNE"},"location":{"lat":48.8233594,"lon":2.3252877},"nbOfRoom":4,"price":172276,"surface":52}
+{"index" : {"_id":"227"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"38 BOULEVARD BRUNE"},"location":{"lat":48.826575,"lon":2.3095836},"nbOfRoom":4,"price":85708,"surface":28}
+{"index" : {"_id":"228"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"24 PL DE CATALOGNE"},"location":{"lat":48.8375692,"lon":2.319428},"nbOfRoom":4,"price":177248,"surface":32}
+{"index" : {"_id":"229"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"66 RUE DIDOT"},"location":{"lat":48.8293307,"lon":2.3173531},"nbOfRoom":4,"price":224400,"surface":68}
+{"index" : {"_id":"230"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"79 AVENUE DU GENERAL LECLERC"},"location":{"lat":48.8276607,"lon":2.3270505},"nbOfRoom":4,"price":101640,"surface":56}
+{"index" : {"_id":"231"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"109 BOULEVARD JOURDAN"},"location":{"lat":48.8225613,"lon":2.3276812},"nbOfRoom":4,"price":50904,"surface":28}
+{"index" : {"_id":"232"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"43 AVENUE DU MAINE"},"location":{"lat":48.8408073,"lon":2.3218471},"nbOfRoom":4,"price":174080,"surface":68}
+{"index" : {"_id":"233"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"106 BOULEVARD DU MONTPARNASSE"},"location":{"lat":48.8451136,"lon":2.3202116},"nbOfRoom":4,"price":30480,"surface":24}
+{"index" : {"_id":"234"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"3 PL LA PORTE DE CHATILLON"},"location":{"lat":48.82439004,"lon":2.3195795899999996},"nbOfRoom":4,"price":97236,"surface":36}
+{"index" : {"_id":"235"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"9 PL CHARLES MICHELS"},"location":{"lat":48.84665519000001,"lon":2.2857865700000004},"nbOfRoom":4,"price":140652,"surface":36}
+{"index" : {"_id":"236"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"60 RUE DUTOT"},"location":{"lat":48.8385974,"lon":2.3086096},"nbOfRoom":4,"price":152760,"surface":24}
+{"index" : {"_id":"237"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"134 AVENUE EMILE ZOLA"},"location":{"lat":48.8468053,"lon":2.2928852},"nbOfRoom":4,"price":198720,"surface":60}
+{"index" : {"_id":"238"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"36 RUE DES ENTREPRENEURS"},"location":{"lat":48.8436313,"lon":2.2930795},"nbOfRoom":4,"price":259680,"surface":48}
+{"index" : {"_id":"239"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"76 RUE DES ENTREPRENEURS"},"location":{"lat":48.8447606,"lon":2.2900122},"nbOfRoom":4,"price":274752,"surface":64}
+{"index" : {"_id":"240"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"105 AVENUE FELIX FAURE"},"location":{"lat":48.8389689,"lon":2.2828942},"nbOfRoom":4,"price":115380,"surface":20}
+{"index" : {"_id":"241"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"9 PL DU GENERAL BEURET"},"location":{"lat":48.8416806,"lon":2.3030556},"nbOfRoom":4,"price":205696,"surface":64}
+{"index" : {"_id":"242"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"44 RUE LA QUINTINIE"},"location":{"lat":48.8373162,"lon":2.3031384},"nbOfRoom":4,"price":192096,"surface":36}
+{"index" : {"_id":"243"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"60 RUE LECOURBE"},"location":{"lat":48.843882,"lon":2.3066432},"nbOfRoom":4,"price":213512,"surface":52}
+{"index" : {"_id":"244"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"112 RUE LECOURBE"},"location":{"lat":48.8427566,"lon":2.3028335},"nbOfRoom":4,"price":288768,"surface":64}
+{"index" : {"_id":"245"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"59 BOULEVARD PASTEUR"},"location":{"lat":48.8415201,"lon":2.3143315},"nbOfRoom":4,"price":134448,"surface":24}
+{"index" : {"_id":"246"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"82 AVENUE DE SUFFREN"},"location":{"lat":48.8513649,"lon":2.300327},"nbOfRoom":4,"price":158112,"surface":72}
+{"index" : {"_id":"247"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"3 RUE DE VOUILLE"},"location":{"lat":48.8354308,"lon":2.3030306},"nbOfRoom":4,"price":304912,"surface":68}
+{"index" : {"_id":"248"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"54 RUE OLIVIER DE SERRES"},"location":{"lat":48.8344222,"lon":2.2955078},"nbOfRoom":4,"price":76300,"surface":28}
+{"index" : {"_id":"249"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"50 AVENUE DE SEGUR"},"location":{"lat":48.847009240000006,"lon":2.30524868},"nbOfRoom":4,"price":152180,"surface":28}
+{"index" : {"_id":"250"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"5 RUE BASTIEN LEPAGE"},"location":{"lat":48.8485058,"lon":2.2659341},"nbOfRoom":4,"price":280440,"surface":76}
+{"index" : {"_id":"251"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"8 RUE DE PASSY"},"location":{"lat":48.8584527,"lon":2.2836828},"nbOfRoom":4,"price":279984,"surface":76}
+{"index" : {"_id":"252"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"65 RUE DE PASSY"},"location":{"lat":48.8577373,"lon":2.2782603},"nbOfRoom":4,"price":347328,"surface":64}
+{"index" : {"_id":"253"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"4 RUE POUSSIN"},"location":{"lat":48.8489965,"lon":2.2657409},"nbOfRoom":4,"price":278640,"surface":40}
+{"index" : {"_id":"254"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"85 RUE DU RANELAGH"},"location":{"lat":48.8550888,"lon":2.2720522},"nbOfRoom":4,"price":102480,"surface":24}
+{"index" : {"_id":"255"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"182 AVENUE DE VERSAILLES"},"location":{"lat":48.8396083,"lon":2.2622127},"nbOfRoom":4,"price":247184,"surface":56}
+{"index" : {"_id":"256"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"18 RUE GEORGES BIZET"},"location":{"lat":48.86751003999999,"lon":2.29743205},"nbOfRoom":4,"price":62260,"surface":20}
+{"index" : {"_id":"257"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"91 AVENUE KLEBER"},"location":{"lat":48.86362687,"lon":2.28783578},"nbOfRoom":4,"price":125312,"surface":32}
+{"index" : {"_id":"258"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"7 AVENUE MARCEAU"},"location":{"lat":48.865853,"lon":2.299436},"nbOfRoom":4,"price":85064,"surface":28}
+{"index" : {"_id":"259"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"66 RUE DE LA POMPE"},"location":{"lat":48.8631773,"lon":2.2766324},"nbOfRoom":4,"price":34272,"surface":24}
+{"index" : {"_id":"260"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"141 RUE DE LA TOUR"},"location":{"lat":48.8637349,"lon":2.272673},"nbOfRoom":4,"price":302680,"surface":56}
+{"index" : {"_id":"261"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"38 RUE DE PASSY"},"location":{"lat":48.8579528,"lon":2.2806469},"nbOfRoom":4,"price":74368,"surface":28}
+{"index" : {"_id":"262"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"78 BOULEVARD DES BATIGNOLLES"},"location":{"lat":48.8820618,"lon":2.3192669},"nbOfRoom":4,"price":224208,"surface":36}
+{"index" : {"_id":"263"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"27 RUE DES BATIGNOLLES"},"location":{"lat":48.8846191,"lon":2.3212808},"nbOfRoom":4,"price":213876,"surface":36}
+{"index" : {"_id":"264"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"45 RUE BAYEN"},"location":{"lat":48.8816761,"lon":2.292172},"nbOfRoom":4,"price":356040,"surface":72}
+{"index" : {"_id":"265"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"134 BOULEVARD BERTHIER"},"location":{"lat":48.8879946,"lon":2.2991453},"nbOfRoom":4,"price":80280,"surface":72}
+{"index" : {"_id":"266"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"3 RUE FERNAND WIDAL"},"location":{"lat":48.8188675,"lon":2.3608709900000004},"nbOfRoom":4,"price":83840,"surface":40}
+{"index" : {"_id":"267"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"57 AVENUE DES GOBELINS"},"location":{"lat":48.834232,"lon":2.3539342},"nbOfRoom":4,"price":438444,"surface":76}
+{"index" : {"_id":"268"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"5 AVENUE D ITALIE"},"location":{"lat":48.83047611,"lon":2.3559477899999997},"nbOfRoom":4,"price":124152,"surface":28}
+{"index" : {"_id":"269"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"110 AVENUE D ITALIE"},"location":{"lat":48.82449880000001,"lon":2.3577549300000005},"nbOfRoom":4,"price":140416,"surface":32}
+{"index" : {"_id":"270"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"71 BOULEVARD KELLERMANN"},"location":{"lat":48.820527260000006,"lon":2.34899712},"nbOfRoom":4,"price":158400,"surface":24}
+{"index" : {"_id":"271"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"11 RUE DAGUERRE"},"location":{"lat":48.8336173,"lon":2.3305362},"nbOfRoom":4,"price":135252,"surface":52}
+{"index" : {"_id":"272"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"33 RUE DAGUERRE"},"location":{"lat":48.8336173,"lon":2.3305362},"nbOfRoom":4,"price":302460,"surface":60}
+{"index" : {"_id":"273"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"39 RUE DIDOT"},"location":{"lat":48.8320925,"lon":2.3204067},"nbOfRoom":4,"price":116784,"surface":24}
+{"index" : {"_id":"274"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"29 AVENUE DU GENERAL LECLERC"},"location":{"lat":48.83066175,"lon":2.32964615469007},"nbOfRoom":4,"price":84788,"surface":44}
+{"index" : {"_id":"275"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"57 RUE DE L OUEST"},"location":{"lat":48.836121150000004,"lon":2.31935576},"nbOfRoom":4,"price":65968,"surface":28}
+{"index" : {"_id":"276"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"119 AVENUE DU MAINE"},"location":{"lat":48.8405744,"lon":2.3214791},"nbOfRoom":4,"price":270648,"surface":56}
+{"index" : {"_id":"277"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"203 RUE RAYMOND LOSSERAND"},"location":{"lat":48.8314253,"lon":2.3133237},"nbOfRoom":4,"price":177152,"surface":64}
+{"index" : {"_id":"278"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"4 AVENUE REILLE"},"location":{"lat":48.8261777,"lon":2.3412817},"nbOfRoom":4,"price":179640,"surface":60}
+{"index" : {"_id":"279"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"40 AVENUE RENE COTY"},"location":{"lat":48.8273407,"lon":2.3348741},"nbOfRoom":4,"price":241864,"surface":56}
+{"index" : {"_id":"280"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"47 RUE BALARD"},"location":{"lat":48.8382468,"lon":2.2784429},"nbOfRoom":4,"price":252200,"surface":52}
+{"index" : {"_id":"281"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"61 RUE BRANCION"},"location":{"lat":48.8327117,"lon":2.303572},"nbOfRoom":4,"price":107712,"surface":48}
+{"index" : {"_id":"282"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"119 RUE CAMBRONNE"},"location":{"lat":48.8418356,"lon":2.3032547},"nbOfRoom":4,"price":328320,"surface":60}
+{"index" : {"_id":"283"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"52 RUE DU COMMERCE"},"location":{"lat":48.8463907,"lon":2.2952511},"nbOfRoom":4,"price":196240,"surface":40}
+{"index" : {"_id":"284"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"211 RUE DE LA CONVENTION"},"location":{"lat":48.8364494,"lon":2.2994673},"nbOfRoom":4,"price":110152,"surface":56}
+{"index" : {"_id":"285"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"240 RUE DE LA CROIX NIVERT"},"location":{"lat":48.8349999,"lon":2.2897341},"nbOfRoom":4,"price":322240,"surface":64}
+{"index" : {"_id":"286"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"1 RUE DESNOUETTES"},"location":{"lat":48.8360521,"lon":2.2929768},"nbOfRoom":4,"price":118440,"surface":36}
+{"index" : {"_id":"287"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"6 PL FALGUIERE"},"location":{"lat":48.8361124,"lon":2.3100104},"nbOfRoom":4,"price":351176,"surface":56}
+{"index" : {"_id":"288"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"73 RUE LABROUSTE"},"location":{"lat":48.8318056,"lon":2.3062664},"nbOfRoom":4,"price":207372,"surface":44}
+{"index" : {"_id":"289"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"95 RUE LECOURBE"},"location":{"lat":48.8428348,"lon":2.3037764},"nbOfRoom":4,"price":207100,"surface":76}
+{"index" : {"_id":"290"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"199 RUE LECOURBE"},"location":{"lat":48.8403134,"lon":2.2954929},"nbOfRoom":4,"price":180360,"surface":36}
+{"index" : {"_id":"291"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"38 BOULEVARD DU MONTPARNASSE"},"location":{"lat":48.845255079999994,"lon":2.31971584},"nbOfRoom":4,"price":166276,"surface":44}
+{"index" : {"_id":"292"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"85 RUE DES MORILLONS"},"location":{"lat":48.8320136,"lon":2.3041177},"nbOfRoom":4,"price":65312,"surface":52}
+{"index" : {"_id":"293"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"119 RUE SAINT CHARLES"},"location":{"lat":48.8421499,"lon":2.2816381},"nbOfRoom":4,"price":431072,"surface":76}
+{"index" : {"_id":"294"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"256 RUE DE VAUGIRARD"},"location":{"lat":48.8397651,"lon":2.3015462},"nbOfRoom":4,"price":159136,"surface":32}
+{"index" : {"_id":"295"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"373 RUE DE VAUGIRARD"},"location":{"lat":48.8362814,"lon":2.2945756},"nbOfRoom":4,"price":316480,"surface":64}
+{"index" : {"_id":"296"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"22 RUE DE VOUILLE"},"location":{"lat":48.8346769,"lon":2.304716},"nbOfRoom":4,"price":109668,"surface":76}
+{"index" : {"_id":"297"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"77 BOULEVARD EXELMANS"},"location":{"lat":48.8433062,"lon":2.2594422},"nbOfRoom":4,"price":444652,"surface":68}
+{"index" : {"_id":"298"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"4 RUE LA FONTAINE"},"location":{"lat":48.853056,"lon":2.275432},"nbOfRoom":4,"price":254808,"surface":72}
+{"index" : {"_id":"299"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"14 AVENUE MOZART"},"location":{"lat":48.8572717,"lon":2.2727894},"nbOfRoom":4,"price":114660,"surface":60}
+{"index" : {"_id":"300"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"11 CHS MUETTE"},"location":{"lat":48.85819003,"lon":2.27410689},"nbOfRoom":4,"price":453152,"surface":68}
+{"index" : {"_id":"301"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"122 BOULEVARD MURAT"},"location":{"lat":48.8372922,"lon":2.2582987},"nbOfRoom":4,"price":332160,"surface":64}
+{"index" : {"_id":"302"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"116 AVENUE DE VERSAILLES"},"location":{"lat":48.8427778,"lon":2.2686973},"nbOfRoom":4,"price":198540,"surface":36}
+{"index" : {"_id":"303"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"37 RUE GALILEE"},"location":{"lat":48.86989251,"lon":2.2962981499999997},"nbOfRoom":4,"price":379512,"surface":72}
+{"index" : {"_id":"304"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"63 AVENUE DE LA GRANDE ARMEE"},"location":{"lat":48.8760522,"lon":2.28688359},"nbOfRoom":4,"price":108828,"surface":36}
+{"index" : {"_id":"305"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"27 BOULEVARD JULES SANDEAU"},"location":{"lat":48.8627931,"lon":2.2721791},"nbOfRoom":4,"price":249536,"surface":64}
+{"index" : {"_id":"306"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"43 AVENUE KLEBER"},"location":{"lat":48.86861563000001,"lon":2.2914209500000005},"nbOfRoom":4,"price":110520,"surface":24}
+{"index" : {"_id":"307"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"72 AVENUE KLEBER"},"location":{"lat":48.86742218999999,"lon":2.29024574},"nbOfRoom":4,"price":121140,"surface":60}
+{"index" : {"_id":"308"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"83 AVENUE PAUL DOUMER"},"location":{"lat":48.8589279,"lon":2.2768284},"nbOfRoom":4,"price":234432,"surface":44}
+{"index" : {"_id":"309"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"2 RUE SCHEFFER"},"location":{"lat":48.86297296,"lon":2.28059361},"nbOfRoom":4,"price":154848,"surface":48}
+{"index" : {"_id":"310"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"111 AVENUE VICTOR HUGO"},"location":{"lat":48.868649790000006,"lon":2.28288466},"nbOfRoom":4,"price":246688,"surface":52}
+{"index" : {"_id":"311"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"1 RUE RAYNOUARD"},"location":{"lat":48.8552049,"lon":2.2804734},"nbOfRoom":4,"price":190272,"surface":64}
+{"index" : {"_id":"312"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"34 BOULEVARD DES BATIGNOLLES"},"location":{"lat":48.8829808,"lon":2.3237818},"nbOfRoom":4,"price":220660,"surface":68}
+{"index" : {"_id":"313"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"11 RUE BRIDAINE"},"location":{"lat":48.8857538,"lon":2.3200728},"nbOfRoom":4,"price":165816,"surface":36}
+{"index" : {"_id":"314"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"8 RUE CARDINET"},"location":{"lat":48.8814271,"lon":2.3018646},"nbOfRoom":4,"price":140012,"surface":68}
+{"index" : {"_id":"315"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"96 AVENUE DE CLICHY"},"location":{"lat":48.8893683,"lon":2.3223298},"nbOfRoom":4,"price":206912,"surface":64}
+{"index" : {"_id":"316"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"111 RUE DE COURCELLES"},"location":{"lat":48.882367,"lon":2.2997296},"nbOfRoom":4,"price":479256,"surface":76}
+{"index" : {"_id":"317"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"214 RUE DE COURCELLES"},"location":{"lat":48.88726204,"lon":2.29513134},"nbOfRoom":4,"price":172480,"surface":40}
+{"index" : {"_id":"318"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"56 RUE DES DAMES"},"location":{"lat":48.8837621,"lon":2.3210004},"nbOfRoom":4,"price":59436,"surface":52}
+{"index" : {"_id":"319"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"2 RUE DU DEBARCADERE"},"location":{"lat":48.8780284,"lon":2.2876042},"nbOfRoom":4,"price":148192,"surface":44}
+{"index" : {"_id":"320"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"42 RUE DE LA JONQUIERE"},"location":{"lat":48.8935687,"lon":2.3232735},"nbOfRoom":4,"price":482688,"surface":72}
+{"index" : {"_id":"321"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"48 RUE LEGENDRE"},"location":{"lat":48.8849116,"lon":2.3156517},"nbOfRoom":4,"price":206864,"surface":56}
+{"index" : {"_id":"322"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"70 RUE LEGENDRE"},"location":{"lat":48.8876427,"lon":2.3201881},"nbOfRoom":4,"price":93636,"surface":36}
+{"index" : {"_id":"323"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"79 RUE LEGENDRE"},"location":{"lat":48.8875842,"lon":2.3199771},"nbOfRoom":4,"price":45036,"surface":36}
+{"index" : {"_id":"324"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"133 AVENUE DE SAINT OUEN"},"location":{"lat":48.8901483,"lon":2.3264696},"nbOfRoom":4,"price":132540,"surface":60}
+{"index" : {"_id":"325"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"89 AVENUE DE WAGRAM"},"location":{"lat":48.8812999,"lon":2.3002811},"nbOfRoom":4,"price":271592,"surface":68}
+{"index" : {"_id":"326"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"34 RUE DES ABBESSES"},"location":{"lat":48.8851772,"lon":2.336914},"nbOfRoom":4,"price":246456,"surface":36}
+{"index" : {"_id":"327"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"15 RUE CAVALLOTTI"},"location":{"lat":48.8864826,"lon":2.3278676},"nbOfRoom":4,"price":166608,"surface":72}
+{"index" : {"_id":"328"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"38 RUE DE CLIGNANCOURT"},"location":{"lat":48.8868224,"lon":2.347743},"nbOfRoom":4,"price":189244,"surface":44}
+{"index" : {"_id":"329"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"1 RUE CORTOT"},"location":{"lat":48.8876851,"lon":2.3403767},"nbOfRoom":4,"price":71188,"surface":52}
+{"index" : {"_id":"330"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"83 RUE DAMREMONT"},"location":{"lat":48.8871389,"lon":2.3325701},"nbOfRoom":4,"price":88576,"surface":64}
+{"index" : {"_id":"331"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"82 RUE DUHESME"},"location":{"lat":48.8933796,"lon":2.3426898},"nbOfRoom":4,"price":49788,"surface":36}
+{"index" : {"_id":"332"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"42 AVENUE JUNOT"},"location":{"lat":48.8881011,"lon":2.3360271},"nbOfRoom":4,"price":105312,"surface":48}
+{"index" : {"_id":"333"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"11 RUE LEPIC"},"location":{"lat":48.8861887,"lon":2.3342353},"nbOfRoom":4,"price":318136,"surface":52}
+{"index" : {"_id":"334"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"65 RUE MARX DORMOY"},"location":{"lat":48.889431,"lon":2.359717},"nbOfRoom":4,"price":60608,"surface":32}
+{"index" : {"_id":"335"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"54 BOULEVARD ORNANO"},"location":{"lat":48.8964073,"lon":2.3456278},"nbOfRoom":4,"price":145460,"surface":28}
+{"index" : {"_id":"336"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"23 RUE D ORSEL"},"location":{"lat":48.8839522,"lon":2.34466597},"nbOfRoom":4,"price":217728,"surface":64}
+{"index" : {"_id":"337"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"43 RUE SIMART"},"location":{"lat":48.8897591,"lon":2.3493613},"nbOfRoom":4,"price":327648,"surface":48}
+{"index" : {"_id":"338"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"315 RUE DE BELLEVILLE"},"location":{"lat":48.8765181,"lon":2.4036491},"nbOfRoom":4,"price":286624,"surface":52}
+{"index" : {"_id":"339"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"1 BOULEVARD D INDOCHINE"},"location":{"lat":48.88376087000001,"lon":2.3969775400000004},"nbOfRoom":4,"price":84660,"surface":60}
+{"index" : {"_id":"340"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"105 RUE MANIN"},"location":{"lat":48.8832859,"lon":2.3876277},"nbOfRoom":4,"price":147120,"surface":40}
+{"index" : {"_id":"341"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"26 RUE DE MEAUX"},"location":{"lat":48.885646,"lon":2.3816949},"nbOfRoom":4,"price":313404,"surface":52}
+{"index" : {"_id":"342"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"98 RUE PETIT"},"location":{"lat":48.8847763,"lon":2.3812424},"nbOfRoom":4,"price":398016,"surface":72}
+{"index" : {"_id":"343"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"28 RUE RIQUET"},"location":{"lat":48.8892369,"lon":2.3710425},"nbOfRoom":4,"price":80600,"surface":40}
+{"index" : {"_id":"344"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"19 AVENUE SECRETAN"},"location":{"lat":48.8819094,"lon":2.3719388},"nbOfRoom":4,"price":125184,"surface":48}
+{"index" : {"_id":"345"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"100 RUE DE BELLEVILLE"},"location":{"lat":48.8759718,"lon":2.4024224},"nbOfRoom":4,"price":95376,"surface":24}
+{"index" : {"_id":"346"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"112 AVENUE GAMBETTA"},"location":{"lat":48.8662352,"lon":2.3996224},"nbOfRoom":4,"price":504412,"surface":76}
+{"index" : {"_id":"347"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"121 AVENUE GAMBETTA"},"location":{"lat":48.8679418,"lon":2.4009574},"nbOfRoom":4,"price":66780,"surface":60}
+{"index" : {"_id":"348"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"71 RUE DE LA MARE"},"location":{"lat":48.8696722,"lon":2.3888007},"nbOfRoom":4,"price":68936,"surface":28}
+{"index" : {"_id":"349"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"46 BOULEVARD DE MENILMONTANT"},"location":{"lat":48.8648255,"lon":2.3978523},"nbOfRoom":4,"price":181824,"surface":32}
+{"index" : {"_id":"350"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"51 RUE DE MENILMONTANT"},"location":{"lat":48.8680251,"lon":2.3867584},"nbOfRoom":4,"price":121300,"surface":20}
+{"index" : {"_id":"351"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"234 RUE DES PYRENEES"},"location":{"lat":48.8673397,"lon":2.3967235},"nbOfRoom":4,"price":162108,"surface":76}
+{"index" : {"_id":"352"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"336 RUE DES PYRENEES"},"location":{"lat":48.8514871,"lon":2.4062808},"nbOfRoom":4,"price":70368,"surface":48}
+{"index" : {"_id":"353"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"5 PL DE LA R\u00c9PUBLIQUE"},"location":{"lat":48.8682643,"lon":2.3625095},"nbOfRoom":4,"price":263492,"surface":76}
+{"index" : {"_id":"354"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"32 RUE DE VAUCOULEURS"},"location":{"lat":48.87001485,"lon":2.37692595},"nbOfRoom":4,"price":507908,"surface":76}
+{"index" : {"_id":"355"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"59 RUE DE PICPUS"},"location":{"lat":48.8425407,"lon":2.3977589},"nbOfRoom":4,"price":201484,"surface":68}
+{"index" : {"_id":"356"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"19 RUE BROCHANT"},"location":{"lat":48.8889141,"lon":2.3177662},"nbOfRoom":4,"price":107244,"surface":36}
+{"index" : {"_id":"357"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"106 BOULEVARD DE COURCELLES"},"location":{"lat":48.8795681,"lon":2.3055618},"nbOfRoom":4,"price":46144,"surface":28}
+{"index" : {"_id":"358"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"6 RUE DES DAMES"},"location":{"lat":48.8855643,"lon":2.3258714},"nbOfRoom":4,"price":117000,"surface":60}
+{"index" : {"_id":"359"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"123 RUE DES DAMES"},"location":{"lat":48.8825122,"lon":2.3165809},"nbOfRoom":4,"price":441088,"surface":64}
+{"index" : {"_id":"360"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"40 RUE DU DOCTEUR HEULIN"},"location":{"lat":48.8910658,"lon":2.3246364},"nbOfRoom":4,"price":45232,"surface":44}
+{"index" : {"_id":"361"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"2 PL DU GENERAL KOENIG"},"location":{"lat":48.880823,"lon":2.2845015},"nbOfRoom":4,"price":413820,"surface":60}
+{"index" : {"_id":"362"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"35 BOULEVARD GOUVION ST CYR"},"location":{"lat":48.8830878,"lon":2.287816},"nbOfRoom":4,"price":165704,"surface":44}
+{"index" : {"_id":"363"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"18 RUE GUY MOQUET"},"location":{"lat":48.8921706,"lon":2.3234999},"nbOfRoom":4,"price":76100,"surface":20}
+{"index" : {"_id":"364"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"63 RUE LAUGIER"},"location":{"lat":48.8836922,"lon":2.2927877},"nbOfRoom":4,"price":192164,"surface":28}
+{"index" : {"_id":"365"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"65 RUE LEGENDRE"},"location":{"lat":48.8867483,"lon":2.3185455},"nbOfRoom":4,"price":203588,"surface":44}
+{"index" : {"_id":"366"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"5 PL DE LEVIS"},"location":{"lat":48.88348,"lon":2.313647},"nbOfRoom":4,"price":84868,"surface":28}
+{"index" : {"_id":"367"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"14 AVENUE MAC MAHON"},"location":{"lat":48.876731,"lon":2.2947821},"nbOfRoom":4,"price":219800,"surface":40}
+{"index" : {"_id":"368"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"24 AVENUE MAC MAHON"},"location":{"lat":48.8782971,"lon":2.2945156},"nbOfRoom":4,"price":145400,"surface":40}
+{"index" : {"_id":"369"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"7 PL DU MAL JUIN"},"location":{"lat":48.887372,"lon":2.304723},"nbOfRoom":4,"price":311664,"surface":48}
+{"index" : {"_id":"370"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"16 AVENUE NIEL"},"location":{"lat":48.8800843,"lon":2.2951544},"nbOfRoom":4,"price":247104,"surface":52}
+{"index" : {"_id":"371"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"29 BOULEVARD PEREIRE"},"location":{"lat":48.887716,"lon":2.3097896},"nbOfRoom":4,"price":117992,"surface":28}
+{"index" : {"_id":"372"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"42 BOULEVARD PEREIRE"},"location":{"lat":48.8868111,"lon":2.3008534},"nbOfRoom":4,"price":131852,"surface":28}
+{"index" : {"_id":"373"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"1 RUE DE PHALSBOURG"},"location":{"lat":48.8811572,"lon":2.3089316},"nbOfRoom":4,"price":117612,"surface":36}
+{"index" : {"_id":"374"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"2 PL DE LA PORTE MAILLOT"},"location":{"lat":48.8776419,"lon":2.2811115},"nbOfRoom":4,"price":23740,"surface":20}
+{"index" : {"_id":"375"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"9 RUE SAINT FERDINAND"},"location":{"lat":48.8785341,"lon":2.2895868},"nbOfRoom":4,"price":104440,"surface":56}
+{"index" : {"_id":"376"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"50 AVENUE WAGRAM"},"location":{"lat":48.878583,"lon":2.298788},"nbOfRoom":4,"price":131280,"surface":20}
+{"index" : {"_id":"377"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"118 AVENUE DE VILLIERS"},"location":{"lat":48.8852491,"lon":2.2959126},"nbOfRoom":4,"price":51260,"surface":44}
+{"index" : {"_id":"378"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"40 RUE DES ABBESSES"},"location":{"lat":48.8853267,"lon":2.3365487},"nbOfRoom":4,"price":223776,"surface":56}
+{"index" : {"_id":"379"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"24 BOULEVARD BARBES"},"location":{"lat":48.8853849,"lon":2.34972},"nbOfRoom":4,"price":375168,"surface":64}
+{"index" : {"_id":"380"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"65 BOULEVARD BARBES"},"location":{"lat":48.8902004,"lon":2.349399},"nbOfRoom":4,"price":167360,"surface":32}
+{"index" : {"_id":"381"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"43 RUE CAULAINCOURT"},"location":{"lat":48.8897314,"lon":2.3413901},"nbOfRoom":4,"price":261120,"surface":64}
+{"index" : {"_id":"382"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"4 BOULEVARD DE LA CHAPELLE"},"location":{"lat":48.8841054,"lon":2.3524169},"nbOfRoom":4,"price":309456,"surface":56}
+{"index" : {"_id":"383"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"18 AVENUE DE CLICHY"},"location":{"lat":48.8848039,"lon":2.3269945},"nbOfRoom":4,"price":37160,"surface":20}
+{"index" : {"_id":"384"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"33 RUE DAMREMONT"},"location":{"lat":48.8894929,"lon":2.3335629},"nbOfRoom":4,"price":117876,"surface":44}
+{"index" : {"_id":"385"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"64 RUE DAMREMONT"},"location":{"lat":48.8908178,"lon":2.3345642},"nbOfRoom":4,"price":283660,"surface":52}
+{"index" : {"_id":"386"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"132 RUE DAMREMONT"},"location":{"lat":48.8871389,"lon":2.3325701},"nbOfRoom":4,"price":277504,"surface":64}
+{"index" : {"_id":"387"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"2 PL JACQUES FROMENT"},"location":{"lat":48.8907912,"lon":2.331265},"nbOfRoom":4,"price":174832,"surface":28}
+{"index" : {"_id":"388"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"79 RUE LAMARCK"},"location":{"lat":48.8906973,"lon":2.3333276},"nbOfRoom":4,"price":362496,"surface":64}
+{"index" : {"_id":"389"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"156 BOULEVARD NEY"},"location":{"lat":48.8982027,"lon":2.3527857},"nbOfRoom":4,"price":134112,"surface":24}
+{"index" : {"_id":"390"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"28 RUE ORDENER"},"location":{"lat":48.8939071,"lon":2.3343602},"nbOfRoom":4,"price":76804,"surface":28}
+{"index" : {"_id":"391"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"117 RUE ORDENER"},"location":{"lat":48.8939071,"lon":2.3343602},"nbOfRoom":4,"price":125380,"surface":20}
+{"index" : {"_id":"392"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"96 RUE PHILIPPE DE GIRARD"},"location":{"lat":48.8898491,"lon":2.3603932},"nbOfRoom":4,"price":387904,"surface":64}
+{"index" : {"_id":"393"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"2 RUE RAMEY"},"location":{"lat":48.8895017,"lon":2.3461608},"nbOfRoom":4,"price":80192,"surface":56}
+{"index" : {"_id":"394"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"40 RUE DE TORCY"},"location":{"lat":48.8913123,"lon":2.3615473},"nbOfRoom":4,"price":251496,"surface":72}
+{"index" : {"_id":"395"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"20 RUE DES TROIS FRERES"},"location":{"lat":48.8846636,"lon":2.34115},"nbOfRoom":4,"price":54360,"surface":20}
+{"index" : {"_id":"396"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"191 RUE CHAMPIONNET"},"location":{"lat":48.8940686,"lon":2.3325422},"nbOfRoom":4,"price":152600,"surface":40}
+{"index" : {"_id":"397"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"1 RUE ARMAND CARREL"},"location":{"lat":48.8825751,"lon":2.3803197},"nbOfRoom":4,"price":221480,"surface":56}
+{"index" : {"_id":"398"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"10 RUE AUGUSTIN THIERRY"},"location":{"lat":48.8761166,"lon":2.394732},"nbOfRoom":4,"price":339696,"surface":72}
+{"index" : {"_id":"399"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"145 RUE DE BELLEVILLE"},"location":{"lat":48.8754556,"lon":2.3900866},"nbOfRoom":4,"price":108624,"surface":24}
+{"index" : {"_id":"400"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"7 RUE CURIAL"},"location":{"lat":48.8960212,"lon":2.3790103},"nbOfRoom":4,"price":116700,"surface":60}
+{"index" : {"_id":"401"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"29 RUE DU GENERAL BRUNET"},"location":{"lat":48.8812554,"lon":2.39174},"nbOfRoom":4,"price":90640,"surface":40}
+{"index" : {"_id":"402"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"7 AVENUE JEAN JAURES"},"location":{"lat":48.8833035,"lon":2.3716326},"nbOfRoom":4,"price":82300,"surface":20}
+{"index" : {"_id":"403"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"94 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":82824,"surface":28}
+{"index" : {"_id":"404"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"100 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":159016,"surface":44}
+{"index" : {"_id":"405"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"112 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":209080,"surface":40}
+{"index" : {"_id":"406"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"38 AVENUE SIMON BOLIVAR"},"location":{"lat":48.875406,"lon":2.3822821},"nbOfRoom":4,"price":25128,"surface":24}
+{"index" : {"_id":"407"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"132 RUE D AVRON"},"location":{"lat":48.85322124,"lon":2.40891069},"nbOfRoom":4,"price":408096,"surface":72}
+{"index" : {"_id":"408"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"47 RUE BELGRAND"},"location":{"lat":48.8646193,"lon":2.4080598},"nbOfRoom":4,"price":292992,"surface":56}
+{"index" : {"_id":"409"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"6 RUE DE BELLEVILLE"},"location":{"lat":48.8759718,"lon":2.4024224},"nbOfRoom":4,"price":93312,"surface":72}
+{"index" : {"_id":"410"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"44 RUE DE BELLEVILLE"},"location":{"lat":48.8759718,"lon":2.4024224},"nbOfRoom":4,"price":280784,"surface":56}
+{"index" : {"_id":"411"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"82 RUE DE BELLEVILLE"},"location":{"lat":48.8759718,"lon":2.4024224},"nbOfRoom":4,"price":141856,"surface":52}
+{"index" : {"_id":"412"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"114 BOULEVARD DE CHARONNE"},"location":{"lat":48.8575505,"lon":2.3921652},"nbOfRoom":4,"price":137040,"surface":20}
+{"index" : {"_id":"413"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"25 RUE PELLEPORT"},"location":{"lat":48.8632047,"lon":2.4042021},"nbOfRoom":4,"price":102060,"surface":60}
+{"index" : {"_id":"414"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"6 PL DE LA PORTE DE BAGNOLET"},"location":{"lat":48.8643544,"lon":2.409574},"nbOfRoom":4,"price":65208,"surface":24}
+{"index" : {"_id":"415"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"299 RUE DES PYRENEES"},"location":{"lat":48.8514871,"lon":2.4062808},"nbOfRoom":4,"price":110820,"surface":60}
+{"index" : {"_id":"416"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"401 RUE DES PYRENEES"},"location":{"lat":48.8738246,"lon":2.3856779},"nbOfRoom":4,"price":163812,"surface":68}
+{"index" : {"_id":"417"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"28 RUE DU TELEGRAPHE"},"location":{"lat":48.8731259,"lon":2.3993036},"nbOfRoom":4,"price":312728,"surface":52}
+{"index" : {"_id":"418"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"138 BOULEVARD MAC DONALD"},"location":{"lat":48.887102,"lon":2.387767},"nbOfRoom":4,"price":217404,"surface":44}
+{"index" : {"_id":"419"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"7 CRS DE VINCENNES"},"location":{"lat":48.8475174,"lon":2.4023479},"nbOfRoom":4,"price":223444,"surface":52}
+{"index" : {"_id":"420"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"54 RUE BEAUBOURG"},"location":{"lat":48.8605948,"lon":2.3516451},"nbOfRoom":4,"price":199044,"surface":36}
+{"index" : {"_id":"421"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"12 RUE DU PONT NEUF"},"location":{"lat":48.859959710000005,"lon":2.3440066000000006},"nbOfRoom":4,"price":260320,"surface":40}
+{"index" : {"_id":"422"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"5 RUE DU ROULE"},"location":{"lat":48.86031865,"lon":2.34353114},"nbOfRoom":4,"price":468540,"surface":76}
+{"index" : {"_id":"423"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"115 RUE SAINT HONORE"},"location":{"lat":48.8627109,"lon":2.3373083},"nbOfRoom":4,"price":171584,"surface":32}
+{"index" : {"_id":"424"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"51 RUE MONTORGUEIL"},"location":{"lat":48.865239,"lon":2.3468478},"nbOfRoom":4,"price":325248,"surface":64}
+{"index" : {"_id":"425"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"67 RUE MONTORGUEIL"},"location":{"lat":48.8660446,"lon":2.3470265},"nbOfRoom":4,"price":228200,"surface":56}
+{"index" : {"_id":"426"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"22 RUE DE TURBIGO"},"location":{"lat":48.8637502,"lon":2.3487856},"nbOfRoom":4,"price":85380,"surface":20}
+{"index" : {"_id":"427"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"20 RUE RAMBUTEAU"},"location":{"lat":48.8609002,"lon":2.354614},"nbOfRoom":4,"price":138512,"surface":44}
+{"index" : {"_id":"428"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"37 RUE DE TURENNE"},"location":{"lat":48.8621134,"lon":2.3645511},"nbOfRoom":4,"price":118080,"surface":60}
+{"index" : {"_id":"429"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"9 RUE DES ARCHIVES"},"location":{"lat":48.857705,"lon":2.3543303},"nbOfRoom":4,"price":63264,"surface":32}
+{"index" : {"_id":"430"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"14 RUE DES DEUX PONTS"},"location":{"lat":48.8519511,"lon":2.3567388},"nbOfRoom":4,"price":22120,"surface":20}
+{"index" : {"_id":"431"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"1 RUE DES TOURNELLES"},"location":{"lat":48.8538366,"lon":2.3672793},"nbOfRoom":4,"price":97200,"surface":36}
+{"index" : {"_id":"432"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"130 BOULEVARD RICHARD LENOIR"},"location":{"lat":48.86569887,"lon":2.3700347500000003},"nbOfRoom":4,"price":373620,"surface":60}
+{"index" : {"_id":"433"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"18 RUE GEOFFROY ST HILAIRE"},"location":{"lat":48.8398841,"lon":2.3565412},"nbOfRoom":4,"price":96240,"surface":20}
+{"index" : {"_id":"434"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"89 RUE MOUFFETARD"},"location":{"lat":48.8416162,"lon":2.3497131},"nbOfRoom":4,"price":80480,"surface":20}
+{"index" : {"_id":"435"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"2 RUE PASCAL"},"location":{"lat":48.8390317,"lon":2.349815},"nbOfRoom":4,"price":56360,"surface":20}
+{"index" : {"_id":"436"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"4 BOULEVARD DE PORT ROYAL"},"location":{"lat":48.8394748,"lon":2.3390592},"nbOfRoom":4,"price":80376,"surface":24}
+{"index" : {"_id":"437"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"86 BOULEVARD DE PORT ROYAL"},"location":{"lat":48.8391078,"lon":2.3394963},"nbOfRoom":4,"price":187376,"surface":28}
+{"index" : {"_id":"438"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"50 BOULEVARD SAINT GERMAIN"},"location":{"lat":48.8498474,"lon":2.3500928},"nbOfRoom":4,"price":103168,"surface":52}
+{"index" : {"_id":"439"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"71 BOULEVARD SAINT MICHEL"},"location":{"lat":48.8463255,"lon":2.3405042},"nbOfRoom":4,"price":92616,"surface":68}
+{"index" : {"_id":"440"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"8 RUE DU FOUR"},"location":{"lat":48.8529433,"lon":2.3348491},"nbOfRoom":4,"price":47880,"surface":40}
+{"index" : {"_id":"441"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"153 BOULEVARD DU MONTPARNASSE"},"location":{"lat":48.8396889,"lon":2.3367582},"nbOfRoom":4,"price":87180,"surface":60}
+{"index" : {"_id":"442"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"105 RUE DE RENNES"},"location":{"lat":48.848729,"lon":2.3286802},"nbOfRoom":4,"price":336840,"surface":60}
+{"index" : {"_id":"443"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"97 BOULEVARD SAINT GERMAIN"},"location":{"lat":48.8521108,"lon":2.3391176},"nbOfRoom":4,"price":338184,"surface":56}
+{"index" : {"_id":"444"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"61 RUE DE SEINE"},"location":{"lat":48.8544826,"lon":2.3369494},"nbOfRoom":4,"price":94640,"surface":56}
+{"index" : {"_id":"445"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"109 RUE DE S\u00c8VRES"},"location":{"lat":48.8482512,"lon":2.3203933},"nbOfRoom":4,"price":257200,"surface":40}
+{"index" : {"_id":"446"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"19 RUE DU BAC"},"location":{"lat":48.8561283,"lon":2.3260425},"nbOfRoom":4,"price":346620,"surface":60}
+{"index" : {"_id":"447"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"87 RUE DU BAC"},"location":{"lat":48.8541359,"lon":2.3239882},"nbOfRoom":4,"price":103040,"surface":28}
+{"index" : {"_id":"448"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"4 RUE TREILHARD"},"location":{"lat":48.87680054,"lon":2.3153016},"nbOfRoom":4,"price":162960,"surface":28}
+{"index" : {"_id":"449"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"10 RUE WASHINGTON"},"location":{"lat":48.8724997,"lon":2.3021256},"nbOfRoom":4,"price":146216,"surface":28}
+{"index" : {"_id":"450"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"1 RUE AMBROISE THOMAS"},"location":{"lat":48.874904,"lon":2.3474273},"nbOfRoom":4,"price":51864,"surface":24}
+{"index" : {"_id":"451"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"39 RUE DE CLICHY"},"location":{"lat":48.8798402,"lon":2.3290548},"nbOfRoom":4,"price":103180,"surface":28}
+{"index" : {"_id":"452"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"73 RUE DE CLICHY"},"location":{"lat":48.8820496,"lon":2.3280319},"nbOfRoom":4,"price":106944,"surface":24}
+{"index" : {"_id":"453"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"27 RUE DROUOT"},"location":{"lat":48.8747717,"lon":2.3407887},"nbOfRoom":4,"price":475912,"surface":76}
+{"index" : {"_id":"454"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"49 RUE DU FG POISSONNIERE"},"location":{"lat":48.8724568,"lon":2.3479039},"nbOfRoom":4,"price":349384,"surface":56}
+{"index" : {"_id":"455"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"1 RUE FONTAINE"},"location":{"lat":48.880498270000004,"lon":2.33500944},"nbOfRoom":4,"price":242700,"surface":60}
+{"index" : {"_id":"456"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"11 RUE DE MOGADOR"},"location":{"lat":48.873983,"lon":2.331194},"nbOfRoom":4,"price":185728,"surface":64}
+{"index" : {"_id":"457"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"84 RUE DE L AQUEDUC"},"location":{"lat":48.88379354,"lon":2.36698021},"nbOfRoom":4,"price":61776,"surface":36}
+{"index" : {"_id":"458"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"25 RUE DU CHATEAU D EAU"},"location":{"lat":48.87050539,"lon":2.35953659},"nbOfRoom":4,"price":157104,"surface":72}
+{"index" : {"_id":"459"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"18 RUE DE DUNKERQUE"},"location":{"lat":48.8811268,"lon":2.3497123},"nbOfRoom":4,"price":423396,"surface":76}
+{"index" : {"_id":"460"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"4 RUE DU 8 MAI 1945"},"location":{"lat":48.8758746,"lon":2.3596577},"nbOfRoom":4,"price":169408,"surface":32}
+{"index" : {"_id":"461"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"57 RUE DU FAUBOURG DU TEMPLE"},"location":{"lat":48.8697955,"lon":2.3701292},"nbOfRoom":4,"price":161376,"surface":24}
+{"index" : {"_id":"462"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"66 RUE D HAUTEVILLE"},"location":{"lat":48.87521535,"lon":2.3508837800000006},"nbOfRoom":4,"price":91392,"surface":48}
+{"index" : {"_id":"463"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"146 RUE LA FAYETTE"},"location":{"lat":48.8787576,"lon":2.3552854},"nbOfRoom":4,"price":200208,"surface":48}
+{"index" : {"_id":"464"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"217 RUE LA FAYETTE"},"location":{"lat":48.8814792,"lon":2.364948},"nbOfRoom":4,"price":163440,"surface":72}
+{"index" : {"_id":"465"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"65 RUE LOUIS BLANC"},"location":{"lat":48.8836395,"lon":2.3602574},"nbOfRoom":4,"price":424944,"surface":72}
+{"index" : {"_id":"466"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"12 BOULEVARD DE STRASBOURG"},"location":{"lat":48.8704492,"lon":2.3551081},"nbOfRoom":4,"price":102704,"surface":28}
+{"index" : {"_id":"467"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"63 RUE DE CHARONNE"},"location":{"lat":48.853503,"lon":2.3798265},"nbOfRoom":4,"price":180192,"surface":48}
+{"index" : {"_id":"468"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"127 RUE DE CHARONNE"},"location":{"lat":48.8540017,"lon":2.3823379},"nbOfRoom":4,"price":86848,"surface":64}
+{"index" : {"_id":"469"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"18 RUE DAVAL"},"location":{"lat":48.85440275000001,"lon":2.3713772000000004},"nbOfRoom":4,"price":315072,"surface":48}
+{"index" : {"_id":"470"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"98 RUE JEAN PIERRE TIMBAUD"},"location":{"lat":48.86783659,"lon":2.37800583},"nbOfRoom":4,"price":144384,"surface":24}
+{"index" : {"_id":"471"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"24 RUE OBERKAMPF"},"location":{"lat":48.86357456,"lon":2.3696807000000004},"nbOfRoom":4,"price":114456,"surface":76}
+{"index" : {"_id":"472"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"56 RUE OBERKAMPF"},"location":{"lat":48.8647505,"lon":2.3733405},"nbOfRoom":4,"price":145224,"surface":36}
+{"index" : {"_id":"473"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"26 RUE CAMILLE DESMOULINS"},"location":{"lat":48.85933,"lon":2.3825715},"nbOfRoom":4,"price":133756,"surface":28}
+{"index" : {"_id":"474"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"62 AVENUE PHILIPPE AUGUSTE"},"location":{"lat":48.853500190000005,"lon":2.39274636},"nbOfRoom":4,"price":366248,"surface":68}
+{"index" : {"_id":"475"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"41 RUE POPINCOURT"},"location":{"lat":48.8590967,"lon":2.3760315},"nbOfRoom":4,"price":363392,"surface":68}
+{"index" : {"_id":"476"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"13 RUE DE LA PRESENTATION"},"location":{"lat":48.87133270999999,"lon":2.37635645},"nbOfRoom":4,"price":166680,"surface":40}
+{"index" : {"_id":"477"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"53 AVENUE DE LA REPUBLIQUE"},"location":{"lat":48.8649677,"lon":2.37609816},"nbOfRoom":4,"price":50736,"surface":28}
+{"index" : {"_id":"478"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"51 RUE DE LA ROQUETTE"},"location":{"lat":48.8585346,"lon":2.3836681},"nbOfRoom":4,"price":75552,"surface":24}
+{"index" : {"_id":"479"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"81 RUE DE LA ROQUETTE"},"location":{"lat":48.8568716,"lon":2.3779908},"nbOfRoom":4,"price":66740,"surface":20}
+{"index" : {"_id":"480"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"65 RUE SAINT MAUR"},"location":{"lat":48.86296973,"lon":2.37937152},"nbOfRoom":4,"price":500232,"surface":76}
+{"index" : {"_id":"481"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"151 RUE SAINT MAUR"},"location":{"lat":48.86825847,"lon":2.3750569999999995},"nbOfRoom":4,"price":292560,"surface":60}
+{"index" : {"_id":"482"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"34 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":195984,"surface":72}
+{"index" : {"_id":"483"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"26 BOULEVARD RICHAR LENOIR"},"location":{"lat":48.856359420000004,"lon":2.3709413400000003},"nbOfRoom":4,"price":141240,"surface":40}
+{"index" : {"_id":"484"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"6 BOULEVARD RICHARD LENOIR"},"location":{"lat":48.85423243,"lon":2.36995697},"nbOfRoom":4,"price":51688,"surface":28}
+{"index" : {"_id":"485"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"29 RUE CHALIGNY"},"location":{"lat":48.8498918,"lon":2.3841506},"nbOfRoom":4,"price":278040,"surface":40}
+{"index" : {"_id":"486"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"PL LOUIS ARMAND"},"location":{"lat":48.84515045,"lon":2.37305010726347},"nbOfRoom":4,"price":294052,"surface":44}
+{"index" : {"_id":"487"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"237 RUE DE CHARENTON"},"location":{"lat":48.8375715,"lon":2.3910634},"nbOfRoom":4,"price":204424,"surface":44}
+{"index" : {"_id":"488"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"1 AVENUE COURTELINE"},"location":{"lat":48.84425461,"lon":2.41067022},"nbOfRoom":4,"price":52936,"surface":52}
+{"index" : {"_id":"489"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"128 AVENUE DAUMESNIL"},"location":{"lat":48.8416869,"lon":2.3866213},"nbOfRoom":4,"price":138456,"surface":72}
+{"index" : {"_id":"490"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"32 BOULEVARD DIDEROT"},"location":{"lat":48.8460387,"lon":2.3765886},"nbOfRoom":4,"price":172872,"surface":72}
+{"index" : {"_id":"491"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"238 RUE DU FBG ST ANTOINE"},"location":{"lat":48.84935698,"lon":2.38943195},"nbOfRoom":4,"price":238260,"surface":60}
+{"index" : {"_id":"492"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"58 AVENUE DU GAL MICHEL BIZOT"},"location":{"lat":48.83522093,"lon":2.4015292500000003},"nbOfRoom":4,"price":201600,"surface":64}
+{"index" : {"_id":"493"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"43 RUE DE LYON"},"location":{"lat":48.84884655,"lon":2.37106204},"nbOfRoom":4,"price":161840,"surface":40}
+{"index" : {"_id":"494"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"20 PL DE LA NATION"},"location":{"lat":48.8472463,"lon":2.3959684},"nbOfRoom":4,"price":296956,"surface":44}
+{"index" : {"_id":"495"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"71 BOULEVARD DE PICPUS"},"location":{"lat":48.8468636,"lon":2.3993258},"nbOfRoom":4,"price":55216,"surface":28}
+{"index" : {"_id":"496"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"14 RUE DU RENDEZ VOUS"},"location":{"lat":48.8453113,"lon":2.4044591},"nbOfRoom":4,"price":127568,"surface":56}
+{"index" : {"_id":"497"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"11 BOULEVARD DE REUILLY"},"location":{"lat":48.839304,"lon":2.3907601},"nbOfRoom":4,"price":285516,"surface":44}
+{"index" : {"_id":"498"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"96 CRS DE VINCENNES"},"location":{"lat":48.8477827,"lon":2.4062773},"nbOfRoom":4,"price":420172,"surface":68}
+{"index" : {"_id":"499"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"3 RUE DE L AMIRAL MOUCHEZ"},"location":{"lat":48.825932,"lon":2.34178},"nbOfRoom":4,"price":253156,"surface":76}
+{"index" : {"_id":"500"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"34 BOULEVARD ARAGO"},"location":{"lat":48.83509956,"lon":2.34646015},"nbOfRoom":4,"price":295260,"surface":76}
+{"index" : {"_id":"501"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"37 BOULEVARD ARAGO"},"location":{"lat":48.83540131000001,"lon":2.3474217200000003},"nbOfRoom":4,"price":398140,"surface":68}
+{"index" : {"_id":"502"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"106 BOULEVARD AUGUSTE BLANQUI"},"location":{"lat":48.83116096,"lon":2.34407276},"nbOfRoom":4,"price":106488,"surface":68}
+{"index" : {"_id":"503"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"1 QU D AUSTERLITZ"},"location":{"lat":48.84361043,"lon":2.36553048},"nbOfRoom":4,"price":113880,"surface":40}
+{"index" : {"_id":"504"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"52 RUE DES CINQ DIAMANTS"},"location":{"lat":48.82791527,"lon":2.34968014},"nbOfRoom":4,"price":149760,"surface":60}
+{"index" : {"_id":"505"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"160 AVENUE D ITALIE"},"location":{"lat":48.82176965,"lon":2.3586268699999997},"nbOfRoom":4,"price":264768,"surface":48}
+{"index" : {"_id":"506"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"3 RUE JEANNE D'ARC"},"location":{"lat":48.8287599,"lon":2.3695644},"nbOfRoom":4,"price":490124,"surface":76}
+{"index" : {"_id":"507"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"1 AVENUE DE LA SOEUR ROSALIE"},"location":{"lat":48.83176142,"lon":2.3543057399999996},"nbOfRoom":4,"price":87776,"surface":52}
+{"index" : {"_id":"508"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"75 RUE DE TOLBIAC"},"location":{"lat":48.8268904,"lon":2.365097},"nbOfRoom":4,"price":320880,"surface":48}
+{"index" : {"_id":"509"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"13 PL DE LA NATION"},"location":{"lat":48.84907033000001,"lon":2.39711906},"nbOfRoom":4,"price":112756,"surface":28}
+{"index" : {"_id":"510"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"150 RUE DE LA ROQUETTE"},"location":{"lat":48.8582119,"lon":2.3827902},"nbOfRoom":4,"price":295464,"surface":52}
+{"index" : {"_id":"511"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"29 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":348420,"surface":60}
+{"index" : {"_id":"512"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"199 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":236104,"surface":44}
+{"index" : {"_id":"513"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"103 RUE DE CHARENTON"},"location":{"lat":48.8473286,"lon":2.3778406},"nbOfRoom":4,"price":48420,"surface":36}
+{"index" : {"_id":"514"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"21 BOULEVARD DIDEROT"},"location":{"lat":48.847246,"lon":2.3859056},"nbOfRoom":4,"price":154888,"surface":76}
+{"index" : {"_id":"515"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"2 AVENUE DR ARNOLD NETTER"},"location":{"lat":48.84097695,"lon":2.4046826400000003},"nbOfRoom":4,"price":359580,"surface":52}
+{"index" : {"_id":"516"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"6 PL FELIX EBOUE"},"location":{"lat":48.8391951,"lon":2.3956606},"nbOfRoom":4,"price":184512,"surface":64}
+{"index" : {"_id":"517"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"24 AVENUE LEDRU ROLLIN"},"location":{"lat":48.84691026,"lon":2.36952002},"nbOfRoom":4,"price":226432,"surface":64}
+{"index" : {"_id":"518"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"35 RUE DE LYON"},"location":{"lat":48.848329,"lon":2.371037},"nbOfRoom":4,"price":160512,"surface":44}
+{"index" : {"_id":"519"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"10 BOULEVARD DE PICPUS"},"location":{"lat":48.8398698,"lon":2.4006627},"nbOfRoom":4,"price":289536,"surface":64}
+{"index" : {"_id":"520"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"1 BOULEVARD DE REUILLY"},"location":{"lat":48.8392364,"lon":2.389437},"nbOfRoom":4,"price":182144,"surface":32}
+{"index" : {"_id":"521"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"127 RUE DE REUILLY"},"location":{"lat":48.8403314,"lon":2.3952135},"nbOfRoom":4,"price":173480,"surface":40}
+{"index" : {"_id":"522"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"94 AVENUE DE ST MANDE"},"location":{"lat":48.8452022,"lon":2.3982084},"nbOfRoom":4,"price":284280,"surface":60}
+{"index" : {"_id":"523"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"202 RUE DU CHATEAU DES RENTIERS"},"location":{"lat":48.8313105,"lon":2.3609665},"nbOfRoom":4,"price":225168,"surface":48}
+{"index" : {"_id":"524"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"199 RUE DU CHEVALERET"},"location":{"lat":48.83450747,"lon":2.36737937},"nbOfRoom":4,"price":122640,"surface":24}
+{"index" : {"_id":"525"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"164 RUE DE TOLBIAC"},"location":{"lat":48.8270993,"lon":2.3671009},"nbOfRoom":4,"price":196200,"surface":36}
+{"index" : {"_id":"526"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"119 BOULEVARD DE L HOPITAL"},"location":{"lat":48.83596122,"lon":2.35883546},"nbOfRoom":4,"price":166144,"surface":32}
+{"index" : {"_id":"527"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"30 AVENUE D ITALIE"},"location":{"lat":48.83014932,"lon":2.3560465900000005},"nbOfRoom":4,"price":345016,"surface":56}
+{"index" : {"_id":"528"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"61 AVENUE D ITALIE"},"location":{"lat":48.82609203,"lon":2.3573116999999995},"nbOfRoom":4,"price":139800,"surface":20}
+{"index" : {"_id":"529"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"76 AVENUE D ITALIE"},"location":{"lat":48.826285600000006,"lon":2.35726118},"nbOfRoom":4,"price":154720,"surface":32}
+{"index" : {"_id":"530"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"103 AVENUE D ITALIE"},"location":{"lat":48.82290691000001,"lon":2.35829741},"nbOfRoom":4,"price":226152,"surface":72}
+{"index" : {"_id":"531"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"58 RUE JEANNE D ARC"},"location":{"lat":48.83148,"lon":2.366267},"nbOfRoom":4,"price":196128,"surface":32}
+{"index" : {"_id":"532"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"43 RUE DE TOLBIAC"},"location":{"lat":48.8270993,"lon":2.3671009},"nbOfRoom":4,"price":152320,"surface":68}
+{"index" : {"_id":"533"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"19 RUE OLIVIER MESSIAEN"},"location":{"lat":48.830355,"lon":2.378446},"nbOfRoom":4,"price":91784,"surface":56}
+{"index" : {"_id":"534"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"115 RUE DE L OUEST"},"location":{"lat":48.8336392,"lon":2.3148559700000004},"nbOfRoom":4,"price":37140,"surface":20}
+{"index" : {"_id":"535"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"172 RUE D ALESIA"},"location":{"lat":48.83190572,"lon":2.31381029},"nbOfRoom":4,"price":111424,"surface":32}
+{"index" : {"_id":"536"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"43 RUE DELAMBRE"},"location":{"lat":48.8415816,"lon":2.3272382},"nbOfRoom":4,"price":229320,"surface":60}
+{"index" : {"_id":"537"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"4 RUE ERNEST CRESSON"},"location":{"lat":48.8324976,"lon":2.3297734},"nbOfRoom":4,"price":451152,"surface":72}
+{"index" : {"_id":"538"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"7 AVENUE DU GENERAL LECLERC"},"location":{"lat":48.833355,"lon":2.3315621},"nbOfRoom":4,"price":348772,"surface":68}
+{"index" : {"_id":"539"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"24 AVENUE JEAN MOULIN"},"location":{"lat":48.8259048,"lon":2.3223627},"nbOfRoom":4,"price":133728,"surface":48}
+{"index" : {"_id":"540"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"193 AVENUE DU MAINE"},"location":{"lat":48.8301165,"lon":2.3261956},"nbOfRoom":4,"price":90552,"surface":56}
+{"index" : {"_id":"541"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"21 RUE MOUTON DUVERNET"},"location":{"lat":48.8319969,"lon":2.3274891},"nbOfRoom":4,"price":43400,"surface":40}
+{"index" : {"_id":"542"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"4 PL DU 25 AOUT 1944"},"location":{"lat":48.8226982,"lon":2.3249203},"nbOfRoom":4,"price":199012,"surface":44}
+{"index" : {"_id":"543"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"2 PL ADOLPHE CHERIOUX"},"location":{"lat":48.8405725,"lon":2.3000063},"nbOfRoom":4,"price":469336,"surface":68}
+{"index" : {"_id":"544"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"3 PL BALARD"},"location":{"lat":48.8369098,"lon":2.2790555},"nbOfRoom":4,"price":178144,"surface":76}
+{"index" : {"_id":"545"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"6 PL CAMBRONNE"},"location":{"lat":48.84765565,"lon":2.3020917199999995},"nbOfRoom":4,"price":125664,"surface":48}
+{"index" : {"_id":"546"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"55 RUE DE LA CONVENTION"},"location":{"lat":48.8399936,"lon":2.2903367},"nbOfRoom":4,"price":227088,"surface":36}
+{"index" : {"_id":"547"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"9 RUE DES PYRAMIDES"},"location":{"lat":48.8647979,"lon":2.3327204},"nbOfRoom":4,"price":379232,"surface":56}
+{"index" : {"_id":"548"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"19 BOULEVARD DE BONNE NOUVELLE"},"location":{"lat":48.8700666,"lon":2.3501189},"nbOfRoom":4,"price":36148,"surface":28}
+{"index" : {"_id":"549"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"8 RUE DES CAPUCINES"},"location":{"lat":48.8687628,"lon":2.3297223},"nbOfRoom":4,"price":290952,"surface":72}
+{"index" : {"_id":"550"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"160 RUE SAINT DENIS"},"location":{"lat":48.8626681,"lon":2.3495752},"nbOfRoom":4,"price":141024,"surface":52}
+{"index" : {"_id":"551"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"26 RUE DES PETITS CHAMPS"},"location":{"lat":48.8669359,"lon":2.3362734},"nbOfRoom":4,"price":109384,"surface":44}
+{"index" : {"_id":"552"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"98 RUE BEAUBOURG"},"location":{"lat":48.8605948,"lon":2.3516451},"nbOfRoom":4,"price":38480,"surface":20}
+{"index" : {"_id":"553"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"53 BOULEVARD SAINT MARTIN"},"location":{"lat":48.8687697,"lon":2.3559885},"nbOfRoom":4,"price":102024,"surface":24}
+{"index" : {"_id":"554"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"100 BOULEVARD DE SEBASTOPOL"},"location":{"lat":48.8677156,"lon":2.353576},"nbOfRoom":4,"price":188352,"surface":72}
+{"index" : {"_id":"555"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"85 RUE DE TURBIGO"},"location":{"lat":48.8666847,"lon":2.3610452},"nbOfRoom":4,"price":170560,"surface":32}
+{"index" : {"_id":"556"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"50 RUE DESCARTES"},"location":{"lat":48.8452055,"lon":2.3490752},"nbOfRoom":4,"price":64536,"surface":24}
+{"index" : {"_id":"557"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"11 RUE GAY LUSSAC"},"location":{"lat":48.8460462,"lon":2.3413186},"nbOfRoom":4,"price":158160,"surface":48}
+{"index" : {"_id":"558"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"51 RUE GAY LUSSAC"},"location":{"lat":48.8415478,"lon":2.3435741},"nbOfRoom":4,"price":237240,"surface":72}
+{"index" : {"_id":"559"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"1 RUE LINNE"},"location":{"lat":48.8437365,"lon":2.3547407},"nbOfRoom":4,"price":52960,"surface":40}
+{"index" : {"_id":"560"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"65 RUE MONGE"},"location":{"lat":48.8440466,"lon":2.3524759},"nbOfRoom":4,"price":295120,"surface":56}
+{"index" : {"_id":"561"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"33 RUE SAINT JACQUES"},"location":{"lat":48.8511423,"lon":2.3458588},"nbOfRoom":4,"price":145132,"surface":52}
+{"index" : {"_id":"562"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"54 BOULEVARD SAINT MARCEL"},"location":{"lat":48.8384321,"lon":2.3563877},"nbOfRoom":4,"price":309660,"surface":52}
+{"index" : {"_id":"563"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"17 RUE SOUFFLOT"},"location":{"lat":48.8470255,"lon":2.3416572},"nbOfRoom":4,"price":390728,"surface":68}
+{"index" : {"_id":"564"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"57 RUE DU CHERCHE MIDI"},"location":{"lat":48.8485708,"lon":2.3248041},"nbOfRoom":4,"price":387540,"surface":60}
+{"index" : {"_id":"565"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"57 RUE DAUPHINE"},"location":{"lat":48.85390885,"lon":2.3386236},"nbOfRoom":4,"price":135312,"surface":24}
+{"index" : {"_id":"566"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"26 RUE DU FOUR"},"location":{"lat":48.8527156,"lon":2.3333908},"nbOfRoom":4,"price":27640,"surface":20}
+{"index" : {"_id":"567"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"12 BOULEVARD SAINT MICHEL"},"location":{"lat":48.8466444,"lon":2.3404641},"nbOfRoom":4,"price":70360,"surface":40}
+{"index" : {"_id":"568"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"119 RUE DE SEVRES"},"location":{"lat":48.8477609,"lon":2.3193475},"nbOfRoom":4,"price":45720,"surface":36}
+{"index" : {"_id":"569"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"33 RUE DE VAUGIRARD"},"location":{"lat":48.8480413,"lon":2.3305433},"nbOfRoom":4,"price":92976,"surface":52}
+{"index" : {"_id":"570"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"42 AVENUE DE BRETEUIL"},"location":{"lat":48.8505375,"lon":2.3115308},"nbOfRoom":4,"price":81328,"surface":52}
+{"index" : {"_id":"571"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"18 AVENUE DE LA MOTTE PICQUET"},"location":{"lat":48.8563018,"lon":2.308199},"nbOfRoom":4,"price":143748,"surface":44}
+{"index" : {"_id":"572"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"25 BOULEVARD DE LATOUR MAUBOURG"},"location":{"lat":48.854843,"lon":2.311547},"nbOfRoom":4,"price":187744,"surface":32}
+{"index" : {"_id":"573"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"2 RUE LEON VAUDOYER"},"location":{"lat":48.8484097,"lon":2.3087196},"nbOfRoom":4,"price":154392,"surface":56}
+{"index" : {"_id":"574"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"75 RUE ST DOMINIQUE"},"location":{"lat":48.8597979,"lon":2.3090162},"nbOfRoom":4,"price":132608,"surface":56}
+{"index" : {"_id":"575"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"104 RUE ST DOMINIQUE"},"location":{"lat":48.8589664,"lon":2.3038397},"nbOfRoom":4,"price":65268,"surface":28}
+{"index" : {"_id":"576"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"114 RUE ST DOMINIQUE"},"location":{"lat":48.8583161,"lon":2.3017982},"nbOfRoom":4,"price":208944,"surface":72}
+{"index" : {"_id":"577"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"223 BOULEVARD SAINT GERMAIN"},"location":{"lat":48.8581349,"lon":2.3232385},"nbOfRoom":4,"price":182720,"surface":64}
+{"index" : {"_id":"578"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"31 RUE D AMSTERDAM"},"location":{"lat":48.8786341,"lon":2.32699496},"nbOfRoom":4,"price":57252,"surface":52}
+{"index" : {"_id":"579"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"1 RUE CLAPEYRON"},"location":{"lat":48.88098344,"lon":2.32451499},"nbOfRoom":4,"price":124068,"surface":28}
+{"index" : {"_id":"580"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"71 RUE DU FAUBOURG SAINT HONOR\u00c9"},"location":{"lat":48.8764709,"lon":2.3018856},"nbOfRoom":4,"price":116812,"surface":76}
+{"index" : {"_id":"581"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"239 RUE DU FBG SAINT HONOR\u00c9"},"location":{"lat":48.877664210000006,"lon":2.2984667100000005},"nbOfRoom":4,"price":194376,"surface":28}
+{"index" : {"_id":"582"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"46 RUE PIERRE CHARRON"},"location":{"lat":48.8685399,"lon":2.3016134},"nbOfRoom":4,"price":364920,"surface":60}
+{"index" : {"_id":"583"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"29 RUE DU ROCHER"},"location":{"lat":48.87690353,"lon":2.32163268},"nbOfRoom":4,"price":168728,"surface":56}
+{"index" : {"_id":"584"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"10 AVENUE DE WAGRAM"},"location":{"lat":48.875702,"lon":2.2967064},"nbOfRoom":4,"price":171776,"surface":32}
+{"index" : {"_id":"585"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"7 BOULEVARD DE CLICHY"},"location":{"lat":48.8819676,"lon":2.3388672},"nbOfRoom":4,"price":103000,"surface":20}
+{"index" : {"_id":"586"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"6 PL DE CLICHY"},"location":{"lat":48.8834459,"lon":2.3280185},"nbOfRoom":4,"price":177628,"surface":44}
+{"index" : {"_id":"587"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"32 RUE DU FBG MONTMARTRE"},"location":{"lat":48.87390241,"lon":2.3424844400000002},"nbOfRoom":4,"price":102476,"surface":44}
+{"index" : {"_id":"588"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"19 BOULEVARD HAUSSMANN"},"location":{"lat":48.8726639,"lon":2.3342812},"nbOfRoom":4,"price":192384,"surface":36}
+{"index" : {"_id":"589"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"5 PL PIGALLE"},"location":{"lat":48.8819402,"lon":2.3375172},"nbOfRoom":4,"price":154296,"surface":24}
+{"index" : {"_id":"590"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"17 BOULEVARD DE ROCHECHOUART"},"location":{"lat":48.8832823,"lon":2.3473938},"nbOfRoom":4,"price":190976,"surface":32}
+{"index" : {"_id":"591"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"44 RUE DE ROCHECHOUART"},"location":{"lat":48.8795441,"lon":2.3459798},"nbOfRoom":4,"price":38040,"surface":20}
+{"index" : {"_id":"592"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"46 RUE DE TREVISE"},"location":{"lat":48.876072,"lon":2.3456393},"nbOfRoom":4,"price":301952,"surface":56}
+{"index" : {"_id":"593"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"10 RUE VIGNON"},"location":{"lat":48.8706562,"lon":2.326197},"nbOfRoom":4,"price":184464,"surface":48}
+{"index" : {"_id":"594"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"87 RUE LA FAYETTE"},"location":{"lat":48.8771125,"lon":2.3482759},"nbOfRoom":4,"price":115344,"surface":72}
+{"index" : {"_id":"595"}}
+{"address":{"city":"PARIS 09","postalCode":"75009","street":"84 RUE ROCHECHOUART"},"location":{"lat":48.88011935,"lon":2.34499195205847},"nbOfRoom":4,"price":205912,"surface":56}
+{"index" : {"_id":"596"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"12 BOULEVARD DE BONNE NOUVELLE"},"location":{"lat":48.8700976,"lon":2.3515236},"nbOfRoom":4,"price":211584,"surface":76}
+{"index" : {"_id":"597"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"55 RUE DE CHABROL"},"location":{"lat":48.8769771,"lon":2.3518932},"nbOfRoom":4,"price":64240,"surface":40}
+{"index" : {"_id":"598"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"20 RUE DU FBG POISSONNIERE"},"location":{"lat":48.87237086999999,"lon":2.34790385},"nbOfRoom":4,"price":110480,"surface":20}
+{"index" : {"_id":"599"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"45 RUE DU FBG SAINT DENIS"},"location":{"lat":48.87152463,"lon":2.35358477},"nbOfRoom":4,"price":59520,"surface":40}
+{"index" : {"_id":"600"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"19 BOULEVARD DE MAGENTA"},"location":{"lat":48.8705856,"lon":2.3609271},"nbOfRoom":4,"price":155664,"surface":24}
+{"index" : {"_id":"601"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"137 AVENUE PARMENTIER"},"location":{"lat":48.8701362,"lon":2.3707725},"nbOfRoom":4,"price":90384,"surface":56}
+{"index" : {"_id":"602"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"196 RUE SAINT MAUR"},"location":{"lat":48.8719093,"lon":2.3719605},"nbOfRoom":4,"price":193008,"surface":48}
+{"index" : {"_id":"603"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"205 RUE SAINT MAUR"},"location":{"lat":48.8723285,"lon":2.3713736},"nbOfRoom":4,"price":60512,"surface":32}
+{"index" : {"_id":"604"}}
+{"address":{"city":"PARIS 10","postalCode":"75010","street":"83 BOULEVARD DE LA VILLETTE"},"location":{"lat":48.8773864,"lon":2.3706062},"nbOfRoom":4,"price":192136,"surface":56}
+{"index" : {"_id":"605"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"9 BOULEVARD DE BELLEVILLE"},"location":{"lat":48.8677117,"lon":2.3819756},"nbOfRoom":4,"price":83400,"surface":20}
+{"index" : {"_id":"606"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"16 RUE DE CHARONNE"},"location":{"lat":48.8540017,"lon":2.3823379},"nbOfRoom":4,"price":184832,"surface":64}
+{"index" : {"_id":"607"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"98 RUE DU CHEMIN VERT"},"location":{"lat":48.8611735,"lon":2.3815921},"nbOfRoom":4,"price":258932,"surface":76}
+{"index" : {"_id":"608"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"136 RUE DU CHEMIN VERT"},"location":{"lat":48.8615285,"lon":2.3824431},"nbOfRoom":4,"price":170568,"surface":36}
+{"index" : {"_id":"609"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"24 RUE DE LA FOLIE MERICOURT"},"location":{"lat":48.86249363000002,"lon":2.37359762},"nbOfRoom":4,"price":98020,"surface":20}
+{"index" : {"_id":"610"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"116 AVENUE LEDRU ROLLIN"},"location":{"lat":48.8565982,"lon":2.3792611},"nbOfRoom":4,"price":393280,"surface":64}
+{"index" : {"_id":"611"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"39 RUE OBERKAMPF"},"location":{"lat":48.8643489,"lon":2.3713118},"nbOfRoom":4,"price":370600,"surface":68}
+{"index" : {"_id":"612"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"152 RUE OBERKAMPF"},"location":{"lat":48.8666079,"lon":2.3816012},"nbOfRoom":4,"price":46592,"surface":28}
+{"index" : {"_id":"613"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"97 AVENUE PARMENTIER"},"location":{"lat":48.8591443,"lon":2.3794671},"nbOfRoom":4,"price":251968,"surface":64}
+{"index" : {"_id":"614"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"130 AVENUE PARMENTIER"},"location":{"lat":48.8591443,"lon":2.3794671},"nbOfRoom":4,"price":25440,"surface":20}
+{"index" : {"_id":"615"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"146 AVENUE PARMENTIER"},"location":{"lat":48.8591443,"lon":2.3794671},"nbOfRoom":4,"price":166496,"surface":44}
+{"index" : {"_id":"616"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"9 AVENUE DE LA REPUBLIQUE"},"location":{"lat":48.866457940000004,"lon":2.3682609200000004},"nbOfRoom":4,"price":352200,"surface":60}
+{"index" : {"_id":"617"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"102 RUE SAINT MAUR"},"location":{"lat":48.866042,"lon":2.377253},"nbOfRoom":4,"price":117096,"surface":28}
+{"index" : {"_id":"618"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"65 RUE JEAN PIERRE TIMBAUD"},"location":{"lat":48.867333,"lon":2.375607},"nbOfRoom":4,"price":135180,"surface":60}
+{"index" : {"_id":"619"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"69 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":378112,"surface":56}
+{"index" : {"_id":"620"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"119 BOULEVARD VOLTAIRE"},"location":{"lat":48.8570217,"lon":2.3817329},"nbOfRoom":4,"price":73476,"surface":52}
+{"index" : {"_id":"621"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"180 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":64844,"surface":52}
+{"index" : {"_id":"622"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"264 BOULEVARD VOLTAIRE"},"location":{"lat":48.8575917,"lon":2.3805149},"nbOfRoom":4,"price":254304,"surface":48}
+{"index" : {"_id":"623"}}
+{"address":{"city":"PARIS 11","postalCode":"75011","street":"84 BOULEVARD RICHARD LENOIR"},"location":{"lat":48.86173976,"lon":2.3728136299999996},"nbOfRoom":4,"price":221560,"surface":40}
+{"index" : {"_id":"624"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"18 RUE D ALIGRE"},"location":{"lat":48.84924697,"lon":2.37831588},"nbOfRoom":4,"price":269248,"surface":56}
+{"index" : {"_id":"625"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"59 RUE DE CHARENTON"},"location":{"lat":48.8426009,"lon":2.3859441},"nbOfRoom":4,"price":166608,"surface":72}
+{"index" : {"_id":"626"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"164 RUE DE CHARENTON"},"location":{"lat":48.8448447,"lon":2.3825013},"nbOfRoom":4,"price":466792,"surface":76}
+{"index" : {"_id":"627"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"257 AVENUE DAUMESNIL"},"location":{"lat":48.8367071,"lon":2.4040102},"nbOfRoom":4,"price":190360,"surface":40}
+{"index" : {"_id":"628"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"14 PL LACHAMBEAUDIE"},"location":{"lat":48.8362294,"lon":2.387599},"nbOfRoom":4,"price":153776,"surface":28}
+{"index" : {"_id":"629"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"25 RUE MARSOULAN"},"location":{"lat":48.8468244,"lon":2.4032343},"nbOfRoom":4,"price":72600,"surface":44}
+{"index" : {"_id":"630"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"51 RUE DE REUILLY"},"location":{"lat":48.8460618,"lon":2.3882692},"nbOfRoom":4,"price":100200,"surface":60}
+{"index" : {"_id":"631"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"45 AVENUE DE SAINT MANDE"},"location":{"lat":48.8451044,"lon":2.4028494},"nbOfRoom":4,"price":261240,"surface":40}
+{"index" : {"_id":"632"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"84 AVENUE DE ST MANDE"},"location":{"lat":48.8452022,"lon":2.3982084},"nbOfRoom":4,"price":64940,"surface":20}
+{"index" : {"_id":"633"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"86 BOULEVARD SOULT"},"location":{"lat":48.84646744,"lon":2.41114497},"nbOfRoom":4,"price":137980,"surface":20}
+{"index" : {"_id":"634"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"6 RUE DE BELLECHASSE"},"location":{"lat":48.8598078,"lon":2.3242853},"nbOfRoom":4,"price":338300,"surface":68}
+{"index" : {"_id":"635"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"46 AVENUE BOSQUET"},"location":{"lat":48.8559992,"lon":2.3045876},"nbOfRoom":4,"price":78304,"surface":32}
+{"index" : {"_id":"636"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"37 RUE DE BOURGOGNE"},"location":{"lat":48.8576309,"lon":2.317604},"nbOfRoom":4,"price":333336,"surface":76}
+{"index" : {"_id":"637"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"54 AVENUE DE LA BOURDONNAIS"},"location":{"lat":48.8563439,"lon":2.301931},"nbOfRoom":4,"price":146216,"surface":28}
+{"index" : {"_id":"638"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"23 AVENUE DE LA MOTTE PICQUET"},"location":{"lat":48.8554742,"lon":2.3076275},"nbOfRoom":4,"price":97152,"surface":24}
+{"index" : {"_id":"639"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"25 RUE VANEAU"},"location":{"lat":48.852943,"lon":2.3192649},"nbOfRoom":4,"price":259376,"surface":52}
+{"index" : {"_id":"640"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"21 RUE D AMSTERDAM"},"location":{"lat":48.87766421,"lon":2.3269558},"nbOfRoom":4,"price":402112,"surface":64}
+{"index" : {"_id":"641"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"71 AVENUE FRANKLIN D ROOSEVELT"},"location":{"lat":48.87271017,"lon":2.31006324},"nbOfRoom":4,"price":164736,"surface":36}
+{"index" : {"_id":"642"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"130 BOULEVARD HAUSSMANN"},"location":{"lat":48.87513987,"lon":2.31678524},"nbOfRoom":4,"price":80080,"surface":56}
+{"index" : {"_id":"643"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"13 RUE DE LA TREMOILLE"},"location":{"lat":48.867300150000005,"lon":2.30340332},"nbOfRoom":4,"price":116400,"surface":48}
+{"index" : {"_id":"644"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"21 RUE MARBEUF"},"location":{"lat":48.8685711,"lon":2.3034187},"nbOfRoom":4,"price":287584,"surface":44}
+{"index" : {"_id":"645"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"1 AVENUE DE MESSINE"},"location":{"lat":48.8756522,"lon":2.3142456},"nbOfRoom":4,"price":179856,"surface":36}
+{"index" : {"_id":"646"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"GAL DES MARCHANDS"},"location":{"lat":48.876097,"lon":2.325102},"nbOfRoom":4,"price":112288,"surface":44}
+{"index" : {"_id":"647"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"203 BOULEVARD VINCENT AURIOL"},"location":{"lat":48.83104151000001,"lon":2.3571091900000005},"nbOfRoom":4,"price":54880,"surface":28}
+{"index" : {"_id":"648"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"137 RUE D ALESIA"},"location":{"lat":48.82965636000001,"lon":2.32163597},"nbOfRoom":4,"price":74220,"surface":60}
+{"index" : {"_id":"649"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"24 RUE DES PLANTES"},"location":{"lat":48.8275941,"lon":2.32099},"nbOfRoom":4,"price":131424,"surface":24}
+{"index" : {"_id":"650"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"64 BOULEVARD BRUNE"},"location":{"lat":48.8258475,"lon":2.3128639},"nbOfRoom":4,"price":192780,"surface":28}
+{"index" : {"_id":"651"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"128 BOULEVARD BRUNE"},"location":{"lat":48.8234265,"lon":2.323761},"nbOfRoom":4,"price":192768,"surface":32}
+{"index" : {"_id":"652"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"97 AVENUE DENFERT ROCHEREAU"},"location":{"lat":48.8347648,"lon":2.3327271},"nbOfRoom":4,"price":393060,"surface":60}
+{"index" : {"_id":"653"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"11 RUE MARGUERIN"},"location":{"lat":48.8277549,"lon":2.3289438},"nbOfRoom":4,"price":370008,"surface":72}
+{"index" : {"_id":"654"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"1 RUE D ODESSA"},"location":{"lat":48.84334075000001,"lon":2.32426401},"nbOfRoom":4,"price":38052,"surface":28}
+{"index" : {"_id":"655"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"122 AVENUE DU GENERAL LECLERC"},"location":{"lat":48.8247715,"lon":2.3256445},"nbOfRoom":4,"price":100056,"surface":44}
+{"index" : {"_id":"656"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"89 RUE RAYMOND LOSSERAND"},"location":{"lat":48.8314253,"lon":2.3133237},"nbOfRoom":4,"price":149640,"surface":60}
+{"index" : {"_id":"657"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"156 RUE RAYMOND LOSSERAND"},"location":{"lat":48.8314253,"lon":2.3133237},"nbOfRoom":4,"price":247824,"surface":72}
+{"index" : {"_id":"658"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"3 RUE SARRETTE"},"location":{"lat":48.8255732,"lon":2.3277215},"nbOfRoom":4,"price":183920,"surface":44}
+{"index" : {"_id":"659"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"6 RUE DE L ARRIV\u00c9E"},"location":{"lat":48.84367615,"lon":2.322312},"nbOfRoom":4,"price":260372,"surface":68}
+{"index" : {"_id":"660"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"6 PL DE BRETEUIL"},"location":{"lat":48.84718835,"lon":2.31090605},"nbOfRoom":4,"price":482040,"surface":72}
+{"index" : {"_id":"661"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"36 RUE COLONEL PIERRE AVIA"},"location":{"lat":48.82857803000001,"lon":2.27358876},"nbOfRoom":4,"price":238112,"surface":56}
+{"index" : {"_id":"662"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"89 RUE DU COMMERCE"},"location":{"lat":48.8442222,"lon":2.2935652},"nbOfRoom":4,"price":147472,"surface":52}
+{"index" : {"_id":"663"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"4 AVENUE EMILE ZOLA"},"location":{"lat":48.8460554,"lon":2.277998},"nbOfRoom":4,"price":41240,"surface":40}
+{"index" : {"_id":"664"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"38 AVENUE FELIX FAURE"},"location":{"lat":48.8421252,"lon":2.2904369},"nbOfRoom":4,"price":497664,"surface":72}
+{"index" : {"_id":"665"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"6 BOULEVARD DE GRENELLE"},"location":{"lat":48.8537653,"lon":2.289141},"nbOfRoom":4,"price":191136,"surface":32}
+{"index" : {"_id":"666"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"77 BOULEVARD DE GRENELLE"},"location":{"lat":48.8503399,"lon":2.2945661},"nbOfRoom":4,"price":206516,"surface":68}
+{"index" : {"_id":"667"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"276 RUE LECOURBE"},"location":{"lat":48.8384712,"lon":2.2887008},"nbOfRoom":4,"price":333792,"surface":72}
+{"index" : {"_id":"668"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"19 RUE DE LOURMEL"},"location":{"lat":48.8493651,"lon":2.291455},"nbOfRoom":4,"price":83780,"surface":20}
+{"index" : {"_id":"669"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"37 AVENUE DE LOWENDAL"},"location":{"lat":48.8485234,"lon":2.3028352},"nbOfRoom":4,"price":129228,"surface":44}
+{"index" : {"_id":"670"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"40 BOULEVARD PASTEUR"},"location":{"lat":48.8418293,"lon":2.3130284},"nbOfRoom":4,"price":161576,"surface":76}
+{"index" : {"_id":"671"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"48 RUE PAUL BARRUEL"},"location":{"lat":48.8370128,"lon":2.3060462},"nbOfRoom":4,"price":297484,"surface":44}
+{"index" : {"_id":"672"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"9 RUE DU THEATRE"},"location":{"lat":48.8471467,"lon":2.292651},"nbOfRoom":4,"price":98260,"surface":20}
+{"index" : {"_id":"673"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"42 RUE DU THEATRE"},"location":{"lat":48.8488575,"lon":2.2880307},"nbOfRoom":4,"price":265380,"surface":60}
+{"index" : {"_id":"674"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"15 RUE VALENTIN HAUY"},"location":{"lat":48.8465664,"lon":2.3086873},"nbOfRoom":4,"price":258832,"surface":56}
+{"index" : {"_id":"675"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"245 RUE DE VAUGIRARD"},"location":{"lat":48.8406234,"lon":2.3051789},"nbOfRoom":4,"price":76232,"surface":52}
+{"index" : {"_id":"676"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"57 RUE DE VOUILLE"},"location":{"lat":48.8335885,"lon":2.3094645},"nbOfRoom":4,"price":197328,"surface":48}
+{"index" : {"_id":"677"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"19 RUE DE LA CROIX NIVERT"},"location":{"lat":48.8409168,"lon":2.2911033},"nbOfRoom":4,"price":134064,"surface":24}
+{"index" : {"_id":"678"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"43 RUE D AUTEUIL"},"location":{"lat":48.8503731,"lon":2.25902687148261},"nbOfRoom":4,"price":297024,"surface":64}
+{"index" : {"_id":"679"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"52 RUE D AUTEUIL"},"location":{"lat":48.8503731,"lon":2.25902687148261},"nbOfRoom":4,"price":145384,"surface":68}
+{"index" : {"_id":"680"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"49 RUE CHARDON LAGACHE"},"location":{"lat":48.8431038,"lon":2.2650017},"nbOfRoom":4,"price":335272,"surface":56}
+{"index" : {"_id":"681"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"35 RUE DE LA FONTAINE"},"location":{"lat":48.85063,"lon":2.271287},"nbOfRoom":4,"price":290820,"surface":60}
+{"index" : {"_id":"682"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"122 RUE LA FONTAINE"},"location":{"lat":48.848251,"lon":2.264435},"nbOfRoom":4,"price":131712,"surface":56}
+{"index" : {"_id":"683"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"101 AVENUE MOZART"},"location":{"lat":48.8515906,"lon":2.2678256},"nbOfRoom":4,"price":163616,"surface":32}
+{"index" : {"_id":"684"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"92 BOULEVARD MURAT"},"location":{"lat":48.8389743,"lon":2.2654897},"nbOfRoom":4,"price":190080,"surface":48}
+{"index" : {"_id":"685"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"2 PL DE PASSY"},"location":{"lat":48.857809,"lon":2.2774307},"nbOfRoom":4,"price":223800,"surface":60}
+{"index" : {"_id":"686"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"48 RUE DE BOULAINVILLIERS"},"location":{"lat":48.8559682,"lon":2.2750029},"nbOfRoom":4,"price":410704,"surface":76}
+{"index" : {"_id":"687"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"14 RUE DE REMUSAT"},"location":{"lat":48.8481247,"lon":2.271359},"nbOfRoom":4,"price":131904,"surface":36}
+{"index" : {"_id":"688"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"181 AVENUE DE VERSAILLES"},"location":{"lat":48.8400463,"lon":2.2640942},"nbOfRoom":4,"price":437760,"surface":72}
+{"index" : {"_id":"689"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"167 AVENUE DE VERSAILLES"},"location":{"lat":48.8409897,"lon":2.2657799},"nbOfRoom":4,"price":117072,"surface":72}
+{"index" : {"_id":"690"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"63 RUE DE LA FAISANDERIE"},"location":{"lat":48.868204060000004,"lon":2.2755065600000006},"nbOfRoom":4,"price":48608,"surface":28}
+{"index" : {"_id":"691"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"37 RUE LA PEROUSE"},"location":{"lat":48.87223248,"lon":2.29515087},"nbOfRoom":4,"price":199620,"surface":36}
+{"index" : {"_id":"692"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"91 RUE DE LONGCHAMP"},"location":{"lat":48.8656041,"lon":2.28297606},"nbOfRoom":4,"price":50116,"surface":44}
+{"index" : {"_id":"693"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"8 AVENUE PIERRE 1ER SERBIE"},"location":{"lat":48.8656231,"lon":2.29563899},"nbOfRoom":4,"price":119016,"surface":72}
+{"index" : {"_id":"694"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"126 RUE DE LA POMPE"},"location":{"lat":48.8631878,"lon":2.2765333},"nbOfRoom":4,"price":96544,"surface":28}
+{"index" : {"_id":"695"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"37 RUE SAINT DIDIER"},"location":{"lat":48.86689782,"lon":2.28408739},"nbOfRoom":4,"price":169400,"surface":28}
+{"index" : {"_id":"696"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"156 AVENUE VICTOR HUGO"},"location":{"lat":48.86649013,"lon":2.27786466},"nbOfRoom":4,"price":526300,"surface":76}
+{"index" : {"_id":"697"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"74 AVENUE DE CLICHY"},"location":{"lat":48.8893683,"lon":2.3223298},"nbOfRoom":4,"price":357272,"surface":68}
+{"index" : {"_id":"698"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"123 AVENUE DE CLICHY"},"location":{"lat":48.8893683,"lon":2.3223298},"nbOfRoom":4,"price":44976,"surface":24}
+{"index" : {"_id":"699"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"85 RUE DE COURCELLES"},"location":{"lat":48.8798862,"lon":2.3022233},"nbOfRoom":4,"price":107840,"surface":40}
+{"index" : {"_id":"700"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"27 RUE FOURCROY"},"location":{"lat":48.881251,"lon":2.2982861},"nbOfRoom":4,"price":135168,"surface":24}
+{"index" : {"_id":"701"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"68 AVENUE DE LA GRANDE ARM\u00c9E"},"location":{"lat":48.8771737,"lon":2.2854626},"nbOfRoom":4,"price":61208,"surface":28}
+{"index" : {"_id":"702"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"1 RUE JOUFFROY D ABBANS"},"location":{"lat":48.887141,"lon":2.313621},"nbOfRoom":4,"price":300884,"surface":76}
+{"index" : {"_id":"703"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"25 RUE JOUFFROY D ABBANS"},"location":{"lat":48.88615339999999,"lon":2.3101651699999994},"nbOfRoom":4,"price":225000,"surface":40}
+{"index" : {"_id":"704"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"25 RUE LA CONDAMINE"},"location":{"lat":48.8870247,"lon":2.3231796},"nbOfRoom":4,"price":199784,"surface":68}
+{"index" : {"_id":"705"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"58 RUE DE LA JONQUIERE"},"location":{"lat":48.8938465,"lon":2.3219921},"nbOfRoom":4,"price":104936,"surface":52}
+{"index" : {"_id":"706"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"26 RUE DES MOINES"},"location":{"lat":48.8880797,"lon":2.3186755},"nbOfRoom":4,"price":151760,"surface":56}
+{"index" : {"_id":"707"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"36 AVENUE NIEL"},"location":{"lat":48.8817183,"lon":2.2959871},"nbOfRoom":4,"price":181224,"surface":36}
+{"index" : {"_id":"708"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"80 RUE DE PRONY"},"location":{"lat":48.8839221,"lon":2.3006586},"nbOfRoom":4,"price":127160,"surface":40}
+{"index" : {"_id":"709"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"121 AVENUE DE SAINT OUEN"},"location":{"lat":48.8901483,"lon":2.3264696},"nbOfRoom":4,"price":287160,"surface":60}
+{"index" : {"_id":"710"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"29 AVENUE DES TERNES"},"location":{"lat":48.8783503,"lon":2.2947778},"nbOfRoom":4,"price":136992,"surface":48}
+{"index" : {"_id":"711"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"8 AVENUE DE VILLIERS"},"location":{"lat":48.8817165,"lon":2.3153279},"nbOfRoom":4,"price":97600,"surface":20}
+{"index" : {"_id":"712"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"131 AVENUE DE VILLIERS"},"location":{"lat":48.8852336,"lon":2.2938639},"nbOfRoom":4,"price":317968,"surface":56}
+{"index" : {"_id":"713"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"71 AVENUE DE VILLIERS"},"location":{"lat":48.8836629,"lon":2.3048246},"nbOfRoom":4,"price":117504,"surface":36}
+{"index" : {"_id":"714"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"48 BOULEVARD BARBES"},"location":{"lat":48.8873962,"lon":2.3499568},"nbOfRoom":4,"price":114960,"surface":24}
+{"index" : {"_id":"715"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"64 BOULEVARD BARBES"},"location":{"lat":48.8884767,"lon":2.349789},"nbOfRoom":4,"price":120380,"surface":20}
+{"index" : {"_id":"716"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"106 RUE CAULAINCOURT"},"location":{"lat":48.8897314,"lon":2.3413901},"nbOfRoom":4,"price":74200,"surface":28}
+{"index" : {"_id":"717"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"17 RUE DE LA CHAPELLE"},"location":{"lat":48.8915013,"lon":2.3596583},"nbOfRoom":4,"price":159488,"surface":28}
+{"index" : {"_id":"718"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"93 RUE DE LA CHAPELLE"},"location":{"lat":48.8979868,"lon":2.3586706},"nbOfRoom":4,"price":75888,"surface":24}
+{"index" : {"_id":"719"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"62 RUE CUSTINE"},"location":{"lat":48.8898115,"lon":2.3432205},"nbOfRoom":4,"price":206064,"surface":48}
+{"index" : {"_id":"720"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"25 RUE DOUDEAUVILLE"},"location":{"lat":48.8883594,"lon":2.3493799},"nbOfRoom":4,"price":81344,"surface":32}
+{"index" : {"_id":"721"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"2 RUE LEON"},"location":{"lat":48.8875966,"lon":2.3534752},"nbOfRoom":4,"price":264384,"surface":64}
+{"index" : {"_id":"722"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"141 RUE MARCADET"},"location":{"lat":48.891377,"lon":2.3378183},"nbOfRoom":4,"price":60576,"surface":24}
+{"index" : {"_id":"723"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"39 RUE MARX DORMOY"},"location":{"lat":48.8889521,"lon":2.359872},"nbOfRoom":4,"price":117480,"surface":40}
+{"index" : {"_id":"724"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"26 BOULEVARD NEY"},"location":{"lat":48.8982027,"lon":2.3527857},"nbOfRoom":4,"price":193424,"surface":56}
+{"index" : {"_id":"725"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"142 BOULEVARD NEY"},"location":{"lat":48.8982027,"lon":2.3527857},"nbOfRoom":4,"price":233568,"surface":36}
+{"index" : {"_id":"726"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"143 RUE ORDENER"},"location":{"lat":48.8939071,"lon":2.3343602},"nbOfRoom":4,"price":129528,"surface":24}
+{"index" : {"_id":"727"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"16 BOULEVARD ORNANO"},"location":{"lat":48.8964073,"lon":2.3456278},"nbOfRoom":4,"price":38808,"surface":36}
+{"index" : {"_id":"728"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"5 PL ALBERT KAHN"},"location":{"lat":48.8959724,"lon":2.3464176},"nbOfRoom":4,"price":329580,"surface":60}
+{"index" : {"_id":"729"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"1 AVENUE PTE DE MONTMARTRE"},"location":{"lat":48.898037,"lon":2.336978},"nbOfRoom":4,"price":47080,"surface":20}
+{"index" : {"_id":"730"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"40 RUE DU POTEAU"},"location":{"lat":48.8942506,"lon":2.3414298},"nbOfRoom":4,"price":93720,"surface":20}
+{"index" : {"_id":"731"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"90 AVENUE DE SAINT OUEN"},"location":{"lat":48.8954321,"lon":2.3282892},"nbOfRoom":4,"price":133276,"surface":52}
+{"index" : {"_id":"732"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"23 RUE DE SUEZ"},"location":{"lat":48.8875671,"lon":2.3526583},"nbOfRoom":4,"price":217600,"surface":32}
+{"index" : {"_id":"733"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"2 PL PIERRE MAC ORLAN"},"location":{"lat":48.8954622,"lon":2.3624592},"nbOfRoom":4,"price":141440,"surface":68}
+{"index" : {"_id":"734"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"1 RUE ALPHONSE AULARD"},"location":{"lat":48.8803175,"lon":2.3987766},"nbOfRoom":4,"price":99456,"surface":28}
+{"index" : {"_id":"735"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"60 AVENUE DE FLANDRE"},"location":{"lat":48.8931234,"lon":2.3801748},"nbOfRoom":4,"price":128304,"surface":72}
+{"index" : {"_id":"736"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"118 AVENUE DE FLANDRE"},"location":{"lat":48.8931234,"lon":2.3801748},"nbOfRoom":4,"price":261144,"surface":72}
+{"index" : {"_id":"737"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"167 AVENUE DE FLANDRE"},"location":{"lat":48.8931234,"lon":2.3801748},"nbOfRoom":4,"price":114912,"surface":56}
+{"index" : {"_id":"738"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"15 RUE HENRI RIBIERE"},"location":{"lat":48.8771538,"lon":2.3954278},"nbOfRoom":4,"price":124728,"surface":24}
+{"index" : {"_id":"739"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"148 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":135460,"surface":52}
+{"index" : {"_id":"740"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"50 RUE REBEVAL"},"location":{"lat":48.8747422,"lon":2.3804815},"nbOfRoom":4,"price":152464,"surface":52}
+{"index" : {"_id":"741"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"43 AVENUE SIMON BOLIVAR"},"location":{"lat":48.8760036,"lon":2.3808312},"nbOfRoom":4,"price":83400,"surface":24}
+{"index" : {"_id":"742"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"99 AVENUE SIMON BOLIVAR"},"location":{"lat":48.8774567,"lon":2.3739296},"nbOfRoom":4,"price":270720,"surface":72}
+{"index" : {"_id":"743"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"121 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":154008,"surface":36}
+{"index" : {"_id":"744"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"43 RUE D AVRON"},"location":{"lat":48.852041,"lon":2.40159},"nbOfRoom":4,"price":238140,"surface":60}
+{"index" : {"_id":"745"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"56 RUE D AVRON"},"location":{"lat":48.85217213,"lon":2.40319281},"nbOfRoom":4,"price":236640,"surface":48}
+{"index" : {"_id":"746"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"100 RUE D AVRON"},"location":{"lat":48.852775990000005,"lon":2.40650743},"nbOfRoom":4,"price":298368,"surface":72}
+{"index" : {"_id":"747"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"242 RUE DE LA CONVENTION"},"location":{"lat":48.8357916,"lon":2.3010819},"nbOfRoom":4,"price":320760,"surface":60}
+{"index" : {"_id":"748"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"60 RUE DE LA CROIX NIVERT"},"location":{"lat":48.8451633,"lon":2.2974608},"nbOfRoom":4,"price":62720,"surface":32}
+{"index" : {"_id":"749"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"14 VILLA CROIX NIVERT"},"location":{"lat":48.8456956,"lon":2.300052},"nbOfRoom":4,"price":70588,"surface":28}
+{"index" : {"_id":"750"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"1 RUE ERNEST RENAN"},"location":{"lat":48.8443635,"lon":2.3093451},"nbOfRoom":4,"price":181224,"surface":72}
+{"index" : {"_id":"751"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"19 AVENUE FELIX FAURE"},"location":{"lat":48.8420925,"lon":2.2906251},"nbOfRoom":4,"price":43460,"surface":20}
+{"index" : {"_id":"752"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"45 AVENUE F\u00c9LIX FAURE"},"location":{"lat":48.8407954,"lon":2.2874031},"nbOfRoom":4,"price":204864,"surface":32}
+{"index" : {"_id":"753"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"39 BOULEVARD DE GRENELLE"},"location":{"lat":48.8477577,"lon":2.3017177},"nbOfRoom":4,"price":105996,"surface":44}
+{"index" : {"_id":"754"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"5 RUE LECOURBE"},"location":{"lat":48.8447732,"lon":2.3102547},"nbOfRoom":4,"price":263120,"surface":44}
+{"index" : {"_id":"755"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"188 RUE LECOURBE"},"location":{"lat":48.8409056,"lon":2.2966952},"nbOfRoom":4,"price":140004,"surface":36}
+{"index" : {"_id":"756"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"360 RUE LECOURBE"},"location":{"lat":48.836462,"lon":2.2820354},"nbOfRoom":4,"price":124304,"surface":68}
+{"index" : {"_id":"757"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"59 BOULEVARD LEFEBVRE"},"location":{"lat":48.8310694,"lon":2.2925616},"nbOfRoom":4,"price":482828,"surface":76}
+{"index" : {"_id":"758"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"94 BOULEVARD LEFEBVRE"},"location":{"lat":48.8284684,"lon":2.3010363},"nbOfRoom":4,"price":137976,"surface":24}
+{"index" : {"_id":"759"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"47 BOULEVARD PASTEUR"},"location":{"lat":48.8422471,"lon":2.3135585},"nbOfRoom":4,"price":174144,"surface":64}
+{"index" : {"_id":"760"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"10 PL RAOUL DAUTRY"},"location":{"lat":48.8417149,"lon":2.3206214},"nbOfRoom":4,"price":100220,"surface":20}
+{"index" : {"_id":"761"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"185 RUE DE VAUGIRARD"},"location":{"lat":48.8427013,"lon":2.3120721},"nbOfRoom":4,"price":145292,"surface":28}
+{"index" : {"_id":"762"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"347 RUE DE VAUGIRARD"},"location":{"lat":48.8371001,"lon":2.2963619},"nbOfRoom":4,"price":515432,"surface":76}
+{"index" : {"_id":"763"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"47 BOULEVARD VICTOR"},"location":{"lat":48.8337645,"lon":2.286261},"nbOfRoom":4,"price":54504,"surface":36}
+{"index" : {"_id":"764"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"84 RUE BOILEAU"},"location":{"lat":48.8435682,"lon":2.2632197},"nbOfRoom":4,"price":361648,"surface":56}
+{"index" : {"_id":"765"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"4 CHS MUETTE"},"location":{"lat":48.8581869,"lon":2.27416545},"nbOfRoom":4,"price":454240,"surface":68}
+{"index" : {"_id":"766"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"2 AVENUE THEOPHILE GAUTIER"},"location":{"lat":48.8510858,"lon":2.2748156},"nbOfRoom":4,"price":120380,"surface":20}
+{"index" : {"_id":"767"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"38 AVENUE DE VERSAILLES"},"location":{"lat":48.8493322,"lon":2.2754183},"nbOfRoom":4,"price":463896,"surface":72}
+{"index" : {"_id":"768"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"18 AVENUE BUGEAUD"},"location":{"lat":48.87025796,"lon":2.2826711799999995},"nbOfRoom":4,"price":52320,"surface":48}
+{"index" : {"_id":"769"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"16 RUE DUFRENOY"},"location":{"lat":48.8662711,"lon":2.2737162},"nbOfRoom":4,"price":264352,"surface":44}
+{"index" : {"_id":"770"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"33 RUE LAURISTON"},"location":{"lat":48.87079614000001,"lon":2.291543130000001},"nbOfRoom":4,"price":242856,"surface":72}
+{"index" : {"_id":"771"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"99 RUE LAURISTON"},"location":{"lat":48.86713460000001,"lon":2.28771685},"nbOfRoom":4,"price":94320,"surface":72}
+{"index" : {"_id":"772"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"31 RUE DE LUBECK"},"location":{"lat":48.86482715999999,"lon":2.29147822},"nbOfRoom":4,"price":295968,"surface":48}
+{"index" : {"_id":"773"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"37 AVENUE MARCEAU"},"location":{"lat":48.86832421999999,"lon":2.2988065499999997},"nbOfRoom":4,"price":461244,"surface":68}
+{"index" : {"_id":"774"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"28 AVENUE RAYMOND POINCARE"},"location":{"lat":48.86545426,"lon":2.28640562},"nbOfRoom":4,"price":182700,"surface":28}
+{"index" : {"_id":"775"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"72 RUE DE LA TOUR"},"location":{"lat":48.8627304,"lon":2.276455},"nbOfRoom":4,"price":106656,"surface":44}
+{"index" : {"_id":"776"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"6 AVENUE VICTOR HUGO"},"location":{"lat":48.872829530000004,"lon":2.2928340700000005},"nbOfRoom":4,"price":141196,"surface":44}
+{"index" : {"_id":"777"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"1 RUE BERZELIUS"},"location":{"lat":48.8932294,"lon":2.3189159},"nbOfRoom":4,"price":20520,"surface":20}
+{"index" : {"_id":"778"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"36 BOULEVARD BESSIERES"},"location":{"lat":48.8961511,"lon":2.3184356},"nbOfRoom":4,"price":126204,"surface":52}
+{"index" : {"_id":"779"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"37 RUE BROCHANT"},"location":{"lat":48.8899743,"lon":2.319188},"nbOfRoom":4,"price":163656,"surface":24}
+{"index" : {"_id":"780"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"142 AVENUE DE CLICHY"},"location":{"lat":48.8893683,"lon":2.3223298},"nbOfRoom":4,"price":290160,"surface":48}
+{"index" : {"_id":"781"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"182 AVENUE DE CLICHY"},"location":{"lat":48.8929148,"lon":2.3163857},"nbOfRoom":4,"price":230148,"surface":36}
+{"index" : {"_id":"782"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"41 RUE DAUTANCOURT"},"location":{"lat":48.8907024,"lon":2.3257698},"nbOfRoom":4,"price":195328,"surface":32}
+{"index" : {"_id":"783"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"5 RUE LEBON"},"location":{"lat":48.8806784,"lon":2.2923066},"nbOfRoom":4,"price":305932,"surface":68}
+{"index" : {"_id":"784"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"35 RUE DE LEVIS"},"location":{"lat":48.8827505,"lon":2.3148008},"nbOfRoom":4,"price":235980,"surface":36}
+{"index" : {"_id":"785"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"151 BOULEVARD MALESHERBES"},"location":{"lat":48.8849221,"lon":2.3073186},"nbOfRoom":4,"price":155772,"surface":36}
+{"index" : {"_id":"786"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"23 RUE DES MOINES"},"location":{"lat":48.8888548,"lon":2.3193113},"nbOfRoom":4,"price":24400,"surface":20}
+{"index" : {"_id":"787"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"5 PL DE LA PTE CHAMPERRET"},"location":{"lat":48.8857618,"lon":2.29063869},"nbOfRoom":4,"price":209856,"surface":32}
+{"index" : {"_id":"788"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"53 RUE DE PRONY"},"location":{"lat":48.8822691,"lon":2.3040656},"nbOfRoom":4,"price":268972,"surface":44}
+{"index" : {"_id":"789"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"64 RUE DE TOCQUEVILLE"},"location":{"lat":48.8849438,"lon":2.3109526},"nbOfRoom":4,"price":153068,"surface":68}
+{"index" : {"_id":"790"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"120 RUE DE TOCQUEVILLE"},"location":{"lat":48.8819527,"lon":2.3145428},"nbOfRoom":4,"price":81840,"surface":60}
+{"index" : {"_id":"791"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"157 AVENUE DE WAGRAM"},"location":{"lat":48.8861455,"lon":2.3038104},"nbOfRoom":4,"price":308592,"surface":48}
+{"index" : {"_id":"792"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"5 RUE DE CLIGNANCOURT"},"location":{"lat":48.8840108,"lon":2.3469617},"nbOfRoom":4,"price":75360,"surface":32}
+{"index" : {"_id":"793"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"23 RUE CUSTINE"},"location":{"lat":48.8886029,"lon":2.3469296},"nbOfRoom":4,"price":52308,"surface":36}
+{"index" : {"_id":"794"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"18 RUE HERMEL"},"location":{"lat":48.8917844,"lon":2.3446788},"nbOfRoom":4,"price":37760,"surface":32}
+{"index" : {"_id":"795"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"30 RUE HERMEL"},"location":{"lat":48.892578,"lon":2.3451771},"nbOfRoom":4,"price":305708,"surface":52}
+{"index" : {"_id":"796"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"30 RUE LEPIC"},"location":{"lat":48.8861887,"lon":2.3342353},"nbOfRoom":4,"price":126576,"surface":24}
+{"index" : {"_id":"797"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"90 RUE DES MARTYRS"},"location":{"lat":48.8837329,"lon":2.3397952},"nbOfRoom":4,"price":59920,"surface":28}
+{"index" : {"_id":"798"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"34 RUE MARX DORMOY"},"location":{"lat":48.8889521,"lon":2.359872},"nbOfRoom":4,"price":167348,"surface":68}
+{"index" : {"_id":"799"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"56 BOULEVARD ORNANO"},"location":{"lat":48.8964073,"lon":2.3456278},"nbOfRoom":4,"price":228720,"surface":40}
+{"index" : {"_id":"800"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"38 RUE POULET"},"location":{"lat":48.8880883,"lon":2.3512394},"nbOfRoom":4,"price":217724,"surface":52}
+{"index" : {"_id":"801"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"18 RUE RAVIGNAN"},"location":{"lat":48.8849464,"lon":2.3374867},"nbOfRoom":4,"price":75572,"surface":28}
+{"index" : {"_id":"802"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"67 RUE RIQUET"},"location":{"lat":48.8898805,"lon":2.3627422},"nbOfRoom":4,"price":218416,"surface":44}
+{"index" : {"_id":"803"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"10 AVENUE DE SAINT OUEN"},"location":{"lat":48.8878239,"lon":2.3258581},"nbOfRoom":4,"price":49000,"surface":40}
+{"index" : {"_id":"804"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"18 RUE SIMART"},"location":{"lat":48.8897591,"lon":2.3493613},"nbOfRoom":4,"price":111440,"surface":28}
+{"index" : {"_id":"805"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"117 RUE DE BELLEVILLE"},"location":{"lat":48.87475,"lon":2.3877263},"nbOfRoom":4,"price":104136,"surface":24}
+{"index" : {"_id":"806"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"137 RUE DE BELLEVILLE"},"location":{"lat":48.8749902,"lon":2.3888644},"nbOfRoom":4,"price":330120,"surface":56}
+{"index" : {"_id":"807"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"246 RUE DE CRIMEE"},"location":{"lat":48.8881081,"lon":2.3796243},"nbOfRoom":4,"price":206460,"surface":60}
+{"index" : {"_id":"808"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"29 RUE EUGENE JUMIN"},"location":{"lat":48.8884367,"lon":2.3919699},"nbOfRoom":4,"price":198068,"surface":52}
+{"index" : {"_id":"809"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"2 AVENUE DE LA PORTE CHAUMONT"},"location":{"lat":48.8858826,"lon":2.3988838},"nbOfRoom":4,"price":182988,"surface":36}
+{"index" : {"_id":"810"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"27 AVENUE DE FLANDRE"},"location":{"lat":48.8931234,"lon":2.3801748},"nbOfRoom":4,"price":151200,"surface":72}
+{"index" : {"_id":"811"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"11 PL AUGUSTE METIVIER"},"location":{"lat":48.86326878999999,"lon":2.3883113299999996},"nbOfRoom":4,"price":193024,"surface":32}
+{"index" : {"_id":"812"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"6 RUE DE BAGNOLET"},"location":{"lat":48.8566263,"lon":2.3952302},"nbOfRoom":4,"price":173136,"surface":48}
+{"index" : {"_id":"813"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"95 RUE DE BAGNOLET"},"location":{"lat":48.8589684,"lon":2.4016789},"nbOfRoom":4,"price":125328,"surface":28}
+{"index" : {"_id":"814"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"86 BOULEVARD DE BELLEVILLE"},"location":{"lat":48.87006596,"lon":2.3793835899999998},"nbOfRoom":4,"price":82500,"surface":60}
+{"index" : {"_id":"815"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"147 AVENUE GAMBETTA"},"location":{"lat":48.8698336,"lon":2.402596},"nbOfRoom":4,"price":75824,"surface":28}
+{"index" : {"_id":"816"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"43 RUE DES MARONITES"},"location":{"lat":48.86891570000001,"lon":2.3855957400000003},"nbOfRoom":4,"price":219600,"surface":40}
+{"index" : {"_id":"817"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"144 BOULEVARD DE MENILMONTANT"},"location":{"lat":48.8632649,"lon":2.3858206},"nbOfRoom":4,"price":104000,"surface":64}
+{"index" : {"_id":"818"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"76 BOULEVARD MORTIER"},"location":{"lat":48.8693019,"lon":2.4092077},"nbOfRoom":4,"price":154368,"surface":48}
+{"index" : {"_id":"819"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"168 BOULEVARD MORTIER"},"location":{"lat":48.8767142,"lon":2.4072421},"nbOfRoom":4,"price":216396,"surface":36}
+{"index" : {"_id":"820"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"1 RUE DES PYRENEES"},"location":{"lat":48.8529115,"lon":2.4059528},"nbOfRoom":4,"price":160384,"surface":28}
+{"index" : {"_id":"821"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"243 RUE DES PYRENEES"},"location":{"lat":48.8514871,"lon":2.4062808},"nbOfRoom":4,"price":146160,"surface":28}
+{"index" : {"_id":"822"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"60 RUE DE LA REUNION"},"location":{"lat":48.8544383,"lon":2.4022023},"nbOfRoom":4,"price":205280,"surface":32}
+{"index" : {"_id":"823"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"11 RUE SAINT FARGEAU"},"location":{"lat":48.8710569,"lon":2.4000483},"nbOfRoom":4,"price":204732,"surface":36}
+{"index" : {"_id":"824"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"21 RUE DE POMMARD"},"location":{"lat":48.8360108,"lon":2.3842481},"nbOfRoom":4,"price":327264,"surface":48}
+{"index" : {"_id":"825"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"1 RUE DU QUATRE SEPTEMBRE"},"location":{"lat":48.8690072,"lon":2.3390901},"nbOfRoom":4,"price":115296,"surface":32}
+{"index" : {"_id":"826"}}
+{"address":{"city":"PARIS 12","postalCode":"75012","street":"30 QU RAPEE"},"location":{"lat":48.84089005,"lon":2.3737421000000003},"nbOfRoom":4,"price":238400,"surface":64}
+{"index" : {"_id":"827"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"83 BOULEVARD AUGUSTE BLANQUI"},"location":{"lat":48.82991999,"lon":2.34719038},"nbOfRoom":4,"price":41060,"surface":20}
+{"index" : {"_id":"828"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"30 RUE BOBILLOT"},"location":{"lat":48.8286538,"lon":2.3530172},"nbOfRoom":4,"price":213588,"surface":36}
+{"index" : {"_id":"829"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"22 RUE DU DISQUE"},"location":{"lat":48.8244247,"lon":2.3655088},"nbOfRoom":4,"price":201076,"surface":68}
+{"index" : {"_id":"830"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"23 RUE DE LA GLACIERE"},"location":{"lat":48.834204,"lon":2.344914},"nbOfRoom":4,"price":183744,"surface":48}
+{"index" : {"_id":"831"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"69 RUE DE LA GLACIERE"},"location":{"lat":48.83055657,"lon":2.34405085},"nbOfRoom":4,"price":171080,"surface":56}
+{"index" : {"_id":"832"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"117 AVENUE D IVRY"},"location":{"lat":48.82583052,"lon":2.3606523899999994},"nbOfRoom":4,"price":408420,"surface":60}
+{"index" : {"_id":"833"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"34 AVENUE LA PORTE DE CHOISY"},"location":{"lat":48.819654,"lon":2.365252},"nbOfRoom":4,"price":390768,"surface":56}
+{"index" : {"_id":"834"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"50 AVENUE DE LA PORTE D IVRY"},"location":{"lat":48.82157148000001,"lon":2.3693775100000005},"nbOfRoom":4,"price":318344,"surface":52}
+{"index" : {"_id":"835"}}
+{"address":{"city":"PARIS 13","postalCode":"75013","street":"200 RUE DE TOLBIAC"},"location":{"lat":48.8270993,"lon":2.3671009},"nbOfRoom":4,"price":281940,"surface":60}
+{"index" : {"_id":"836"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"65 RUE D ALESIA"},"location":{"lat":48.82782876000001,"lon":2.3296608},"nbOfRoom":4,"price":53220,"surface":20}
+{"index" : {"_id":"837"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"105 RUE D ALESIA"},"location":{"lat":48.828436409999995,"lon":2.3249958299999998},"nbOfRoom":4,"price":271808,"surface":64}
+{"index" : {"_id":"838"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"203 RUE D ALESIA"},"location":{"lat":48.831685779999994,"lon":2.3147195599999995},"nbOfRoom":4,"price":35680,"surface":20}
+{"index" : {"_id":"839"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"27 RUE BREZIN"},"location":{"lat":48.8314359,"lon":2.3269628},"nbOfRoom":4,"price":337512,"surface":56}
+{"index" : {"_id":"840"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"95 RUE DIDOT"},"location":{"lat":48.8286433,"lon":2.3165619},"nbOfRoom":4,"price":236556,"surface":36}
+{"index" : {"_id":"841"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"25 RUE FRIANT"},"location":{"lat":48.8245095,"lon":2.32371},"nbOfRoom":4,"price":404712,"surface":72}
+{"index" : {"_id":"842"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"69 AVENUE DU MAINE"},"location":{"lat":48.8405744,"lon":2.3214791},"nbOfRoom":4,"price":36092,"surface":28}
+{"index" : {"_id":"843"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"178 AVENUE DU MAINE"},"location":{"lat":48.8405744,"lon":2.3214791},"nbOfRoom":4,"price":141440,"surface":52}
+{"index" : {"_id":"844"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"1 RUE MONTBRUN"},"location":{"lat":48.8288792,"lon":2.3300642},"nbOfRoom":4,"price":100912,"surface":68}
+{"index" : {"_id":"845"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"206 BOULEVARD RASPAIL"},"location":{"lat":48.8415374,"lon":2.3294739},"nbOfRoom":4,"price":310528,"surface":64}
+{"index" : {"_id":"846"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"282 BOULEVARD RASPAIL"},"location":{"lat":48.836965,"lon":2.3314466},"nbOfRoom":4,"price":65580,"surface":20}
+{"index" : {"_id":"847"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"45 RUE RAYMOND LOSSERAND"},"location":{"lat":48.8314253,"lon":2.3133237},"nbOfRoom":4,"price":489096,"surface":72}
+{"index" : {"_id":"848"}}
+{"address":{"city":"PARIS 14","postalCode":"75014","street":"15 AVENUE RENE COTY"},"location":{"lat":48.8304019,"lon":2.3341115},"nbOfRoom":4,"price":115360,"surface":40}
+{"index" : {"_id":"849"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"95 RUE DE LA CONVENTION"},"location":{"lat":48.8399936,"lon":2.2903367},"nbOfRoom":4,"price":135264,"surface":32}
+{"index" : {"_id":"850"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"131 RUE DE LA CONVENTION"},"location":{"lat":48.8403433,"lon":2.2899758},"nbOfRoom":4,"price":270140,"surface":52}
+{"index" : {"_id":"851"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"182 RUE DE LA CONVENTION"},"location":{"lat":48.8378562,"lon":2.2948057},"nbOfRoom":4,"price":83552,"surface":32}
+{"index" : {"_id":"852"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"139 AVENUE EMILE ZOLA"},"location":{"lat":48.8470731,"lon":2.2946151},"nbOfRoom":4,"price":167212,"surface":68}
+{"index" : {"_id":"853"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"63 BOULEVARD DE GRENELLE"},"location":{"lat":48.8507855,"lon":2.2931492},"nbOfRoom":4,"price":31276,"surface":28}
+{"index" : {"_id":"854"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"138 BOULEVARD DE GRENELLE"},"location":{"lat":48.8486842,"lon":2.2984758},"nbOfRoom":4,"price":45184,"surface":32}
+{"index" : {"_id":"855"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"57 AVENUE DE LA MOTTE PICQUET"},"location":{"lat":48.8497951,"lon":2.2992699},"nbOfRoom":4,"price":111140,"surface":20}
+{"index" : {"_id":"856"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"133 RUE LECOURBE"},"location":{"lat":48.8419978,"lon":2.3008},"nbOfRoom":4,"price":145728,"surface":48}
+{"index" : {"_id":"857"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"7 RPT DU PONT MIRABEAU"},"location":{"lat":48.8457481,"lon":2.27706889},"nbOfRoom":4,"price":54280,"surface":40}
+{"index" : {"_id":"858"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"122 RUE SAINT CHARLES"},"location":{"lat":48.8421499,"lon":2.2816381},"nbOfRoom":4,"price":223824,"surface":48}
+{"index" : {"_id":"859"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"198 RUE DE VAUGIRARD"},"location":{"lat":48.8414481,"lon":2.3075536},"nbOfRoom":4,"price":224000,"surface":56}
+{"index" : {"_id":"860"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"315 RUE DE VAUGIRARD"},"location":{"lat":48.8385206,"lon":2.2990707},"nbOfRoom":4,"price":378720,"surface":72}
+{"index" : {"_id":"861"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"333 RUE DE VAUGIRARD"},"location":{"lat":48.837607,"lon":2.2973302},"nbOfRoom":4,"price":75720,"surface":40}
+{"index" : {"_id":"862"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"395 RUE DE VAUGIRARD"},"location":{"lat":48.8339418,"lon":2.2904416},"nbOfRoom":4,"price":378392,"surface":56}
+{"index" : {"_id":"863"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"13 RUE CHERNOVIZ"},"location":{"lat":48.85772601,"lon":2.28132203},"nbOfRoom":4,"price":234780,"surface":60}
+{"index" : {"_id":"864"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"38 RUE DOCTEUR BLANCHE"},"location":{"lat":48.8538108,"lon":2.2652088},"nbOfRoom":4,"price":439296,"surface":64}
+{"index" : {"_id":"865"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"1 RUE DUBAN"},"location":{"lat":48.856402,"lon":2.2777604},"nbOfRoom":4,"price":325296,"surface":48}
+{"index" : {"_id":"866"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"48 AVENUE MOZART"},"location":{"lat":48.8554466,"lon":2.2699567},"nbOfRoom":4,"price":294336,"surface":48}
+{"index" : {"_id":"867"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"197 AVENUE DE VERSAILLES"},"location":{"lat":48.8388236,"lon":2.2608394},"nbOfRoom":4,"price":173760,"surface":64}
+{"index" : {"_id":"868"}}
+{"address":{"city":"PARIS 15","postalCode":"75015","street":"65 RUE DES CEVENNES"},"location":{"lat":48.8416647,"lon":2.282331},"nbOfRoom":4,"price":51432,"surface":24}
+{"index" : {"_id":"869"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"29 RUE DURET"},"location":{"lat":48.87532711,"lon":2.28654027},"nbOfRoom":4,"price":40584,"surface":24}
+{"index" : {"_id":"870"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"106 AVENUE KLEBER"},"location":{"lat":48.86513561,"lon":2.28869408},"nbOfRoom":4,"price":39536,"surface":28}
+{"index" : {"_id":"871"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"138 AVENUE DE MALAKOFF"},"location":{"lat":48.87516797,"lon":2.28392914},"nbOfRoom":4,"price":152600,"surface":56}
+{"index" : {"_id":"872"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"55 AVENUE MARCEAU"},"location":{"lat":48.86981696,"lon":2.29797721},"nbOfRoom":4,"price":84968,"surface":76}
+{"index" : {"_id":"873"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"5 PL DE MEXICO"},"location":{"lat":48.86537774,"lon":2.2830589800000007},"nbOfRoom":4,"price":110964,"surface":28}
+{"index" : {"_id":"874"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"82 RUE DE LA POMPE"},"location":{"lat":48.8631878,"lon":2.2765333},"nbOfRoom":4,"price":282240,"surface":64}
+{"index" : {"_id":"875"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"143 RUE DE LA POMPE"},"location":{"lat":48.8631878,"lon":2.2765333},"nbOfRoom":4,"price":237328,"surface":52}
+{"index" : {"_id":"876"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"132 AVENUE VICTOR HUGO"},"location":{"lat":48.86743306999999,"lon":2.28001684},"nbOfRoom":4,"price":333456,"surface":48}
+{"index" : {"_id":"877"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"1 PL VICTOR HUGO"},"location":{"lat":48.869731,"lon":2.285664},"nbOfRoom":4,"price":112580,"surface":52}
+{"index" : {"_id":"878"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"40 RUE DES ACACIAS"},"location":{"lat":48.8772108,"lon":2.2925204},"nbOfRoom":4,"price":330816,"surface":64}
+{"index" : {"_id":"879"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"96 BOULEVARD BERTHIER"},"location":{"lat":48.8900107,"lon":2.3033885},"nbOfRoom":4,"price":133144,"surface":68}
+{"index" : {"_id":"880"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"191 RUE DE COURCELLES"},"location":{"lat":48.8873383,"lon":2.2947653},"nbOfRoom":4,"price":180000,"surface":36}
+{"index" : {"_id":"881"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"73 RUE GUY MOQUET"},"location":{"lat":48.8921706,"lon":2.3234999},"nbOfRoom":4,"price":134712,"surface":36}
+{"index" : {"_id":"882"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"134 BOULEVARD PEREIRE"},"location":{"lat":48.8840953,"lon":2.2951517},"nbOfRoom":4,"price":180432,"surface":36}
+{"index" : {"_id":"883"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"2 RUE PIERRE DEMOURS"},"location":{"lat":48.8797253,"lon":2.2914609},"nbOfRoom":4,"price":244832,"surface":56}
+{"index" : {"_id":"884"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"29 RUE PIERRE DEMOURS"},"location":{"lat":48.8813957,"lon":2.294727},"nbOfRoom":4,"price":171836,"surface":28}
+{"index" : {"_id":"885"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"162 RUE DE COURCELLES"},"location":{"lat":48.8832923,"lon":2.2991265},"nbOfRoom":4,"price":113400,"surface":24}
+{"index" : {"_id":"886"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"22 RUE PONCELET"},"location":{"lat":48.8793021,"lon":2.2976052},"nbOfRoom":4,"price":56340,"surface":20}
+{"index" : {"_id":"887"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"51 RUE POUCHET"},"location":{"lat":48.8943992,"lon":2.3206611},"nbOfRoom":4,"price":122280,"surface":20}
+{"index" : {"_id":"888"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"12 AVENUE STEPHANE MALLARME"},"location":{"lat":48.8860898,"lon":2.2924402},"nbOfRoom":4,"price":216960,"surface":60}
+{"index" : {"_id":"889"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"90 AVENUE DES TERNES"},"location":{"lat":48.8804318,"lon":2.2872068},"nbOfRoom":4,"price":57624,"surface":28}
+{"index" : {"_id":"890"}}
+{"address":{"city":"PARIS 17","postalCode":"75017","street":"1 PL TRISTAN BERNARD"},"location":{"lat":48.8793735,"lon":2.29115205349274},"nbOfRoom":4,"price":208960,"surface":64}
+{"index" : {"_id":"891"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"5 RUE DE LA CHAPELLE"},"location":{"lat":48.8908055,"lon":2.3596922},"nbOfRoom":4,"price":254296,"surface":56}
+{"index" : {"_id":"892"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"3 PL CHARLES BERNARD"},"location":{"lat":48.8934597,"lon":2.34285690935121},"nbOfRoom":4,"price":148140,"surface":60}
+{"index" : {"_id":"893"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"34 BOULEVARD DE CLICHY"},"location":{"lat":48.88275839,"lon":2.3364374},"nbOfRoom":4,"price":66800,"surface":40}
+{"index" : {"_id":"894"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"29 RUE DE CLIGNANCOURT"},"location":{"lat":48.8856285,"lon":2.347294},"nbOfRoom":4,"price":164544,"surface":64}
+{"index" : {"_id":"895"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"63 RUE DAMREMONT"},"location":{"lat":48.8913606,"lon":2.3346869},"nbOfRoom":4,"price":111608,"surface":56}
+{"index" : {"_id":"896"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"23 RUE LETORT"},"location":{"lat":48.8966056,"lon":2.3437547},"nbOfRoom":4,"price":408256,"surface":64}
+{"index" : {"_id":"897"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"19 RUE MARX DORMOY"},"location":{"lat":48.8889521,"lon":2.359872},"nbOfRoom":4,"price":273240,"surface":40}
+{"index" : {"_id":"898"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"67 RUE MYRHA"},"location":{"lat":48.8866144,"lon":2.3504551},"nbOfRoom":4,"price":353864,"surface":56}
+{"index" : {"_id":"899"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"37 BOULEVARD NEY"},"location":{"lat":48.8982027,"lon":2.3527857},"nbOfRoom":4,"price":138096,"surface":48}
+{"index" : {"_id":"900"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"4 RUE ORDENER"},"location":{"lat":48.8939071,"lon":2.3343602},"nbOfRoom":4,"price":256032,"surface":56}
+{"index" : {"_id":"901"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"75 RUE ORDENER"},"location":{"lat":48.8904169,"lon":2.3596324},"nbOfRoom":4,"price":317856,"surface":48}
+{"index" : {"_id":"902"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"130 RUE ORDENER"},"location":{"lat":48.8939071,"lon":2.3343602},"nbOfRoom":4,"price":31480,"surface":20}
+{"index" : {"_id":"903"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"44 BOULEVARD ORNANO"},"location":{"lat":48.8964073,"lon":2.3456278},"nbOfRoom":4,"price":246096,"surface":36}
+{"index" : {"_id":"904"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"61 RUE DES POISSONNIERS"},"location":{"lat":48.8979584,"lon":2.3525648},"nbOfRoom":4,"price":110152,"surface":56}
+{"index" : {"_id":"905"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"35 AVENUE PTE CLIGNANCOURT"},"location":{"lat":48.900086,"lon":2.344371},"nbOfRoom":4,"price":173320,"surface":56}
+{"index" : {"_id":"906"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"78 AVENUE DE SAINT OUEN"},"location":{"lat":48.8921233,"lon":2.3273001},"nbOfRoom":4,"price":156624,"surface":48}
+{"index" : {"_id":"907"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"249 RUE DE BELLEVILLE"},"location":{"lat":48.8756939,"lon":2.3976054},"nbOfRoom":4,"price":245520,"surface":40}
+{"index" : {"_id":"908"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"52 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":256672,"surface":52}
+{"index" : {"_id":"909"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"76 AVENUE JEAN JAURES"},"location":{"lat":48.8842247,"lon":2.3760131},"nbOfRoom":4,"price":209664,"surface":64}
+{"index" : {"_id":"910"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"7 RUE MATHIS"},"location":{"lat":48.8906229,"lon":2.3763086},"nbOfRoom":4,"price":45612,"surface":28}
+{"index" : {"_id":"911"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"44 RUE DE MEAUX"},"location":{"lat":48.8809687,"lon":2.3730635},"nbOfRoom":4,"price":63080,"surface":40}
+{"index" : {"_id":"912"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"85 RUE DE L OURCQ"},"location":{"lat":48.89304131,"lon":2.3775690800000002},"nbOfRoom":4,"price":481896,"surface":72}
+{"index" : {"_id":"913"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"2 AVENUE DE LA PORTE BRUNET"},"location":{"lat":48.8832391,"lon":2.3954525},"nbOfRoom":4,"price":93900,"surface":20}
+{"index" : {"_id":"914"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"14 RUE DE THIONVILLE"},"location":{"lat":48.8900199,"lon":2.3850906},"nbOfRoom":4,"price":83468,"surface":28}
+{"index" : {"_id":"915"}}
+{"address":{"city":"PARIS 19","postalCode":"75019","street":"24 RUE MATHURIN MOREAU"},"location":{"lat":48.8784236,"lon":2.37438},"nbOfRoom":4,"price":253040,"surface":40}
+{"index" : {"_id":"916"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"20 RUE D AVRON"},"location":{"lat":48.85167025,"lon":2.40036584},"nbOfRoom":4,"price":76032,"surface":24}
+{"index" : {"_id":"917"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"38 RUE DU CAPITAINE FERBER"},"location":{"lat":48.8667312,"lon":2.406945},"nbOfRoom":4,"price":208520,"surface":52}
+{"index" : {"_id":"918"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"7 SQUARE DES CARDEURS"},"location":{"lat":48.8581863,"lon":2.4068634},"nbOfRoom":4,"price":105424,"surface":44}
+{"index" : {"_id":"919"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"96 BOULEVARD DAVOUT"},"location":{"lat":48.8640546,"lon":2.4086132},"nbOfRoom":4,"price":162260,"surface":28}
+{"index" : {"_id":"920"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"25 RUE FREDERICK LEMAITRE"},"location":{"lat":48.874420220000005,"lon":2.3928341300000002},"nbOfRoom":4,"price":58060,"surface":20}
+{"index" : {"_id":"921"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"60 AVENUE GAMBETTA"},"location":{"lat":48.8684156,"lon":2.4016849},"nbOfRoom":4,"price":301680,"surface":48}
+{"index" : {"_id":"922"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"85 RUE DE MENILMONTANT"},"location":{"lat":48.8692072,"lon":2.3919063},"nbOfRoom":4,"price":212328,"surface":72}
+{"index" : {"_id":"923"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"134 RUE DE MENILMONTANT"},"location":{"lat":48.8692072,"lon":2.3919063},"nbOfRoom":4,"price":42040,"surface":40}
+{"index" : {"_id":"924"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"48 BOULEVARD MORTIER"},"location":{"lat":48.8674561,"lon":2.4091998},"nbOfRoom":4,"price":263340,"surface":44}
+{"index" : {"_id":"925"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"2 AVENUE DE LA PORTE MONTREUIL"},"location":{"lat":48.85356992,"lon":2.4110645099999997},"nbOfRoom":4,"price":121536,"surface":64}
+{"index" : {"_id":"926"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"30 RUE DE BAGNOLET"},"location":{"lat":48.8567988,"lon":2.3973058},"nbOfRoom":4,"price":234480,"surface":40}
+{"index" : {"_id":"927"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"15 RUE BELGRAND"},"location":{"lat":48.8647612,"lon":2.4044154},"nbOfRoom":4,"price":93096,"surface":24}
+{"index" : {"_id":"928"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"38 BOULEVARD DE CHARONNE"},"location":{"lat":48.8575505,"lon":2.3921652},"nbOfRoom":4,"price":82376,"surface":28}
+{"index" : {"_id":"929"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"4 BOULEVARD DAVOUT"},"location":{"lat":48.8640546,"lon":2.4086132},"nbOfRoom":4,"price":168624,"surface":48}
+{"index" : {"_id":"930"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"2 PL GAMBETTA"},"location":{"lat":48.8652089,"lon":2.3985356},"nbOfRoom":4,"price":131424,"surface":32}
+{"index" : {"_id":"931"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"66 RUE DES PYRENEES"},"location":{"lat":48.8514871,"lon":2.4062808},"nbOfRoom":4,"price":72912,"surface":28}
+{"index" : {"_id":"932"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"119 RUE DES PYRENEES"},"location":{"lat":48.8569211,"lon":2.4043269},"nbOfRoom":4,"price":80040,"surface":20}
+{"index" : {"_id":"933"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"361 RUE DES PYRENEES"},"location":{"lat":48.8726007,"lon":2.3908658},"nbOfRoom":4,"price":172292,"surface":76}
+{"index" : {"_id":"934"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"61 RUE SAINT BLAISE"},"location":{"lat":48.8573924,"lon":2.4083014},"nbOfRoom":4,"price":105056,"surface":56}
+{"index" : {"_id":"935"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"2 PL MARTIN NADAUD"},"location":{"lat":48.8651248,"lon":2.3950499},"nbOfRoom":4,"price":69264,"surface":48}
+{"index" : {"_id":"936"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"2 PL ANDRE MALRAUX"},"location":{"lat":48.8639822,"lon":2.3355945},"nbOfRoom":4,"price":224732,"surface":76}
+{"index" : {"_id":"937"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"6 RUE DE CASTIGLIONE"},"location":{"lat":48.8656743,"lon":2.3278234},"nbOfRoom":4,"price":128640,"surface":24}
+{"index" : {"_id":"938"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"26 RUE CX DES PETITS CHAMPS"},"location":{"lat":48.86688106,"lon":2.33630061},"nbOfRoom":4,"price":220796,"surface":68}
+{"index" : {"_id":"939"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"1 RUE PIERRE LESCOT"},"location":{"lat":48.86124753,"lon":2.34786452},"nbOfRoom":4,"price":164448,"surface":72}
+{"index" : {"_id":"940"}}
+{"address":{"city":"PARIS 01","postalCode":"75001","street":"38 RUE DU LOUVRE"},"location":{"lat":48.8622106,"lon":2.3416305},"nbOfRoom":4,"price":58560,"surface":24}
+{"index" : {"_id":"941"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"16 RUE DE LA MICHODIERE"},"location":{"lat":48.8703066,"lon":2.3348742},"nbOfRoom":4,"price":413700,"surface":60}
+{"index" : {"_id":"942"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"10 RUE MONSIGNY"},"location":{"lat":48.8687845,"lon":2.3355254},"nbOfRoom":4,"price":117096,"surface":24}
+{"index" : {"_id":"943"}}
+{"address":{"city":"PARIS 02","postalCode":"75002","street":"44 RUE MONTMARTRE"},"location":{"lat":48.8649585,"lon":2.3451508},"nbOfRoom":4,"price":129960,"surface":20}
+{"index" : {"_id":"944"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"10 RUE DE BRETAGNE"},"location":{"lat":48.8624682,"lon":2.3635794},"nbOfRoom":4,"price":149328,"surface":48}
+{"index" : {"_id":"945"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"47 RUE DE BRETAGNE"},"location":{"lat":48.8632828,"lon":2.3614997},"nbOfRoom":4,"price":84240,"surface":40}
+{"index" : {"_id":"946"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"17 BOULEVARD DU TEMPLE"},"location":{"lat":48.8642141,"lon":2.3657368},"nbOfRoom":4,"price":279616,"surface":64}
+{"index" : {"_id":"947"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"191 RUE DU TEMPLE"},"location":{"lat":48.865802,"lon":2.360647},"nbOfRoom":4,"price":210480,"surface":60}
+{"index" : {"_id":"948"}}
+{"address":{"city":"PARIS 03","postalCode":"75003","street":"50 RUE DE TURENNE"},"location":{"lat":48.8582831,"lon":2.3645956},"nbOfRoom":4,"price":368828,"surface":76}
+{"index" : {"_id":"949"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"3 BOULEVARD BEAUMARCHAIS"},"location":{"lat":48.854051,"lon":2.3686163},"nbOfRoom":4,"price":314048,"surface":64}
+{"index" : {"_id":"950"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"4 RUE DU BOURG TIBOURG"},"location":{"lat":48.8567788,"lon":2.3558116},"nbOfRoom":4,"price":467024,"surface":68}
+{"index" : {"_id":"951"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"26 RUE DU PONT LOUIS PHILIPPE"},"location":{"lat":48.8559303,"lon":2.3565155},"nbOfRoom":4,"price":346624,"surface":64}
+{"index" : {"_id":"952"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"2 RUE TIRON"},"location":{"lat":48.8557182,"lon":2.3579565},"nbOfRoom":4,"price":137856,"surface":32}
+{"index" : {"_id":"953"}}
+{"address":{"city":"PARIS 04","postalCode":"75004","street":"30 RUE VIEILLE DU TEMPLE"},"location":{"lat":48.8574229,"lon":2.3575556},"nbOfRoom":4,"price":164640,"surface":48}
+{"index" : {"_id":"954"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"72 RUE CLAUDE BERNARD"},"location":{"lat":48.8404588,"lon":2.3458574},"nbOfRoom":4,"price":282240,"surface":48}
+{"index" : {"_id":"955"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"38 RUE GAY LUSSAC"},"location":{"lat":48.8439087,"lon":2.3421019},"nbOfRoom":4,"price":75276,"surface":68}
+{"index" : {"_id":"956"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"49 RUE LACEPEDE"},"location":{"lat":48.8442458,"lon":2.3500111},"nbOfRoom":4,"price":103480,"surface":52}
+{"index" : {"_id":"957"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"74 RUE MONGE"},"location":{"lat":48.8425718,"lon":2.3519846},"nbOfRoom":4,"price":33936,"surface":24}
+{"index" : {"_id":"958"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"58 BOULEVARD DE PORT ROYAL"},"location":{"lat":48.8377087,"lon":2.3460457},"nbOfRoom":4,"price":364824,"surface":72}
+{"index" : {"_id":"959"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"80 BOULEVARD DE PORT ROYAL"},"location":{"lat":48.8388965,"lon":2.3404172},"nbOfRoom":4,"price":119008,"surface":32}
+{"index" : {"_id":"960"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"100 BOULEVARD DE PORT ROYAL"},"location":{"lat":48.8396273,"lon":2.337376},"nbOfRoom":4,"price":252072,"surface":72}
+{"index" : {"_id":"961"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"17 BOULEVARD SAINT GERMAIN"},"location":{"lat":48.8493431,"lon":2.3534498},"nbOfRoom":4,"price":358332,"surface":52}
+{"index" : {"_id":"962"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"171 RUE SAINT JACQUES"},"location":{"lat":48.8457051,"lon":2.3428112},"nbOfRoom":4,"price":103680,"surface":64}
+{"index" : {"_id":"963"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"8 BOULEVARD SAINT MARCEL"},"location":{"lat":48.83988,"lon":2.3609348},"nbOfRoom":4,"price":130300,"surface":20}
+{"index" : {"_id":"964"}}
+{"address":{"city":"PARIS 05","postalCode":"75005","street":"127 BOULEVARD SAINT MICHEL"},"location":{"lat":48.8425389,"lon":2.3384129},"nbOfRoom":4,"price":289212,"surface":44}
+{"index" : {"_id":"965"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"45 RUE BONAPARTE"},"location":{"lat":48.8502584,"lon":2.3326961},"nbOfRoom":4,"price":181012,"surface":52}
+{"index" : {"_id":"966"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"19 RUE DE FLEURUS"},"location":{"lat":48.847028,"lon":2.3301688},"nbOfRoom":4,"price":129428,"surface":76}
+{"index" : {"_id":"967"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"6 RUE JACOB"},"location":{"lat":48.8547705,"lon":2.3362217},"nbOfRoom":4,"price":166232,"surface":44}
+{"index" : {"_id":"968"}}
+{"address":{"city":"PARIS 06","postalCode":"75006","street":"60 RUE DE SEINE"},"location":{"lat":48.8535929,"lon":2.3368828},"nbOfRoom":4,"price":79040,"surface":64}
+{"index" : {"_id":"969"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"41 RUE DU BAC"},"location":{"lat":48.8561283,"lon":2.3260425},"nbOfRoom":4,"price":151596,"surface":36}
+{"index" : {"_id":"970"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"49 AVENUE BOSQUET"},"location":{"lat":48.8571082,"lon":2.3045687},"nbOfRoom":4,"price":284988,"surface":44}
+{"index" : {"_id":"971"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"7 RUE DE BOURGOGNE"},"location":{"lat":48.8599028,"lon":2.3182557},"nbOfRoom":4,"price":81736,"surface":68}
+{"index" : {"_id":"972"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"67 RUE DE GRENELLE"},"location":{"lat":48.855049,"lon":2.3243931},"nbOfRoom":4,"price":363008,"surface":64}
+{"index" : {"_id":"973"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"1 RUE LAS CASES"},"location":{"lat":48.8577926,"lon":2.3222189},"nbOfRoom":4,"price":71940,"surface":60}
+{"index" : {"_id":"974"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"9 BOULEVARD RASPAIL"},"location":{"lat":48.8563382,"lon":2.325354},"nbOfRoom":4,"price":205308,"surface":36}
+{"index" : {"_id":"975"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"124 RUE SAINT DOMINIQUE"},"location":{"lat":48.8579072,"lon":2.3006755},"nbOfRoom":4,"price":123116,"surface":28}
+{"index" : {"_id":"976"}}
+{"address":{"city":"PARIS 07","postalCode":"75007","street":"76 RUE DE SEVRES"},"location":{"lat":48.8475511,"lon":2.3183826},"nbOfRoom":4,"price":212564,"surface":44}
+{"index" : {"_id":"977"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"54 RUE DE LA BIENFAISANCE"},"location":{"lat":48.87656585,"lon":2.31314913},"nbOfRoom":4,"price":41524,"surface":28}
+{"index" : {"_id":"978"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"49 AVENUE FRANKLIN D ROOSEVELT"},"location":{"lat":48.87037799,"lon":2.3100337399999997},"nbOfRoom":4,"price":148704,"surface":32}
+{"index" : {"_id":"979"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"116 BOULEVARD HAUSSMANN"},"location":{"lat":48.874859959999995,"lon":2.31921092},"nbOfRoom":4,"price":376576,"surface":64}
+{"index" : {"_id":"980"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"1 AVENUE MATIGNON"},"location":{"lat":48.86945128,"lon":2.31107444},"nbOfRoom":4,"price":121536,"surface":36}
+{"index" : {"_id":"981"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"21 RUE DE LIEGE"},"location":{"lat":48.87961853,"lon":2.32689679},"nbOfRoom":4,"price":160896,"surface":32}
+{"index" : {"_id":"982"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"51 RUE DES MATHURINS"},"location":{"lat":48.87340486,"lon":2.32271522},"nbOfRoom":4,"price":122320,"surface":20}
+{"index" : {"_id":"983"}}
+{"address":{"city":"PARIS 08","postalCode":"75008","street":"27 RUE DE MIROMESNIL"},"location":{"lat":48.87297341,"lon":2.31597368},"nbOfRoom":4,"price":234688,"surface":76}
+{"index" : {"_id":"984"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"86 RUE DE LA REUNION"},"location":{"lat":48.8544383,"lon":2.4022023},"nbOfRoom":4,"price":92700,"surface":20}
+{"index" : {"_id":"985"}}
+{"address":{"city":"PARIS 20","postalCode":"75020","street":"1 RUE STENDHAL"},"location":{"lat":48.8601531,"lon":2.4034611},"nbOfRoom":4,"price":41820,"surface":20}
+{"index" : {"_id":"986"}}
+{"address":{"city":"PARIS 16","postalCode":"75016","street":"9 AVENUE DE LA GRANDE ARMEE"},"location":{"lat":48.874483,"lon":2.29194632},"nbOfRoom":4,"price":128716,"surface":28}
+{"index" : {"_id":"987"}}
+{"address":{"city":"PARIS 18","postalCode":"75018","street":"234 RUE CHAMPIONNET"},"location":{"lat":48.8934654,"lon":2.328999},"nbOfRoom":4,"price":230004,"surface":36}
