@@ -1,5 +1,5 @@
 ### 1. Préparation de votre environnement
-Pour réaliser les différentes étapes de ce hands-on, vous avez besoin d'un ElasticSearch et d'un sense  
+Pour réaliser les différentes étapes de ce hands-on, vous avez besoin d'un ElasticSearch et d'un Sense  
  Plusieurs choix s'offrent à vous :  
 * __Choix numéro 1 : Vous avez docker sur votre machine, utiliser Elasticsearch via Docker :__  
 `docker run -p 9200:9200 -p 5601:5601 ibeauvais/elasticsearch-kibana`  
