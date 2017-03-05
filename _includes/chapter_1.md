@@ -1,11 +1,11 @@
 ### 1. Préparation de votre environnement
-Pour réaliser les différentes étapes de ce hands-on, vous avez besoin d'un ElasticSearch et d'un Sense  
+Pour réaliser les différentes étapes de ce hands-on, vous avez besoin d'un ElasticSearch et des dev tools (inclus dans kibana 5)
  Plusieurs choix s'offrent à vous :  
 * __Choix numéro 1 : Vous avez docker sur votre machine, utiliser Elasticsearch via Docker :__  
-`docker run -p 9200:9200 -p 5601:5601 ibeauvais/elasticsearch-kibana`  
+`docker run -p 9200:9200 -p 5601:5601 ibeauvais/elasticsearch-kibana:5.2`  
 
 Vous pouvez ensuite accéder à Elasticsearch sur [http://localhost:9200/](http://localhost:9200/) et
-sense sur [http://localhost:5601/app/sense](http://localhost:5601/app/sense)  
+les dev tools sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](http://localhost:5601/app/kibana#/dev_tools/console?_g=())  
 (si vous utilisez docker sur une vm ou via docker-machine remplacer localhost par l'ip de la vm)
     
 * __Choix numéro 2 : Vous avez Java sur votre machine (minimum 1.7), utiliser un Elasticsearch local (fourni via la cle USB):__  
