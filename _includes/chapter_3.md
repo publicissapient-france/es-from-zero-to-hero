@@ -21,49 +21,78 @@ Créer l'index pour recevoir les documents avec le mapping ci-dessous. Ce mappin
 __PUT__ xebia
 {% highlight json %}
 {
-    "mappings": {
-        "blog": {
-            "properties": {
-                "category": {
-                    "type": "string"
-                },
-                "content": {
-                    "type": "string"
-                },
-                "creator": {
-                    "type": "string"
-                },
-                "description": {
-                    "type": "string"
-                },
-                "pubDate": {
-                    "type": "date",
-                    "format": "strict_date_optional_time||epoch_millis"
-                },
-                "title": {
-                    "type": "string"
-                }
+  "mappings": {
+    "blog": {
+      "properties": {
+        "category": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
             }
+          }
+        },
+        "content": {
+          "type": "text",
+          "analyzer": "my_analyzer", 
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "creator": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "description": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "pubDate": {
+          "type": "date"
+        },
+        "title": {
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         }
-    },
-    "settings": {
-        "analysis": {
-            "analyzer": {
-                "my_analyzer": {
-                    "type": "custom",
-                    "tokenizer": "standard",
-                    "filter": [
-                        "lowercase"
-                    ],
-                    "char_filter": [
-                    ]
-                }
-            },
-             "filter": {},
-             "tokenizer": {},
-             "char_filter": {}
-        }
+      }
     }
+  },
+  "settings": {
+    "analysis": {
+      "analyzer": {
+        "my_analyzer": {
+          "type": "custom",
+          "tokenizer": "standard",
+          "filter": [
+            "lowercase"
+          ],
+          "char_filter": []
+        }
+      },
+      "filter": {},
+      "tokenizer": {},
+      "char_filter": {}
+    }
+  }
 }
 {% endhighlight %}
 ---
@@ -122,7 +151,7 @@ __Syntaxe du mapping avec analyzer :__
 {% highlight json %}
 {
     "{fieldName}": {
-          "type": "string",
+          "type": "text",
           "analyzer": "{analyzerName}"
      }
 }
@@ -147,24 +176,53 @@ __PUT__ xebia
     "blog": {
       "properties": {
         "category": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "content": {
-          "type": "string",
-          "analyzer": "my_analyzer"
+          "type": "text",
+          "analyzer": "my_analyzer",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "creator": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "description": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "pubDate": {
-          "type": "date",
-          "format": "strict_date_optional_time||epoch_millis"
+          "type": "date"
         },
         "title": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         }
       }
     }
@@ -179,13 +237,13 @@ __PUT__ xebia
             "lowercase"
           ],
           "char_filter": [
-            " html_strip"
+            "html_strip"
           ]
         }
       },
-        "filter": {},
-        "tokenizer": {},
-        "char_filter": {}
+      "filter": {},
+      "tokenizer": {},
+      "char_filter": {}
     }
   }
 }
@@ -221,24 +279,53 @@ __PUT__ xebia
     "blog": {
       "properties": {
         "category": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "content": {
-          "type": "string",
-          "analyzer": "my_analyzer"
+          "type": "text",
+          "analyzer": "my_analyzer",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "creator": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "description": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "pubDate": {
-          "type": "date",
-          "format": "strict_date_optional_time||epoch_millis"
+          "type": "date"
         },
         "title": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         }
       }
     }
@@ -250,16 +337,15 @@ __PUT__ xebia
           "type": "custom",
           "tokenizer": "standard",
           "filter": [
-            "lowercase",
-            "mySynonym"
+            "lowercase","my_synonym"
           ],
           "char_filter": [
-            " html_strip"
+            "html_strip"
           ]
         }
       },
       "filter": {
-        "mySynonym": {
+        "my_synonym": {
           "type": "synonym",
           "synonyms": [
             "lightbend, typesafe => lightbend, typesafe"
@@ -340,7 +426,7 @@ _
   __3.8 Requête sur plusieurs champs :__   
   En gardant la requête précédente mais sur le texte "javascript", les résultats ne sont pas assez ciblés sur le sujet. En effet, on remonte un blog très général de la revue de presse au lieu d'articles dédiés au javascript.  
   Afin de rendre le résultat plus pertinent modifier la requête précédente pour remplacer la requête de type **match** par une requête de type **multi_match** 
-  afin de pouvoir exécuter la même requête conjointement sur le champ "content" et le champ "title".    
+  afin de pouvoir exécuter la même requête conjointement sur le champ "content" et le champ "title". Cette requête **multi_match** doit être de type **most_fields** pour combiner le score des champs qui match.   
   
 
 ---
@@ -356,20 +442,21 @@ GET xebia/blog/_search
         {
           "multi_match": {
             "query": "javascript",
-            "fields": ["content","title"]
+            "fields": ["content","title"],
+            "type": "most_fields"
           }
         }
       ],
       "filter": {
         "range": {
           "pubDate": {
-            "gte": "now-2y"
+            "gte": "now-4y"
           }
         }
       }
     }
   }
-}
+} 
 {% endhighlight %}
 _
 </blockquote>
@@ -377,7 +464,7 @@ _
 __3.9 Suggestion :__   
   Nous souhaitons être capable de faire de la suggestion sur le titre des posts dès la première lettre saisie. Pour cela, vous allez utiliser l'api __Completion suggester :__    
   
-  -  Ajoutez un champ "suggest" au mapping, de type __completion__ et avec comme propriété __"payloads": true__.   
+  -  Ajoutez un champ "suggest" au mapping, de type __completion__ .   
   Ce champ va contenir le texte pour la suggestion mais sera indexé dans une structure optimisée pour faire de la recherche rapide sur du texte.  
   - Utilisez le fichier [xebiablogWithSuggest.data](data/xebiablogWithSuggest.data) pour l'indexation. Ce fichier contient les mêmes documents mais avec le champ suggest au format suivant :   
 {% highlight json %}
