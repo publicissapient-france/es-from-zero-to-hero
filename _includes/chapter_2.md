@@ -12,13 +12,15 @@ Requête __POST__ programmer/person/1
 }
 {% endhighlight %}   
   
+---    
+     
+ - **programmer** est le nom de l'index  
+ - **person** est le type de document  
+ - **1** est l'id  
+    
 ---  
-   
-- **programmer** est le nom de l'index
-- **person** est le type de document
-- **1** est l'id   
-   
-  __2.2 Retrouver le document par son id :__  
+           
+   __2.2 Retrouver le document par son id :__  
 Requête __GET__ programmer/person/1  
     
   __2.3 Indexer d'autres documents (Avec les id 2 et 3):__  
