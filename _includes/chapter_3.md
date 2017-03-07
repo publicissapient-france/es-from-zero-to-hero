@@ -644,7 +644,7 @@ __3.11 Agrégations par categories:__
             
 ---     
 
-__Attention__ : On doit remonter le texte contenu dans le champ __category__ sans analyse. Depuis Elasticsearch 5 les champs textes sont indexés par défaut avec analyse (text) et sans analyse (keyword). Pour effectuer une requête sur le champ sans analyse, elle doit porter sur le champ `<nom_du_champ>.keyword`.
+__Attention__ : On doit remonter le texte contenu dans le champ __category__ sans analyse. Depuis Elasticsearch 5, les champs textes sont indexés par défaut avec analyse (**text**) et sans analyse (**keyword**). Pour effectuer une requête sur le champ sans analyse, elle doit porter sur le champ `<nom_du_champ>.keyword`.
 L'attribut __size__ est à 0 car on ne tient pas ici à remonter les documents mais  uniquement le résultat de l'aggrégation
   
 <blockquote class = 'solution' markdown="1">
@@ -690,7 +690,7 @@ Nous voulons maintenant remonter les différents auteurs par catégories. Modifi
             
 ---     
 
-__Attention__ : Même problème que l'aggrégation précédente : une aggrégation doit se faire sur un contenu __exact__ et donc pas sur un texte analysé.
+__Attention__ : Même problème que l'aggrégation précédente : une aggrégation doit se faire sur un contenu __exact__ (keyword) et donc pas sur un texte analysé.
   
 <blockquote class = 'solution' markdown="1">
 
