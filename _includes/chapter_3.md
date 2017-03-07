@@ -464,32 +464,30 @@ _
 __3.9 Suggestion :__   
   Nous souhaitons être capable de faire de la suggestion sur le titre des posts dès la première lettre saisie. Pour cela, vous allez utiliser l'api __Completion suggester :__    
   
-  -  Ajoutez un champ "suggest" au mapping, de type __completion__ .   
-  Ce champ va contenir le texte pour la suggestion mais sera indexé dans une structure optimisée pour faire de la recherche rapide sur du texte.  
+  -  Ajoutez un champ "suggest" au mapping, de type __completion__ . Ce champ va contenir le texte pour la suggestion mais sera indexé dans une structure optimisée pour faire de la recherche rapide sur du texte.  
   - Utilisez le fichier [xebiablogWithSuggest.data](data/xebiablogWithSuggest.data) pour l'indexation. Ce fichier contient les mêmes documents mais avec le champ suggest au format suivant :   
 {% highlight json %}
   {
     "suggest": {
-            "input": ["suggest_text>"],
-            "payload": {
-                 "blogId": "<documentId>"
-            }
+            "input": ["suggest_text>"]
     }
   }
 {% endhighlight %}
 ---  
   - Effectuer une requête de type suggest   
 __Syntaxe :__
-GET xebia/_suggest
-{% highlight json %}      
+GET xebia/blog/_search
+{% highlight json %}
 {
-  "<name>":{
-    "text" : "<text_to_search>",
-        "completion" : {
-            "field" : "<suggest_field_name>"
+    "suggest": {
+        "<name>" : {
+            "prefix" : "<prefix_to_search>",
+            "completion" : {
+                "field" : "<suggest_field_name>"
+            }
+        }
     }
-  }
-}  
+}     
 {% endhighlight %}
 
 Cette requête doit pouvoir remonter les titres de recherche sur d, do, doc, dock, docke, docker. Ainsi que l'id du document correspondant. 
@@ -506,28 +504,56 @@ PUT xebia
     "blog": {
       "properties": {
         "category": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "content": {
-          "type": "string",
-          "analyzer": "my_analyzer"
+          "type": "text",
+          "analyzer": "my_analyzer",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "creator": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "description": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "pubDate": {
-          "type": "date",
-          "format": "strict_date_optional_time||epoch_millis"
+          "type": "date"
         },
         "title": {
-          "type": "string"
+          "type": "text",
+          "fields": {
+            "keyword": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "suggest": {
-          "type": "completion",
-          "payloads": true
+          "type": "completion"
         }
       }
     }
@@ -539,16 +565,15 @@ PUT xebia
           "type": "custom",
           "tokenizer": "standard",
           "filter": [
-            "lowercase",
-            "mySynonym"
+            "lowercase","my_synonym"
           ],
           "char_filter": [
-            " html_strip"
+            "html_strip"
           ]
         }
       },
       "filter": {
-        "mySynonym": {
+        "my_synonym": {
           "type": "synonym",
           "synonyms": [
             "lightbend, typesafe => lightbend, typesafe"
@@ -560,18 +585,20 @@ PUT xebia
     }
   }
 }
- {% endhighlight %}
+{% endhighlight %}
 curl -XPUT "localhost/xebia/blog/_bulk" --data-binary @xebiablogWithSuggest.data
 
-GET xebia/_suggest
+GET xebia/blog/_search
 {% highlight json %}   
 {
-  "title-suggest":{
-    "text" : "do",
-        "completion" : {
-            "field" : "suggest"
+    "suggest": {
+        "song-suggest" : {
+            "prefix" : "do",
+            "completion" : {
+                "field" : "suggest"
+            }
         }
-  }
+    }
 }
 {% endhighlight %}
 </blockquote>
@@ -579,17 +606,20 @@ GET xebia/_suggest
 __3.10 Suggestion fuzzy:__   
   Problème l'api de suggestion ne remonte pas de résultat si la personne qui effectue la recherche se trompe dans la saisie du texte.   
    Modifiez la requête de suggestion afin de pouvoir remonter les suggestions liées à Docker si l'on saisie "Doker".  
-   Pour cela, ajoutez le paramètre `"fuzzy":{}` à la requête.
+   Pour cela, ajoutez le paramètre `"fuzzy":{}` à la requête au même niveau que **field**.
 <blockquote class = 'solution' markdown="1">
+GET xebia/blog/_search
 {% highlight json %}   
 {
-  "title-suggest":{
-    "text" : "doker",
-        "completion" : {
-            "field" : "suggest",
-            "fuzzy" : { }
-        }
-  }
+    "suggest": {
+        "song-suggest" : {
+            "prefix" : "Doker",
+             "completion" : {
+                "field" : "suggest",
+                 "fuzzy":{}
+            }
+        } 
+    }
 }
 {% endhighlight %}
 </blockquote>
