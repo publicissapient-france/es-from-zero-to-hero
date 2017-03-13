@@ -47,13 +47,13 @@ __PUT__ x-immobilier
        "address": {
          "properties": {
            "city": {
-             "type": "string"
+             "type": "keyword"
            },
            "postalCode": {
-             "type": "string"
+             "type": "keyword"
            },
            "street": {
-             "type": "string"
+             "type": "text"
            }
          }
        },
@@ -138,8 +138,7 @@ GET x-immobilier/apartment/_search
       "filter": 
         {
          "geo_distance": {
-           "distance": 300,
-           "distance_unit": "m",
+           "distance": "300m",
            "location": {
              "lat": 48.876135,
              "lon": 2.344876
@@ -167,8 +166,7 @@ GET x-immobilier/apartment/_search
     "bool": {
       "filter": {
         "geo_distance": {
-          "distance": 300,
-          "distance_unit": "m",
+          "distance": "300m",
           "location": {
             "lat": 48.876135,
             "lon": 2.344876
