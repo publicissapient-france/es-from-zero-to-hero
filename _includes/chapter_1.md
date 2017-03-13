@@ -8,9 +8,9 @@ Vous pouvez ensuite accéder à Elasticsearch sur [http://localhost:9200/](http:
 les dev tools sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](http://localhost:5601/app/kibana#/dev_tools/console?_g=())  
 (si vous utilisez docker sur une vm ou via docker-machine remplacer localhost par l'ip de la vm)
     
-* __Choix numéro 2 : Vous avez Java sur votre machine (minimum 1.7), utiliser un Elasticsearch local (fourni via la cle USB):__  
-    - dézipper elasticsearch-2.4.1.zip  
-    - Démarrer le avec la commande __elasticsearch-2.4.1/bin/elasticsearch__ ou __elasticsearch-2.4.1/bin/elasticsearch.bat__ (windows)   
+* __Choix numéro 2 : Vous avez Java sur votre machine (minimum 1.8), utiliser un Elasticsearch local (fourni via la cle USB):__  
+    - dézipper elasticsearch-5.2.2.zip  
+    - Démarrer le avec la commande __elasticsearch-5.2.2/bin/elasticsearch__ ou __elasticsearch-5.2.2/bin/elasticsearch.bat__ (windows)   
 Vous pouvez ensuite accéder à Elasticsearch sur [http://localhost:9200/](http://localhost:9200/) et
 sense sur la version en ligne sur [http://kibana.xebicon.aws.xebiatechevent.info:5601/app/sense](http://kibana.xebicon.aws.xebiatechevent.info:5601/app/sense) __=> vous devez modifier le champ "Server" en localhost:9200__       
     
