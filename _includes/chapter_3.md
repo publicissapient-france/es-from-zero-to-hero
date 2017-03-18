@@ -12,8 +12,6 @@ article avec les champs suivants :
   
 ---
 
-###### Attention, pour cet partie, si vous utilisez le Elasticsearch en ligne n’oubliez pas de changer le nom d’index __‘xebia’__ en __‘votre-nom-xebia’__ ######
-
   __3.1 Création de l'index__  
 Créer l'index pour recevoir les documents avec le mapping ci-dessous. Ce mapping est équivalent au mapping par défaut généré par Elasticsearch mais sera plus facilement modifiable par la suite (Déclaration d'un premier analyzer).
  Pour créer l'index 'xebia' avec ce mapping :  

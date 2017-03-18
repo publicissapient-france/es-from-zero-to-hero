@@ -36,7 +36,6 @@ __4.1 Création de l'index__
 Créer l'index pour recevoir les documents avec le mapping ci-dessous.
 Le mapping n'aura plus besoin d'être modifié. Noter le mapping du champ location.
 
-###### Attention,  pour cette partie, si vous utilisez le Elasticsearch en ligne n'oubliez pas de changer le nom d'index __'x-immobilier'__ en __'votre-nom-x-immobilier'__ ######     
      
 __PUT__ x-immobilier
 {% highlight json %}

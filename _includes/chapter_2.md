@@ -1,6 +1,5 @@
 ### 2. Découverte de l'api
 
-###### Attention, pour cette partie, si vous utilisez le Elasticsearch en ligne n'oubliez pas de changer le nom d'index __'programmer'__ en __'votre-nom-programmer'__ ######   
 
    __2.1 Premier document indexé :__    
 Requête __POST__ programmer/person/1
