@@ -311,7 +311,7 @@ Full-Width Styles
 
 #main_content_wrap {
   background-image: linear-gradient(#057ffa,#03002e);
-
+  background-attachment: fixed;
   border-top: 1px solid #EDAF1F;
   border-bottom: 1px solid #111;
 }
