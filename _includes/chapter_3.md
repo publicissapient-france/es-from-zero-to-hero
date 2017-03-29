@@ -99,7 +99,7 @@ Pour indexer tous ces documents en une étape vous allez utiliser curl :
 
  * Télécharger le dataset [xebiablog.data](data/xebiablog.data)
  * Exécuter une requête bulk indexing :  
-  `curl -XPUT http://{host}/{indexName}/blog/_bulk --data-binary @xebiablog.data`
+  `curl -XPUT http://{host:port}/xebia/blog/_bulk --data-binary @xebiablog.data`
   
   __Vérifier que les 23 documents sont correctements indexés :__  
   __GET__ xebia/blog/_count  
@@ -246,7 +246,7 @@ __PUT__ xebia
   }
 }
 {% endhighlight %}
-__curl -XPUT "http://{host}/{indexName}/blog/_bulk" --data-binary @xebiablog.data__
+__curl -XPUT "http://{host:port}/xebia/blog/_bulk" --data-binary @xebiablog.data__
 </blockquote>
 ---  
    
@@ -356,7 +356,7 @@ __PUT__ xebia
   }
 }
 {% endhighlight %}
-__curl -XPUT "http://{host}/{indexName}/blog/_bulk" --data-binary @xebiablog.data__
+__curl -XPUT "http://{host:port}/xebia/blog/_bulk" --data-binary @xebiablog.data__
 </blockquote>
 ---
 

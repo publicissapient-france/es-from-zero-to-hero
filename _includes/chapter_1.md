@@ -18,6 +18,6 @@ les dev tools sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](ht
     - Démarrer Elasticsearch avec la commande __{elasticsearch_directory}/bin/elasticsearch__ ou __{elasticsearch_directory}/bin/elasticsearch.bat__ (windows)
     - Démarrer Kibana avec la commande __{kibana_directory}/bin/kibana__ ou __{kibana_directory}/bin/kibana.bat__ (windows)
 Vous pouvez ensuite accéder à Elasticsearch sur [http://localhost:9200/](http://localhost:9200/) et
-sense sur la version en ligne sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](http://localhost:5601/app/kibana#/dev_tools/console?_g=())       
+les dev tools sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](http://localhost:5601/app/kibana#/dev_tools/console?_g=())       
     
  ---
