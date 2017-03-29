@@ -1,0 +1,248 @@
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 222, "operationDate" : "2017-02-05T18:16", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 839, "operationDate" : "2017-01-03T22:38", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 462, "operationDate" : "2017-03-23T07:22", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 485, "operationDate" : "2017-03-18T05:28", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 902, "operationDate" : "2017-01-29T21:03", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 708, "operationDate" : "2017-01-01T14:08", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 393, "operationDate" : "2017-01-27T22:26", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 914, "operationDate" : "2017-03-31T17:18", "type" : "debit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 505, "operationDate" : "2017-01-21T17:32", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 537, "operationDate" : "2017-02-25T08:25", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 211, "operationDate" : "2017-02-25T05:34", "type" : "debit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 489, "operationDate" : "2017-01-31T22:10", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 419, "operationDate" : "2017-03-09T21:56", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 272, "operationDate" : "2017-02-19T20:32", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 288, "operationDate" : "2017-01-24T21:59", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 536, "operationDate" : "2017-01-31T13:43", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 805, "operationDate" : "2017-03-07T11:53", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 206, "operationDate" : "2017-03-18T13:35", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 735, "operationDate" : "2017-02-14T04:32", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 612, "operationDate" : "2017-03-21T22:29", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 410, "operationDate" : "2017-02-17T19:01", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 318, "operationDate" : "2017-01-11T11:26", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 561, "operationDate" : "2017-01-14T06:33", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 330, "operationDate" : "2017-02-14T10:25", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 933, "operationDate" : "2017-01-28T20:47", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 748, "operationDate" : "2017-03-13T18:49", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 991, "operationDate" : "2017-01-26T17:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 697, "operationDate" : "2017-01-16T11:19", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 701, "operationDate" : "2017-03-27T06:02", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 985, "operationDate" : "2017-01-03T19:46", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 702, "operationDate" : "2017-02-24T14:33", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 567, "operationDate" : "2017-01-06T04:10", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 206, "operationDate" : "2017-03-04T04:21", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 526, "operationDate" : "2017-02-07T05:25", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 859, "operationDate" : "2017-01-30T20:50", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 819, "operationDate" : "2017-03-11T17:46", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 283, "operationDate" : "2017-02-22T09:13", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 653, "operationDate" : "2017-02-12T11:59", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 435, "operationDate" : "2017-02-07T07:37", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 655, "operationDate" : "2017-01-27T17:03", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 670, "operationDate" : "2017-02-17T22:43", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 752, "operationDate" : "2017-01-19T19:00", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 784, "operationDate" : "2017-02-03T14:33", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 366, "operationDate" : "2017-01-26T04:32", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 580, "operationDate" : "2017-02-17T18:44", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 789, "operationDate" : "2017-03-27T05:39", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 420, "operationDate" : "2017-03-25T13:31", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 239, "operationDate" : "2017-03-18T08:19", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 867, "operationDate" : "2017-02-22T21:50", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 686, "operationDate" : "2017-03-07T13:40", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 375, "operationDate" : "2017-01-01T15:15", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 636, "operationDate" : "2017-02-26T04:58", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 575, "operationDate" : "2017-01-20T21:01", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 805, "operationDate" : "2017-03-26T18:38", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 438, "operationDate" : "2017-02-25T15:55", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 701, "operationDate" : "2017-02-12T18:58", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 776, "operationDate" : "2017-03-13T10:44", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 806, "operationDate" : "2017-01-21T18:31", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 331, "operationDate" : "2017-03-06T17:18", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 386, "operationDate" : "2017-01-06T20:43", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 607, "operationDate" : "2017-01-05T10:07", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 344, "operationDate" : "2017-03-20T07:36", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 579, "operationDate" : "2017-02-12T07:39", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 596, "operationDate" : "2017-02-04T19:48", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 258, "operationDate" : "2017-03-13T22:18", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 448, "operationDate" : "2017-02-10T15:37", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 829, "operationDate" : "2017-03-16T13:37", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 419, "operationDate" : "2017-01-15T10:34", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 525, "operationDate" : "2017-02-25T22:57", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 882, "operationDate" : "2017-01-13T07:28", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 961, "operationDate" : "2017-03-31T17:33", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 380, "operationDate" : "2017-01-04T09:29", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 911, "operationDate" : "2017-03-15T08:37", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 626, "operationDate" : "2017-02-14T12:26", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 308, "operationDate" : "2017-03-17T19:40", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 824, "operationDate" : "2017-01-17T15:40", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 359, "operationDate" : "2017-02-26T20:16", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 758, "operationDate" : "2017-03-02T19:46", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 421, "operationDate" : "2017-03-15T18:21", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 461, "operationDate" : "2017-02-28T16:07", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 209, "operationDate" : "2017-02-11T17:14", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 346, "operationDate" : "2017-01-22T08:32", "type" : "debit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 304, "operationDate" : "2017-01-27T06:43", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 233, "operationDate" : "2017-03-31T07:31", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 425, "operationDate" : "2017-01-17T04:48", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 243, "operationDate" : "2017-01-08T09:14", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 453, "operationDate" : "2017-03-30T13:30", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 558, "operationDate" : "2017-03-24T14:43", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 962, "operationDate" : "2017-02-05T09:15", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 267, "operationDate" : "2017-03-20T06:58", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 865, "operationDate" : "2017-01-27T22:19", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 491, "operationDate" : "2017-03-18T04:27", "type" : "credit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 909, "operationDate" : "2017-01-02T11:39", "type" : "credit"}
+{ "index" : {} }
+{"userId": "thierry.fournier", "amount" : 534, "operationDate" : "2017-02-06T16:06", "type" : "credit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 971, "operationDate" : "2017-02-21T13:02", "type" : "debit"}
+{ "index" : {} }
+{"userId": "richard.serge", "amount" : 890, "operationDate" : "2017-03-08T22:25", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 282, "operationDate" : "2017-01-01T08:43", "type" : "debit"}
+{ "index" : {} }
+{"userId": "francoise.leroy", "amount" : 246, "operationDate" : "2017-02-09T12:01", "type" : "credit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 595, "operationDate" : "2017-03-06T20:02", "type" : "debit"}
+{ "index" : {} }
+{"userId": "petit.julien", "amount" : 384, "operationDate" : "2017-01-10T20:57", "type" : "debit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T09:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T10:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T11:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T12:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T13:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T14:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T15:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T16:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T17:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T18:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T19:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T20:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T09:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T10:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T11:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T12:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T13:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T14:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T15:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T16:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T17:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T18:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T19:56", "type" : "credit"}
+{ "index" : {} }
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T20:56", "type" : "credit"}
