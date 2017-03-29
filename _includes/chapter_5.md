@@ -15,7 +15,12 @@ Voici un exemple :
   "operationDate": "2017-03-31T17:18",
   "type": "debit",
   "userId": "richard.serge"
-}{% endhighlight %}
+}{% endhighlight %}  
+
+
+L'objectif de ce chapitre est de construire pas à pas des requêtes d'agrégations complexe afin de 
+pouvoir extraire de l'information de ces opérations.
+
 ---
 __4.1 Indexer les documents__  
 Pour indexer tous ces documents en une étape vous allez utiliser curl :  
@@ -62,6 +67,46 @@ GET bank-account/operation/_search
 {% highlight json %}   
 {
   "size": 0,
+  "aggregations": {
+    "by_month": {
+      "date_histogram": {
+        "field": "operationDate",
+        "interval": "month"
+      },
+      "aggregations": {
+        "by_user_id": {
+          "terms": {
+            "field": "userId.keyword"
+          }
+        }
+      }
+    }
+  }
+}
+{% endhighlight %}
+</blockquote>
+
+---    
+__4.3 Filtre sur agrégation : agréger uniquement les crédits__  
+L'objectif est de construire une requête permetant de détecter des montants trop important reçus. Il ne faut donc 
+garder que les opérations dont le type est **credit**.  
+Ajouter à l'agrégation précédente une **query** avec un filtre sur ce champ afin de remonter les débits par mois pour chaques comptes.
+
+<blockquote class = 'solution' markdown="1">
+
+GET bank-account/operation/_search
+{% highlight json %}   
+{
+  "size": 0,
+  "query": {
+    "bool": {
+      "filter": {
+        "term": {
+          "type.keyword": "credit"
+        }
+      }
+    }
+  },
   "aggregations": {
     "by_month": {
       "date_histogram": {
