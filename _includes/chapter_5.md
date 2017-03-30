@@ -126,4 +126,127 @@ GET bank-account/operation/_search
 {% endhighlight %}
 </blockquote>
 
----    
+--- 
+__4.4 Sum agregation : Crédit total par mois et par compte (userId)__  
+L'agrégation précédente permet de remonter le nombre d'opération de crédit par mois pour chaque userId. Ajouter à cette agrégation une sous-agrégation
+de type **sum** afin de remonter la somme de tous les montants par mois et par compte.    
+
+<blockquote class = 'solution' markdown="1">
+
+GET bank-account/operation/_search
+{% highlight json %}   
+{
+  "size": 0,
+  "query": {
+    "bool": {
+      "filter": {
+        "term": {
+          "type.keyword": "credit"
+        }
+      }
+    }
+  },
+  "aggregations": {
+    "by_month": {
+      "date_histogram": {
+        "field": "operationDate",
+        "interval": "month"
+      },
+      "aggregations": {
+        "by_user_id": {
+          "terms": {
+            "field": "userId.keyword"
+          }
+          ,"aggregations": {
+            "amount_sum": {
+              "sum": {
+                "field": "amount"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+{% endhighlight %}
+</blockquote>
+
+--- 
+__4.5 Pipeline bucket selector agregation : Ne remonter que certaines agrégations__  
+La requête précédente remonte un grand nombre de résultat. Hors nous souhaitons pouvoir remonter uniquement les agrégations dont la somme par mois et par compte
+est supérieur à 8000 euros.  
+Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** de type **bucket_selector**.  
+   __Exemple  de bucket selector agrégation pour remonter les buckets contenant un prix égal à 1000:__  
+{% highlight json %}      
+ {
+  ...
+   "aggregations" : {
+     "by_price" :{
+       "sum": {
+         "field": "price"
+       },
+       "my_pipeline_aggregation_selector" :{
+         "bucket_selector" : {
+           "buckets_path": {
+             "by_price": "my_var"
+           },
+           "script": "params.myVar = 1000"
+         }
+       }
+     }
+   }
+ }
+ {% endhighlight %}  
+ 
+ 
+<blockquote class = 'solution' markdown="1">
+
+GET bank-account/operation/_search
+{% highlight json %}   
+{
+  "size": 0,
+  "query": {
+    "bool": {
+      "filter": {
+        "term": {
+          "type.keyword": "credit"
+        }
+      }
+    }
+  },
+  "aggregations": {
+    "by_month": {
+      "date_histogram": {
+        "field": "operationDate",
+        "interval": "month"
+      },
+      "aggregations": {
+        "by_user_id": {
+          "terms": {
+            "field": "userId.keyword"
+          },
+          "aggregations": {
+            "amount_sum": {
+              "sum": {
+                "field": "amount"
+              }
+            },
+            "sum_selector": {
+              "bucket_selector": {
+                "buckets_path": {
+                  "amount_sum": "amount_sum"
+                },
+                "script": "params.amount_sum > 8000"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+{% endhighlight %}
+</blockquote>
+
+---         
