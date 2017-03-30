@@ -1,4 +1,4 @@
-### 4. Analyse d'opérations bancaires
+### 5. Analyse d'opérations bancaires
 
 Vous travaillez actuelement sur l'application de gestion des comptes bancaires de la banque X-Banque. 
 Les mouvements sont indexés dans Elasticsearch avec le format suivant  : 
@@ -22,7 +22,7 @@ L'objectif de ce chapitre est de construire pas à pas des requêtes d'agrégati
 pouvoir extraire de l'information de ces opérations.
 
 ---
-__4.1 Indexer les documents__  
+__5.1 Indexer les documents__  
 Pour indexer tous ces documents en une étape vous allez utiliser curl :  
 
  * Télécharger le dataset [operations.data](data/operations.data)
@@ -33,7 +33,7 @@ Pour indexer tous ces documents en une étape vous allez utiliser curl :
  __GET__ bank-account/_count
    
 ---                                     
-__4.2 Simple agrégation : Opérations par mois__  
+__5.2 Simple agrégation : Opérations par mois__  
 Afin de remonter le nombre d'opérations par mois, écrire de même que pour l'exercice 3.11, une agrégation mais cette fois 
 de type **date_histogram**.  
 **Aider vous de l'auto-complétion des devs tools pour déterminer les paramètres de cette agrégation.**
@@ -57,7 +57,7 @@ GET bank-account/operation/_search
 </blockquote>
 
 ---    
-__4.2 Sous agrégation : opérations par mois et par userId__  
+__5.3 Sous agrégation : opérations par mois et par userId__  
 Afin de remonter les opérations par mois de chaque compte (userId), ajouter à l'agrégation précédente une sous-agrégation (format exercice 3.12) de type **term** qui cible 
 la valeur "non analysée" du champ userId.
 
@@ -87,7 +87,7 @@ GET bank-account/operation/_search
 </blockquote>
 
 ---    
-__4.3 Filtre sur agrégation : agréger uniquement les crédits__  
+__5.4 Filtre sur agrégation : agréger uniquement les crédits__  
 L'objectif est de construire une requête permetant de détecter des montants trop important reçus. Il ne faut donc 
 garder que les opérations dont le type est **credit**.  
 Ajouter à l'agrégation précédente une **query** avec un filtre sur ce champ afin de remonter les débits par mois pour chaques comptes.
@@ -127,7 +127,7 @@ GET bank-account/operation/_search
 </blockquote>
 
 --- 
-__4.4 Sum agregation : Crédit total par mois et par compte (userId)__  
+__5.5 Sum agregation : Crédit total par mois et par compte (userId)__  
 L'agrégation précédente permet de remonter le nombre d'opération de crédit par mois pour chaque userId. Ajouter à cette agrégation une sous-agrégation
 de type **sum** afin de remonter la somme de tous les montants par mois et par compte.    
 
@@ -173,7 +173,7 @@ GET bank-account/operation/_search
 </blockquote>
 
 --- 
-__4.5 Pipeline bucket selector agregation : Ne remonter que certaines agrégations__  
+__5.6 Pipeline bucket selector agregation : Ne remonter que certaines agrégations__  
 La requête précédente remonte un grand nombre de résultat. Hors nous souhaitons pouvoir remonter uniquement les agrégations dont la somme par mois et par compte
 est supérieur à 8000 euros.  
 Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** de type **bucket_selector**.  
