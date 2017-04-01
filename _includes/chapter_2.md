@@ -2,7 +2,8 @@
 
 
    __2.1 Premier document indexé :__    
-Requête __POST__ programmer/person/1
+Requête  
+__POST__ programmer/person/1
 {% highlight json %}
 {
     "name": "Lovelace",
@@ -20,7 +21,8 @@ Requête __POST__ programmer/person/1
 ---  
            
    __2.2 Retrouver le document par son id :__  
-Requête __GET__ programmer/person/1  
+Requête  
+__GET__ programmer/person/1  
     
   __2.3 Indexer d'autres documents (Avec les id 2 et 3):__  
 {% highlight json %}
