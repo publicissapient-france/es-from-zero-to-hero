@@ -185,8 +185,9 @@ Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** 
      "by_price" :{
        "sum": {
          "field": "price"
-       },
-       "my_pipeline_aggregation_selector" :{
+       }
+     },
+      "my_pipeline_aggregation_selector" :{
          "bucket_selector" : {
            "buckets_path": {
              "by_price": "my_var"
@@ -194,7 +195,6 @@ Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** 
            "script": "params.myVar = 1000"
          }
        }
-     }
    }
  }
  {% endhighlight %}  
