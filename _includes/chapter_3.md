@@ -143,7 +143,7 @@ Conclusion : Les caractères html font "matcher" les termes "full" et "text" à 
 </blockquote>
 ---
   __3.5 Pour résoudre le problème précédent, changer l'analyzer du champ 'content' afin de supprimer les caractères html :__  
-Pour cela modifier le mapping afin d'utiliser le char filter __html_strip__ dans le 'custom analyzer' __my_analyzer__ et déclarer le champ __'content'__ comme utilisant cet analyzer.  
+Pour cela modifier le mapping afin d'utiliser le char_filter __html_strip__ dans le 'custom analyzer' __my_analyzer__ et déclarer le champ __'content'__ comme utilisant cet analyzer.  
 __Syntaxe du mapping avec analyzer :__ 
 {% highlight json %}
 {
