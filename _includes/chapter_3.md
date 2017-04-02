@@ -33,7 +33,6 @@ __PUT__ xebia
         },
         "content": {
           "type": "text",
-          "analyzer": "my_analyzer", 
           "fields": {
             "keyword": {
               "type": "keyword",
