@@ -34,7 +34,7 @@ Pour indexer tous ces documents en une étape vous allez utiliser curl :
    
 ---                                     
 __5.2 Simple agrégation : Opérations par mois__  
-Afin de remonter le nombre d'opérations par mois, écrire de même que pour l'exercice 3.11, une agrégation mais cette fois 
+Afin de remonter le nombre d'opérations par mois, écrire de même que pour l'exercice [3.11](#3.11), une agrégation mais cette fois 
 de type **date_histogram**.  
 **Aider vous de l'auto-complétion des devs tools pour déterminer les paramètres de cette agrégation.**
 

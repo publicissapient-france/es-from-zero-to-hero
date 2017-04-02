@@ -621,7 +621,7 @@ GET xebia/blog/_search
 {% endhighlight %}
 </blockquote>
 ---
-__3.11 Agrégations par categories:__   
+__3.11 Agrégations par categories:<a name="3.11"></a>__   
   Nous souhaitons maintenant ramener toutes les catégories possibles pour un blog.  
   Pour cela utilisez une aggrégations de type __terms__.
 
