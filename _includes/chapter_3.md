@@ -487,7 +487,7 @@ GET xebia/blog/_search
 }     
 {% endhighlight %}
 
-Cette requête doit pouvoir remonter les titres de recherche sur d, do, doc, dock, docke, docker. Ainsi que l'id du document correspondant. 
+Cette requête doit pouvoir remonter documents dont le titre match sur d, do, doc, dock, docke, docker (auto-completion).  
 
 ---
 
