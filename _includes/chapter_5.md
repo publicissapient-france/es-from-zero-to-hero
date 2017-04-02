@@ -44,7 +44,7 @@ GET bank-account/operation/_search
 {% highlight json %}   
 {
   "size": 0,
-  "aggregations": {
+  "aggs": {
     "by_month": {
       "date_histogram": {
         "field": "operationDate",
@@ -67,13 +67,13 @@ GET bank-account/operation/_search
 {% highlight json %}   
 {
   "size": 0,
-  "aggregations": {
+  "aggs": {
     "by_month": {
       "date_histogram": {
         "field": "operationDate",
         "interval": "month"
       },
-      "aggregations": {
+      "aggs": {
         "by_user_id": {
           "terms": {
             "field": "userId.keyword"
@@ -107,13 +107,13 @@ GET bank-account/operation/_search
       }
     }
   },
-  "aggregations": {
+  "aggs": {
     "by_month": {
       "date_histogram": {
         "field": "operationDate",
         "interval": "month"
       },
-      "aggregations": {
+      "aggs": {
         "by_user_id": {
           "terms": {
             "field": "userId.keyword"
@@ -146,18 +146,18 @@ GET bank-account/operation/_search
       }
     }
   },
-  "aggregations": {
+  "aggs": {
     "by_month": {
       "date_histogram": {
         "field": "operationDate",
         "interval": "month"
       },
-      "aggregations": {
+      "aggs": {
         "by_user_id": {
           "terms": {
             "field": "userId.keyword"
           }
-          ,"aggregations": {
+          ,"aggs": {
             "amount_sum": {
               "sum": {
                 "field": "amount"
@@ -175,13 +175,13 @@ GET bank-account/operation/_search
 --- 
 __5.6 Pipeline bucket selector agregation : Ne remonter que certaines agrégations__  
 La requête précédente remonte un grand nombre de résultat. Hors nous souhaitons pouvoir remonter uniquement les agrégations dont la somme par mois et par compte
-est supérieur à 8000 euros.  
+est supérieur à 5000 euros.  
 Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** de type **bucket_selector**.  
    __Exemple  de bucket selector agrégation pour remonter les buckets contenant un prix égal à 1000:__  
 {% highlight json %}      
  {
   ...
-   "aggregations" : {
+   "aggs" : {
      "by_price" :{
        "sum": {
          "field": "price"
@@ -215,18 +215,18 @@ GET bank-account/operation/_search
       }
     }
   },
-  "aggregations": {
+  "aggs": {
     "by_month": {
       "date_histogram": {
         "field": "operationDate",
         "interval": "month"
       },
-      "aggregations": {
+      "aggs": {
         "by_user_id": {
           "terms": {
             "field": "userId.keyword"
           },
-          "aggregations": {
+          "aggs": {
             "amount_sum": {
               "sum": {
                 "field": "amount"
@@ -237,7 +237,7 @@ GET bank-account/operation/_search
                 "buckets_path": {
                   "amount_sum": "amount_sum"
                 },
-                "script": "params.amount_sum > 8000"
+                "script": "params.amount_sum > 5000"
               }
             }
           }

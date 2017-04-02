@@ -199,50 +199,50 @@
 { "index" : {} }
 {"userId": "petit.julien", "amount" : 384, "operationDate" : "2017-01-10T20:57", "type" : "debit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T09:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T09:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T10:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T10:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T11:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T11:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T12:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T12:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T13:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T13:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T14:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-26T14:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T15:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-26T15:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T16:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-26T16:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T17:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-26T17:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T18:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T18:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-26T19:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-26T19:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-26T20:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-26T20:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T09:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T09:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T10:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T10:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T11:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T11:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T12:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-27T12:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T13:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T13:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T14:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T14:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T15:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T15:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T16:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-27T16:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T17:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-27T17:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T18:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T18:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-01-27T19:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 100, "operationDate" : "2017-03-27T19:56", "type" : "credit"}
 { "index" : {} }
-{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-01-27T20:56", "type" : "credit"}
+{"userId": "dominique.lefebvre", "amount" : 300, "operationDate" : "2017-03-27T20:56", "type" : "credit"}

@@ -629,7 +629,7 @@ __3.11 Agrégations par categories:<a name="3.11"></a>__
   GET xebia/blog/_search
   {% highlight json %}      
   { "size": 0, 
-    "aggregations": {
+    "aggs": {
       "<aggregation_name>": {
         "<aggregation_type>": {
           "field": "<field_name>"
@@ -648,7 +648,7 @@ L'attribut __size__ est à 0 car on ne tient pas ici à remonter les documents m
 GET xebia/blog/_search
 {% highlight json %}
 { "size": 0, 
-  "aggregations": {
+  "aggs": {
     "by_category": {
       "terms": {
         "field": "category.keyword",
@@ -668,12 +668,12 @@ Nous voulons maintenant remonter les différents auteurs par catégories. Modifi
   {% highlight json %}      
 {
   "size": 0,
-  "aggregations" : {
+  "aggs" : {
     "<parent_aggregation_name>" :{
       "<parent_aggregation_type>": {
         "field": "<field_name>"
       },
-      "aggregations" :{
+      "aggs" :{
         "<child_aggregation_name>" : {
           "child_aggregation_type>": {
             "field": "<field_name>"
@@ -695,13 +695,13 @@ GET xebia/blog/_search
 {% highlight json %}   
 {
   "size": 0,
-  "aggregations" : {
+  "aggs" : {
     "by_categories" :{
       "terms": {
         "field": "category.keyword",
         "size": 10
       },
-      "aggregations" :{
+      "aggs" :{
         "by_creator" : {
           "terms": {
             "field": "creator.keyword",
