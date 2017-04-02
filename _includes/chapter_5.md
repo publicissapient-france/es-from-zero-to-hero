@@ -58,7 +58,7 @@ GET bank-account/operation/_search
 
 ---    
 __5.3 Sous agrégation : opérations par mois et par userId__  
-Afin de remonter les opérations par mois de chaque compte (userId), ajouter à l'agrégation précédente une sous-agrégation (format exercice 3.12) de type **term** qui cible 
+Afin de remonter les opérations par mois de chaque compte (userId), ajouter à l'agrégation précédente une sous-agrégation (format exercice [3.12](#3.12)) de type **term** qui cible 
 la valeur "non analysée" du champ userId.
 
 <blockquote class = 'solution' markdown="1">

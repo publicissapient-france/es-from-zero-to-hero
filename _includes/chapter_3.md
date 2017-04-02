@@ -660,7 +660,7 @@ GET xebia/blog/_search
 {% endhighlight %}
 </blockquote>
 ---   
-__3.12 Agrégations auteurs par catégories:__   
+__3.12 Agrégations auteurs par catégories:<a name="3.12"></a>__   
 Nous voulons maintenant remonter les différents auteurs par catégories. Modifier la requête précédente pour ajouter une sous agrégations à l'agrégation par catégories:   
 
   __Syntaxe pour ajouter une sous-agrégation:__  
