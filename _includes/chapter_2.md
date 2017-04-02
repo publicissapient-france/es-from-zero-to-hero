@@ -44,7 +44,7 @@ __GET__ programmer/person/1
   __2.4 Recherche sans critère :__  
 __GET__ programmer/person/_search
 
-  __2.5 Recherche full text :__  
+  __2.5 Recherche full text <a name="2.5"></a>:__  
 __GET__ programmer/person/_search
 {% highlight json %}
 {

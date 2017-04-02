@@ -109,7 +109,7 @@ Le fichier __xebiablog.data__ contient l'ensemble des documents à indexer au fo
 {"title":"Scrum pour la Recherche","pubDate":"2016-09-19T13:39:42"  ...}        
 [...]  
 
-  __3.3 En vous inspirant de l'exercice 2.5, écrire une requête qui permet de remonter les articles dont <u>le contenu</u> parle de "kodo kojo"__
+  __3.3 En vous inspirant de l'exercice [2.5](#2.5), écrire une requête qui permet de remonter les articles dont <u>le contenu</u> parle de "kodo kojo"__
 <blockquote class = 'solution' markdown="1">
 __GET__ xebia/blog/_search
 {% highlight json %}
