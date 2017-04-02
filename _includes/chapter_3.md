@@ -466,7 +466,7 @@ __3.9 Suggestion :__
 {% highlight json %}
   {
     "suggest": {
-            "input": ["suggest_text>"]
+            "input": ["<suggest_text>"]
     }
   }
 {% endhighlight %}
