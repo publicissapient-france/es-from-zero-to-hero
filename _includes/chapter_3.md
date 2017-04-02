@@ -345,7 +345,7 @@ __PUT__ xebia
         "my_synonym": {
           "type": "synonym",
           "synonyms": [
-            "lightbend, typesafe => lightbend, typesafe"
+            "lightbend, typesafe => lightbend"
           ]
         }
       },
