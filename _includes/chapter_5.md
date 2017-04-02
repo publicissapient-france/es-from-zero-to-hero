@@ -90,7 +90,7 @@ GET bank-account/operation/_search
 __5.4 Filtre sur agrégation : agréger uniquement les crédits__  
 L'objectif est de construire une requête permetant de détecter des montants trop important reçus. Il ne faut donc 
 garder que les opérations dont le type est **credit**.  
-Ajouter à l'agrégation précédente une **query** avec un filtre sur ce champ afin de remonter les débits par mois pour chaques comptes.
+Ajouter à l'agrégation précédente une **query** avec un filtre sur ce champ afin de remonter les débits par compte et par mois.
 
 <blockquote class = 'solution' markdown="1">
 
