@@ -621,7 +621,7 @@ GET xebia/blog/_search
 {% endhighlight %}
 </blockquote>
 ---
-__3.11 Agrégations par categories:<a name="3.11"></a>__   
+__3.11 Agrégation par categories:<a name="3.11"></a>__   
   Nous souhaitons maintenant ramener toutes les catégories possibles pour un blog.  
   Pour cela utilisez une aggrégations de type __terms__.
 
@@ -660,8 +660,8 @@ GET xebia/blog/_search
 {% endhighlight %}
 </blockquote>
 ---   
-__3.12 Agrégations auteurs par catégories:<a name="3.12"></a>__   
-Nous voulons maintenant remonter les différents auteurs par catégories. Modifier la requête précédente pour ajouter une sous agrégations à l'agrégation par catégories:   
+__3.12 Agrégation auteurs par catégories:<a name="3.12"></a>__   
+Nous voulons maintenant remonter les différents auteurs par catégories. Modifier la requête précédente pour ajouter une sous agrégation à l'agrégation par catégories:   
 
   __Syntaxe pour ajouter une sous-agrégation:__  
   GET xebia/blog/_search
