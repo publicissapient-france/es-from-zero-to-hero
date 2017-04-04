@@ -1,5 +1,5 @@
 ### 3. Recherche d'article de blog
-Vous disposez un jeu de données à indexer dans Elasticsearch contenant les articles du blog de Xebia. Vous allez
+Vous disposez un jeu de données à indexer dans ElasticSearch contenant les articles du blog de Xebia. Vous allez
 devoir réaliser plusieurs étapes afin d'implémenter la recherche de ces articles. Un document représente un
 article avec les champs suivants : 
 
