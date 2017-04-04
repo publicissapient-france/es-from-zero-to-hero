@@ -5,7 +5,7 @@ Pour réaliser les différentes étapes de ce hands-on, vous avez besoin d'un El
   Pour gagner du temps sur le téléchargement de l'image vous pouvez récupérer l'image docker sur la clef dans *docker/* et la charger avec la commande suivante :  
   `docker load < elasticsearch-kibana.tar`   
   Pour lancer les applications :  
-`docker run -p 9200:9200 -p 5601:5601 ibeauvais/elasticsearch-kibana:latest`  
+`docker run -p 9200:9200 -p 5601:5601 ibeauvais/elasticsearch-kibana:5.2`  
 
 Vous pouvez ensuite accéder à ElasticSearch sur [http://localhost:9200/](http://localhost:9200/) et
 les dev tools sur [http://localhost:5601/app/kibana#/dev_tools/console?_g=()](http://localhost:5601/app/kibana#/dev_tools/console?_g=())  
