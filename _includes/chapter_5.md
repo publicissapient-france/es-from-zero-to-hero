@@ -1,7 +1,7 @@
 ### 5. Analyse d'opérations bancaires
 
-Vous travaillez actuelement sur l'application de gestion des comptes bancaires de la banque X-Banque. 
-Les mouvements sont indexés dans Elasticsearch avec le format suivant  : 
+Vous travaillez actuellement sur l'application de gestion des comptes bancaires de la banque X-Banque. 
+Les mouvements sont indexés dans ElasticSearch avec le format suivant  : 
 
 * __amount__ : Le montant de l'opération
 * __operationDate__ : Date/heure de l'opération
@@ -18,7 +18,7 @@ Voici un exemple :
 }{% endhighlight %}  
 
 
-L'objectif de ce chapitre est de construire pas à pas des requêtes d'agrégations complexe afin de 
+L'objectif de ce chapitre est de construire pas à pas des requêtes d'agrégations complexes afin de 
 pouvoir extraire de l'information de ces opérations.
 
 ---
@@ -88,7 +88,7 @@ GET bank-account/operation/_search
 
 ---    
 __5.4 Filtre sur agrégation : agréger uniquement les crédits__  
-L'objectif est de construire une requête permetant de détecter des montants trop important reçus. Il ne faut donc 
+L'objectif est de construire une requête permettant de détecter des montants trop importants reçus. Il ne faut donc 
 garder que les opérations dont le type est **credit**.  
 Ajouter à l'agrégation précédente une **query** avec un filtre sur ce champ afin de remonter les débits par compte et par mois.
 
@@ -174,7 +174,7 @@ GET bank-account/operation/_search
 
 --- 
 __5.6 Pipeline bucket selector agregation : Ne remonter que certaines agrégations__  
-La requête précédente remonte un grand nombre de résultat. Hors nous souhaitons pouvoir remonter uniquement les agrégations dont la somme par mois et par compte
+La requête précédente remonte un grand nombre de résultats. Hors nous souhaitons pouvoir remonter uniquement les agrégations dont la somme par mois et par compte
 est supérieur à 5000 euros.  
 Pour cela ajouter à la dernière sous-agrégation une **pipeline agrégation** de type **bucket_selector**.  
    __Exemple  de bucket selector agrégation pour remonter les buckets contenant un prix égal à 1000:__  
